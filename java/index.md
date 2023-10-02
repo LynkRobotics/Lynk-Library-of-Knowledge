@@ -3,4 +3,4 @@
 - [Syntax]()
 - [Variables / Data Types]()
 - [Operators]()
-- [Math](https://github.com/LynkRobotics/LynkRobotics.github.io/blob/main/java/content/javaMath.md)
+- [Math](https://lynkrobotics.github.io/java/content/javaMath.md)
