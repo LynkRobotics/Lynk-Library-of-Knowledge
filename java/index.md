@@ -1,6 +1,6 @@
 # Java Index
-- [Variables]()
-- [Syntax]()
-- [Variables / Data Types]()
-- [Operators]()
+- [Variables](./javaVariables.md)
+- [Syntax](./javaSyntax.md)
+- [Data Types](./javaDataTypes.md)
+- [Operators](./javaOperators.md)
 - [Math](./javaMath.md)
