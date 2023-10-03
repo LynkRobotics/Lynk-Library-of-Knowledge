@@ -4,6 +4,6 @@ This is where basic to more advanced knowledge will be housed. </br>
 - [Java (Work in progress)](https://lynkrobotics.github.io/java/)
 - [Software Installation(TODO)](https://lynkrobotics.github.io/software/)
 - [Git/GitHub (TODO)](https://lynkrobotics.github.io/git/)
-- [Control Theory(TODO)]()
-- [Mechanism Examples / Templates(TODO)](https://lynkrobotics.github.io/controlTheory/)
+- [Control Theory(TODO)](https://lynkrobotics.github.io/controlTheory/)
+- [Mechanism Examples / Templates(TODO)](https://lynkrobotics.github.io/mechanisms/)
 - [Whitepapers(TODO)](https://lynkrobotics.github.io/whitepapers/)
