@@ -9,3 +9,4 @@ This is where basic to more advanced knowledge from different sources will be ho
 - [Auto](https://lynkrobotics.github.io/auto/)
 - [Whitepapers](https://lynkrobotics.github.io/whitepapers/) 
 - [Libraries](https://lynkrobotics.github.io/libraries/) 
+- [Glossary](https://lynkrobotics.github.io/glossary/)
