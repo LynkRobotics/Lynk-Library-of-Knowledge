@@ -1,9 +1,10 @@
-# Welcome to Lynk Library of Knowledge (LLK) </br>
-This is where basic to more advanced knowledge will be housed. </br>
+# Welcome to Lynk Library of Knowledge (LLK) 
+This is where basic to more advanced knowledge will be housed.
 
-- [Java (Work in progress)](https://lynkrobotics.github.io/java/)
-- [Software Installation(TODO)](https://lynkrobotics.github.io/software/)
-- [Git/GitHub (TODO)](https://lynkrobotics.github.io/git/)
-- [Control Theory(TODO)](https://lynkrobotics.github.io/controlTheory/)
-- [Mechanism Examples / Templates(TODO)](https://lynkrobotics.github.io/mechanisms/)
-- [Whitepapers(TODO)](https://lynkrobotics.github.io/whitepapers/)
+- [Java](https://lynkrobotics.github.io/java/) todo
+- [Software Installation](https://lynkrobotics.github.io/software/) todo
+- [Git/GitHub](https://lynkrobotics.github.io/git/) todo
+- [Control Theory](https://lynkrobotics.github.io/controlTheory/) todo
+- [Mechanism Examples / Templates](https://lynkrobotics.github.io/mechanisms/) todo
+- [Whitepapers](https://lynkrobotics.github.io/whitepapers/) todo
+- [Libraries](https://lynkrobotics.github.io/libraries/) todo
