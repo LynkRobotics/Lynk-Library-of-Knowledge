@@ -9,16 +9,16 @@
 
 <br>
 
-- Assign – to set the data of a variable (involves the equal sign).
-- Class - A class describes a particular kind of object. It can contain related methods and data members (variables). A class must have the same name as the file it is contained in.
-- Constructor - A special type of instance method that creates a new object. In Java, constructors have the same name as their class and have no return value in their declaration.
-- Declaration - A statement that creates a variable, method, or class identifier and its associated attributes but doesn't necessarily allocate storage for variables or define an implementation for methods. Classes are always defined when they are declared, i.e., a class cannot be declared and then have its body defined elsewhere.
-- Definition – Similar to a declaration except that it also reserves storage (for variables) or provides implementations (for methods).
-- Garbage Collection – Programs require memory to run. Memory for objects is allocated by the keyword new. When objects are no longer used or your program terminates, Java automatically frees the used memory for other uses.
-- Instantiate – To allocate storage for an object in memory (involves the keyword new).
-- Object - The principal code building block of Java programs. Each object in a program consists of both variables (data) and methods (functionality).
-- Primitive – A variable defined with a primitive data type: ````byte````, ````short````, ````int````, ````long````, ````float````, ````double````, ````char````, or ````boolean````.
-- Use/Read – the use of a variable in the right hand side of an assignment statement.
+- ````Assign```` – to set the data of a variable (involves the equal sign).
+- ````Class```` - A class describes a particular kind of object. It can contain related methods and data members (variables). A class must have the same name as the file it is contained in.
+- ````Constructor```` - A special type of instance method that creates a new object. In Java, constructors have the same name as their class and have no return value in their declaration.
+- ````Declaration```` - A statement that creates a variable, method, or class identifier and its associated attributes but doesn't necessarily allocate storage for variables or define an implementation for methods. Classes are always defined when they are declared, i.e., a class cannot be declared and then have its body defined elsewhere.
+- ````Definition```` – Similar to a declaration except that it also reserves storage (for variables) or provides implementations (for methods).
+- ````Garbage Collection```` – Programs require memory to run. Memory for objects is allocated by the keyword new. When objects are no longer used or your program terminates, Java automatically frees the used memory for other uses.
+- ````Instantiate```` – To allocate storage for an object in memory (involves the keyword new).
+- ````Object```` - The principal code building block of Java programs. Each object in a program consists of both variables (data) and methods (functionality).
+- ````Primitive```` – A variable defined with a primitive data type: ````byte````, ````short````, ````int````, ````long````, ````float````, ````double````, ````char````, or ````boolean````.
+- ````Use/Read```` – the use of a variable in the right hand side of an assignment statement.
 
 <br>
 
