@@ -7,4 +7,4 @@
 ## Index of Control Theory
 - [Control Loops](./controlLoops.md)
 - [PID](./pid.md)
-- [FeedForward]() todo
+- [FeedForward](./feedforward.md)
