@@ -1,6 +1,3 @@
-# Java Index
-- [Variables]()
-- [Syntax]()
-- [Data Types]()
-- [Operators]()
-- [Math](https://www.w3schools.com/java/java_math.asp)
+# Java Resources
+- [W3Schools](https://www.w3schools.com/java/)
+- [Codecademy](https://www.codecademy.com/learn/learn-java)
