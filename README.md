@@ -1,5 +1,5 @@
 # Welcome to Lynk Library of Knowledge (LLK) 
-This is where basic to more advanced knowledge will be housed.
+This is where basic to more advanced knowledge from different sources will be housed.
 
 - [Java](https://lynkrobotics.github.io/java/) 
 - [Software Installation](https://lynkrobotics.github.io/software/) 
