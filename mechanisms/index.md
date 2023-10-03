@@ -4,5 +4,5 @@
 
 - [Swerve](./swerve.md)
 - [Arm](./arm.md) 
-- [Elevator]() todo
+- [Elevator](./elevator.md) 
 - [Shooter](./shooter.md)
