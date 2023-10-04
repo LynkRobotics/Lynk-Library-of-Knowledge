@@ -3,7 +3,9 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 - [Java](https://lynkrobotics.github.io/java/) 
 - [Software Installation](https://lynkrobotics.github.io/software/) 
-- [Git/GitHub](https://lynkrobotics.github.io/git/) 
+- [Git/GitHub](https://lynkrobotics.github.io/git/)
+- [WPILib Basics]() todo
+- [Getting Started With FRC Programming](https://lynkrobotics.github.io/start/)
 - [Control Theory](https://lynkrobotics.github.io/controlTheory/) 
 - [Mechanism Examples / Templates](https://lynkrobotics.github.io/mechanisms/)
 - [Auto](https://lynkrobotics.github.io/auto/)
