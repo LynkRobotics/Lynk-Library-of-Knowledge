@@ -19,5 +19,5 @@ This is where basic to more advanced knowledge from different sources will be ho
 |                       Name                       |                      Team                      | Team Role |
 | :----------------------------------------------: | :--------------------------------------------: | :-------: |
 |                  [Jimmy McCosker](https://github.com/witherslayer67)  | [9496](https://lynkrobotics.org)  |   Student   |
-|                  Tbd TBD                  | [9496](https://lynkrobotics.org)               |  tbd   |
+|                  [Bob Bell](https://github.com/rjbell4)                  | [9496](https://lynkrobotics.org)               |  Mentor   |
 |                   TBD TBD                   |   [9496](https://lynkrobotics.org)             |  tbd   |
