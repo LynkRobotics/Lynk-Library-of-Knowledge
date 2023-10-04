@@ -12,6 +12,14 @@
 
 <br>
 
+## Commands
+
+<br>
+
+- [Auto Balance Command]() todo
+
+<br>
+
 ## Misc Functions / Abstracts
 
 <br>
