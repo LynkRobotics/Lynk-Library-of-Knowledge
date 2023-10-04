@@ -11,7 +11,7 @@ This is where basic to more advanced knowledge from different sources will be ho
 - [Auto](https://lynkrobotics.github.io/auto/)
 - [Whitepapers](https://lynkrobotics.github.io/whitepapers/) 
 - [Libraries](https://lynkrobotics.github.io/libraries/)
-- [Past Robot Code Documentation]() todo
+- [Past Robot Code Documentation](https://lynkrobotics.github.io/past/)
 - [Glossary](https://lynkrobotics.github.io/glossary/)
 
 ## Contributors
