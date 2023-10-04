@@ -10,7 +10,8 @@ This is where basic to more advanced knowledge from different sources will be ho
 - [Mechanism Examples / Templates](https://lynkrobotics.github.io/mechanisms/)
 - [Auto](https://lynkrobotics.github.io/auto/)
 - [Whitepapers](https://lynkrobotics.github.io/whitepapers/) 
-- [Libraries](https://lynkrobotics.github.io/libraries/) 
+- [Libraries](https://lynkrobotics.github.io/libraries/)
+- [Past Robot Code Documentation]() todo
 - [Glossary](https://lynkrobotics.github.io/glossary/)
 
 ## Contributors
