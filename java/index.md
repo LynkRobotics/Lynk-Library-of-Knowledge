@@ -2,6 +2,10 @@
 
 <br>
 
+This section is focused around resources to learn Java, from websites, to reading, to videos
+
+<br>
+
 ## Websites to learn Java
 
 <br>
@@ -43,4 +47,6 @@
 **[Previous Page](https://docs.lynkrobotics.org/) / [Home](https://docs.lynkrobotics.org/)**
 
 <br>
+
+
 
