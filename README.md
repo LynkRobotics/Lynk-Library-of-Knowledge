@@ -1,6 +1,10 @@
 # Welcome to Lynk Library of Knowledge (LLK) 
 This is where basic to more advanced knowledge from different sources will be housed.
 
+## Programming
+
+<br> 
+
 - [Java](https://lynkrobotics.github.io/java/) 
 - [Software Installation](https://lynkrobotics.github.io/software/) 
 - [Git/GitHub](https://lynkrobotics.github.io/git/)
@@ -13,6 +17,24 @@ This is where basic to more advanced knowledge from different sources will be ho
 - [Libraries](https://lynkrobotics.github.io/libraries/)
 - [Past Robot Code Documentation](https://lynkrobotics.github.io/past/)
 - [Glossary](https://lynkrobotics.github.io/glossary/)
+
+<br>
+
+## Design (tbd)
+
+<br>
+
+## Build (tbd?)
+
+<br>
+
+## Electrical (tbd)
+
+<br>
+
+## Scouting (tbd)
+
+<br>
 
 ## Contributors
 

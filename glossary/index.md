@@ -71,7 +71,12 @@
 - ````telemetry```` - The process of recording and sending real-time data about the performance of your robot to a real-time readout or log file. For the linguists among us, the word’s roots are “tele” (remote) and “metry” (measurement).
 - ````Teleop```` - The second phase of each match is called the Teleoperated Period (teleop) and consists of drivers controlling their robots.
 - ````trajectory```` - A trajectory is a smooth curve, with velocities and accelerations at each point along the curve, connecting two endpoints on the field.
-###### thanks wpilib
+
+<br>
+
+**[Previous Page](https://docs.lynkrobotics.org/) / [Home](https://docs.lynkrobotics.org/)**
+
+<br>
 
 
 

@@ -46,3 +46,9 @@
 - [Trapezoidal Motion Profiles in WPILib](https://docs.wpilib.org/en/stable/docs/software/advanced-controls/controllers/trapezoidal-profiles.html)
 - [Combining Motion Profiling and PID Control with ProfiledPIDController](https://docs.wpilib.org/en/stable/docs/software/advanced-controls/controllers/profiled-pidcontroller.html)
 
+<br>
+
+**[Previous Page](https://docs.lynkrobotics.org/) / [Home](https://docs.lynkrobotics.org/)**
+
+<br>
+
