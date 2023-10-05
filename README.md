@@ -5,18 +5,18 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br> 
 
-- [Java](https://lynkrobotics.github.io/java/) 
-- [Software Installation](https://lynkrobotics.github.io/software/) 
-- [Git/GitHub](https://lynkrobotics.github.io/git/)
-- [Getting Started With FRC Programming](https://lynkrobotics.github.io/start/)
-- [Programming Basics](https://lynkrobotics.github.io/basics/) 
-- [Control Theory](https://lynkrobotics.github.io/controlTheory/) 
-- [Mechanism Examples / Templates](https://lynkrobotics.github.io/mechanisms/)
-- [Auto](https://lynkrobotics.github.io/auto/)
-- [Whitepapers](https://lynkrobotics.github.io/whitepapers/) 
-- [Libraries](https://lynkrobotics.github.io/libraries/)
-- [Past Robot Code Documentation](https://lynkrobotics.github.io/past/)
-- [Glossary](https://lynkrobotics.github.io/glossary/)
+- [Java](https://docs.lynkrobotics.org/java/) 
+- [Software Installation](https://docs.lynkrobotics.org/software/) 
+- [Git/GitHub](https://docs.lynkrobotics.org/git/)
+- [Getting Started With FRC Programming](https://docs.lynkrobotics.org/start/)
+- [Programming Basics](https://docs.lynkrobotics.org/basics/) 
+- [Control Theory](https://docs.lynkrobotics.org/controlTheory/) 
+- [Mechanism Examples / Templates](https://docs.lynkrobotics.org/mechanisms/)
+- [Auto](https://docs.lynkrobotics.org/auto/)
+- [Whitepapers](https://docs.lynkrobotics.org/whitepapers/) 
+- [Libraries](https://docs.lynkrobotics.org/libraries/)
+- [Past Robot Code Documentation](https://docs.lynkrobotics.org/past/)
+- [Glossary](https://docs.lynkrobotics.org/glossary/)
 
 <br>
 
