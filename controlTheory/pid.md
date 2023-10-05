@@ -29,3 +29,9 @@
 - [PID by 254](https://www.youtube.com/watch?v=pTuPhJ0DJB8)
 - [0 to Autonomous: PID Auto-line Pt.1](https://youtu.be/jIKBWO7ps0w)
 - [0 to Autonomous: PID Auto-line Pt.2](https://youtu.be/Z24fSBVJeGs)
+
+<br>
+
+**[Previous Page](https://docs.lynkrobotics.org/controlTheory) / [Home](https://docs.lynkrobotics.org/)**
+
+<br>

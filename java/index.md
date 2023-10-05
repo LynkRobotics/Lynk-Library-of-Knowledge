@@ -2,7 +2,19 @@
 
 <br>
 
-## Websites to learn Java
+This section is focused around resources to learn Java, from websites, to reading, to videos
+
+<br>
+
+## Java Resources
+
+<br>
+
+These are just resources to learn regular Java, not focused around FRC here
+
+<br>
+
+### Websites to learn Java
 
 <br>
 
@@ -11,7 +23,7 @@
 
 <br>
 
-## Reading
+### Reading
 
 <br>
 
@@ -21,7 +33,7 @@
 
 <br>
 
-## Videos
+### Videos
 
 <br>
 
@@ -36,6 +48,10 @@
 
 <br>
 
+This is Java resources focused around FRC
+
+<br>
+
 - [Java and FRC](./frcJava.md)
 
 <br>
@@ -43,4 +59,6 @@
 **[Previous Page](https://docs.lynkrobotics.org/) / [Home](https://docs.lynkrobotics.org/)**
 
 <br>
+
+
 

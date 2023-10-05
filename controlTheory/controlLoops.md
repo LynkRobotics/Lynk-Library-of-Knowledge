@@ -23,3 +23,9 @@
 <br>
 
 - find spectrum video later
+
+<br>
+
+**[Previous Page](https://docs.lynkrobotics.org/controlTheory) / [Home](https://docs.lynkrobotics.org/)**
+
+<br>
