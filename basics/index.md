@@ -6,3 +6,11 @@
 - [WPILib Basics](./wpilibBasics.md)
 - [roboRIO](./roborio.md)
 - [Sensors](./sensors.md)
+
+<br>
+
+**[Previous Page](https://docs.lynkrobotics.org/)**
+
+<br>
+
+**[Home](https://docs.lynkrobotics.org/)**
