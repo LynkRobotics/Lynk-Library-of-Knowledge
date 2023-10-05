@@ -6,7 +6,15 @@ This section is focused around resources to learn Java, from websites, to readin
 
 <br>
 
-## Websites to learn Java
+## Java Resources
+
+<br>
+
+These are just resources to learn regular Java, not focused around FRC here
+
+<br>
+
+### Websites to learn Java
 
 <br>
 
@@ -15,7 +23,7 @@ This section is focused around resources to learn Java, from websites, to readin
 
 <br>
 
-## Reading
+### Reading
 
 <br>
 
@@ -25,7 +33,7 @@ This section is focused around resources to learn Java, from websites, to readin
 
 <br>
 
-## Videos
+### Videos
 
 <br>
 
@@ -37,6 +45,10 @@ This section is focused around resources to learn Java, from websites, to readin
 <br>
 
 ## Java and FRC
+
+<br>
+
+This is Java resources focused around FRC
 
 <br>
 
