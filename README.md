@@ -32,6 +32,10 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
+## Scouting (tbd)
+
+<br>
+
 ## Contributors
 
 |                       Name                       |                      Team                      | Team Role |
