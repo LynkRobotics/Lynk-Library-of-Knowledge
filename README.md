@@ -24,7 +24,7 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
-## Build (tbd?)
+## Build (tbd)
 
 <br>
 
