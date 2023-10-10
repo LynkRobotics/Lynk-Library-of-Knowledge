@@ -72,7 +72,7 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
-- [Software](https://docs.lynkrobotics.org/driverStation/software.md) 
+- [Software](https://docs.lynkrobotics.org/driverStation/software.html) 
 - [Best Practices]() TODO
 
 <br>
