@@ -42,4 +42,4 @@ This is where basic to more advanced knowledge from different sources will be ho
 | :----------------------------------------------: | :--------------------------------------------: | :-------: |
 |                  [Jimmy McCosker](https://github.com/witherslayer67)  | [9496](https://lynkrobotics.org)  |   Student   |
 |                  [Bob Bell](https://github.com/rjbell4)                  | [9496](https://lynkrobotics.org)               |  Mentor   |
-|                   TBD TBD                   |   [9496](https://lynkrobotics.org)             |  tbd   |
+|                   TBD TBD                   |   [tbd]()             |  tbd   |
