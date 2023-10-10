@@ -7,7 +7,7 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
-## Programming
+## [Programming](https://docs.lynkrobotics.org/programming/) WIP
 
 <br> 
 
@@ -41,11 +41,11 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
-### Autonomous
+### [Autonomous](https://docs.lynkrobotics.org/auto)
 
 <br>
 
-- [Auto](https://docs.lynkrobotics.org/auto/)
+- [Pathplanner](https://docs.lynkrobotics.org/auto/pathplanner.html)
 
 <br>
 
@@ -62,7 +62,7 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
-## Design (tbd)
+## [Design](https://docs.lynkrobotics.org/design/) WIP
 
 <br>
 
@@ -78,7 +78,7 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
-## Build (tbd)
+## [Build](https://docs.lynkrobotics.org/build/) WIP
 
 <br>
 
@@ -94,7 +94,7 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
-## Electrical (tbd)
+## [Electrical](https://docs.lynkrobotics.org/electrical/) WIP 
 
 <br>
 
@@ -110,7 +110,7 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
-## Scouting (tbd)
+## [Scouting](https://docs.lynkrobotics.org/scouting/) WIP
 
 <br>
 
@@ -126,7 +126,7 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
-## [Driver Station](https://docs.lynkrobotics.org/driverStation/)
+## [Driver Station](https://docs.lynkrobotics.org/driverStation/) WIP
 
 <br>
 
@@ -146,3 +146,7 @@ This is where basic to more advanced knowledge from different sources will be ho
 |                  [Bob Bell](https://github.com/rjbell4) | [9496](https://lynkrobotics.org)  |   Mentor   |
 |                  [Jimmy McCosker](https://github.com/witherslayer67)  | [9496](https://lynkrobotics.org)  |  Student   |
 |                   TBD TBD                   |   [tbd]()             |  tbd   |
+
+
+<br>
+
