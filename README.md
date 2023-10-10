@@ -43,6 +43,8 @@ This is where basic to more advanced knowledge from different sources will be ho
 - [Software]() TODO
 - [Best Practices]() TODO
 
+<br>
+
 ## Contributors
 
 |                       Name                       |                      Team                      | Team Role |
