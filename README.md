@@ -131,7 +131,7 @@ This is where basic to more advanced knowledge from different sources will be ho
 <br>
 
 - [Software](https://docs.lynkrobotics.org/driverStation/software.html) 
-- [Best Practices](https://docs.lynkrobotics.org/driverStation/bestPratices.html) 
+- [Best Practices](https://docs.lynkrobotics.org/driverStation/bestPractices.html) 
 
 <br>
 
