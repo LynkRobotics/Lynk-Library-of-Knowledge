@@ -5,18 +5,50 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br> 
 
+### Basics of Programming
+
+<br>
+
 - [Java](https://docs.lynkrobotics.org/java/) 
 - [Software Installation](https://docs.lynkrobotics.org/software/) 
 - [Git/GitHub](https://docs.lynkrobotics.org/git/)
+
+<br>
+
+### Novice Programming 
+
+<br>
+
 - [Getting Started With FRC Programming](https://docs.lynkrobotics.org/start/)
-- [Programming Basics](https://docs.lynkrobotics.org/basics/) 
-- [Control Theory](https://docs.lynkrobotics.org/controlTheory/) 
+- [Programming Basics](https://docs.lynkrobotics.org/basics/)
+
+<br>
+
+### Robots
+
+<br>
+
 - [Mechanism Examples / Templates](https://docs.lynkrobotics.org/mechanisms/)
-- [Auto](https://docs.lynkrobotics.org/auto/)
-- [Whitepapers](https://docs.lynkrobotics.org/whitepapers/) 
 - [Libraries](https://docs.lynkrobotics.org/libraries/)
 - [Past Robot Code Documentation](https://docs.lynkrobotics.org/past/)
 - [Glossary](https://docs.lynkrobotics.org/glossary/)
+
+<br>
+
+### Autonomous
+
+<br>
+
+- [Auto](https://docs.lynkrobotics.org/auto/)
+
+<br>
+
+### Advanced Programming
+
+<br>
+
+- [Control Theory](https://docs.lynkrobotics.org/controlTheory/)
+- [Whitepapers](https://docs.lynkrobotics.org/whitepapers/) 
 
 <br>
 
@@ -33,6 +65,15 @@ This is where basic to more advanced knowledge from different sources will be ho
 <br>
 
 ## Scouting (tbd)
+
+<br>
+
+## [Driver Station](https://docs.lynkrobotics.org/driverStation/)
+
+<br>
+
+- [Software](https://docs.lynkrobotics.org/driverStation/software.md) 
+- [Best Practices]() TODO
 
 <br>
 
