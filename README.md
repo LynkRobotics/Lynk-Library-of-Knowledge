@@ -25,8 +25,8 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
-- [Getting Started With FRC Programming](https://docs.lynkrobotics.org/start/)
 - [Programming Basics](https://docs.lynkrobotics.org/basics/)
+- [Getting Started With FRC Programming](https://docs.lynkrobotics.org/start/) todo 
 
 <br>
 
@@ -130,8 +130,8 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
-- [Software](https://docs.lynkrobotics.org/driverStation/software.html) 
-- [Best Practices](https://docs.lynkrobotics.org/driverStation/bestPractices.html) 
+- [Software](https://docs.lynkrobotics.org/driverStation/software.html) WIP
+- [Best Practices](https://docs.lynkrobotics.org/driverStation/bestPractices.html) WIP
 
 <br>
 
