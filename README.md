@@ -1,6 +1,12 @@
 # Welcome to Lynk Library of Knowledge (LLK) 
 This is where basic to more advanced knowledge from different sources will be housed.
 
+<br>
+
+***
+
+<br>
+
 ## Programming
 
 <br> 
@@ -52,7 +58,23 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
+***
+
+<br>
+
 ## Design (tbd)
+
+<br>
+
+### Basics of Design
+
+<br>
+
+- [Basics of Design]() WIP
+
+<br>
+
+***
 
 <br>
 
@@ -60,11 +82,47 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
+### Basics of Build
+
+<br>
+
+- [Basics of Build]() WIP
+
+<br>
+
+***
+
+<br>
+
 ## Electrical (tbd)
 
 <br>
 
+### Basics of Electrical
+
+<br>
+
+- [Basics of Electrical]() WIP
+
+<br>
+
+***
+
+<br>
+
 ## Scouting (tbd)
+
+<br>
+
+### Basics of Scouting 
+
+<br>
+
+- [Basics of Scouting]() WIP
+
+<br>
+
+***
 
 <br>
 
@@ -73,7 +131,11 @@ This is where basic to more advanced knowledge from different sources will be ho
 <br>
 
 - [Software](https://docs.lynkrobotics.org/driverStation/software.html) 
-- [Best Practices]() TODO
+- [Best Practices](https://docs.lynkrobotics.org/driverStation/bestPratices.html) 
+
+<br>
+
+***
 
 <br>
 
