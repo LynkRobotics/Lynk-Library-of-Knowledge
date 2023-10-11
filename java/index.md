@@ -6,11 +6,7 @@ This section is focused around resources to learn Java, from websites, to readin
 
 <br>
 
-## Java Resources
-
-<br>
-
-These are just resources to learn regular Java, not focused around FRC here
+***
 
 <br>
 
@@ -20,6 +16,10 @@ These are just resources to learn regular Java, not focused around FRC here
 
 - [W3Schools](https://www.w3schools.com/java/)
 - [Codecademy](https://www.codecademy.com/learn/learn-java)
+
+<br>
+
+***
 
 <br>
 
@@ -33,6 +33,10 @@ These are just resources to learn regular Java, not focused around FRC here
 
 <br>
 
+***
+
+<br>
+
 ### Videos
 
 <br>
@@ -41,6 +45,10 @@ These are just resources to learn regular Java, not focused around FRC here
 - [Learn Java In 3 Hours](https://www.youtube.com/watch?v=_73sZ-BUZXI)
 - [Learn Java In 12 Hours](https://youtu.be/xk4_1vDrzzo)
 - [FreeCodeCamp: Intro to Object Oriented Programming](https://www.youtube.com/watch?v=SiBw7os-_zI)
+
+<br>
+
+***
 
 <br>
 
