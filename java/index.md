@@ -10,6 +10,37 @@ This section is focused around resources to learn Java, from websites, to readin
 
 <br>
 
+## Tutorial 
+
+<br>
+
+- [Start]()
+  - [Setup]() todo?
+- [Part 1]() 
+  - [Variables]()
+  - [Comments]()
+  - [*Basic* Math]()
+  - [Methods]() 
+  - [Divison]()
+  - [Doubles]()
+  - [Strings]()
+- [Part 2]()
+  - [Boolean Logic]()
+  - [Comparison Operators]()
+- [Part 3]()
+  - [if, else if, else]()
+- [Part 4]()
+  - [Making a Method]()
+- [Part 5]()
+  - [Creating and Using Objects]()
+  - [Making our own Class]() 
+
+<br>
+
+***
+
+<br>
+
 ### Websites to learn Java
 
 <br>
