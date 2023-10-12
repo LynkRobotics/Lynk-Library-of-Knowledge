@@ -32,6 +32,6 @@ a comment
 
 <br>
 
-# [Home]() / [Next Page]() todo
+# [Previous Page](./index.md) / [Home](./index.md) / [Next Page](./variables.md) 
 
 
