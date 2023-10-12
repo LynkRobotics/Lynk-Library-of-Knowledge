@@ -47,3 +47,13 @@ public class JavaIntro {                        //This creates the "class", for 
 <br> 
 
 ## Table Of Contents
+
+<br>
+
+- [Comments](./comments.md)
+- [Variables](./variables.md)
+- [*Basic* Math](./basicMath.md)
+- [Methods](./methods.md) 
+- [Divison](./division.md)
+- [Doubles](./doubles.md)
+- [Strings](./strings.md)
