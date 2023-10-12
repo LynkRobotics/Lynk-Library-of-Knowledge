@@ -45,4 +45,4 @@ public class JavaIntro {                        //This creates the "class", for 
 
 <br>
 
-# [Home]() / [Next Page]() todo
+# [Previous Page](./division.md) / [Home](./index.md) / [Next Page](./strings.md)
