@@ -42,5 +42,4 @@ public class JavaIntro {                        //This creates the "class", for 
 
 <br>
 
-# [Home]() / [Next Page]() todo
-
+# [Previous Page](./doubles.md) / [Home](./index.md) / [Next Page](https://docs.lynkrobotics.org/java/partTwo)
