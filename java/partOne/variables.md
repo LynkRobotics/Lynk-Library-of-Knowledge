@@ -36,4 +36,4 @@ int answer = x + y;
 
 <br> 
 
-# [Home]() / [Next Page]() todo
+# [Previous Page](./comments.md) / [Home](./index.md) / [Next Page](./basicMath.md)
