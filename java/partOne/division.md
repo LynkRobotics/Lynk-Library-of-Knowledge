@@ -35,5 +35,4 @@ Since int can’t have decimals, the answer is 0 instead of 0.5
 
 ***
 
-# [Home]() / [Next Page]() todo
- 
+# [Previous Page](./methods.md) / [Home](./index.md) / [Next Page](./doubles.md) 
