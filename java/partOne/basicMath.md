@@ -38,4 +38,4 @@ int answer = x + y;
 
 <br>
 
-# [Home]() / [Next Page]() todo
+# [Previous Page](./variables.md) / [Home](./index.md) / [Next Page](./methods.md) 
