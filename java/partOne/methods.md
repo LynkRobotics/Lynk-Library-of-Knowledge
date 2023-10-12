@@ -36,4 +36,4 @@ System.out.println("Answer: " + answer);
 
 <br> 
 
-# [Home]() / [Next Page]() todo
+# [Previous Page](./basicMath.md) / [Home](./index.md) / [Next Page](./division.md)
