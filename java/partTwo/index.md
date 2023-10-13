@@ -55,5 +55,5 @@ public class JavaIntro2 {                        //This creates the "class", for
 
 <br>
 
-- [Boolean Logic]() todo
-- [Comparison Operators]() todo
+- [Boolean Logic](./booleanLogic.md) 
+- [Comparison Operators](./comparisonOperators.md) 
