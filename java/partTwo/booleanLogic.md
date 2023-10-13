@@ -13,6 +13,42 @@
   - `||` is OR, when either value is true `||` is true
   - `!` is NOT, `!` changes true to false, or false to true
 
+<br>
+
+## AND
+
+<br>
+
+| A | B | A&&B |
+| :-: | :-: | :-: |
+|  False | False | False |
+|  True | False | False |
+| False | True | False |
+| True | True | True |
+
+<br>
+
+## OR
+
+<br>
+
+| A | B | A⎮⎮B | 
+| :-: | :-: | :-: |
+|  False | False | False |
+|  True | False | True |
+| False | True | True |
+| True | True | True |
+
+<br>
+
+## NOT
+
+<br>
+
+| A | !A |
+| :-: | :-: |
+|  False | True |
+|  True | False | 
 
 <br>
 
