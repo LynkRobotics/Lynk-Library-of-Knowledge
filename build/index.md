@@ -6,7 +6,7 @@
 
 <br>
 
-## [Beginner Build]()
+## [Beginner Build](./beginnerBuild.md)
 
 <br>
 
