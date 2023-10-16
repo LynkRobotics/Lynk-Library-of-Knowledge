@@ -120,8 +120,29 @@ This section covers topics such as:
 
 <br>
 
-- [Beginner Build](https://docs.lynkrobotics.org/build/beginnerBuild.html)
-- [Intermediate Build](https://docs.lynkrobotics.org/build/intermediateBuild.html)
+### [Beginner Build](https://docs.lynkrobotics.org/build/beginnerBuild.html)
+
+<br>
+
+This section covers topics such as:
+- topic
+- topic
+- topic
+
+<br>
+
+### [Intermediate Build](https://docs.lynkrobotics.org/build/intermediateBuild.html)
+
+<br>
+
+### [Advanced Build]() TODO
+
+<br>
+
+This section covers topics such as:
+- topic
+- topic
+- topic
 
 <br>
 
