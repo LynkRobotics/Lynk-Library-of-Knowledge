@@ -52,10 +52,11 @@
 
 <br>
 
-# [Home Page](https://docs.lynkrobotics.org/)
+
+***
 
 <br>
 
-***
+# [Home Page](https://docs.lynkrobotics.org/)
 
 <br>
