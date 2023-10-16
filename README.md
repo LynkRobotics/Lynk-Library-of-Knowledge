@@ -161,11 +161,36 @@ This section covers topics such as:
 
 <br>
 
-### Basics of Electrical
+### [Beginner Electrical]() TODO
 
 <br>
 
-- [Basics of Electrical]() WIP
+This section covers topics such as:
+- topic
+- topic
+- topic
+
+<br>
+
+### [Intermediate Electrical]() TODO
+
+<br>
+
+This section covers topics such as:
+- topic
+- topic
+- topic
+
+<br>
+
+### [Advanced Electrical]() TODO
+
+<br>
+
+This section covers topics such as:
+- topic
+- topic
+- topic
 
 <br>
 
