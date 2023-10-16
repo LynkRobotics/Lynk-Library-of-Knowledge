@@ -68,6 +68,7 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 - [Beginner Design / Onshape](https://docs.lynkrobotics.org/design/beginnerDesign.html)
 - [Intermediate Design](https://docs.lynkrobotics.org/design/intermediateDesign.html)
+- [Advanced Design](https://docs.lynkrobotics.org/design/advancedDesign.html)
 - [Design Workshops](https://docs.lynkrobotics.org/design/designWorkshops.html)
 - [Design Tools](https://docs.lynkrobotics.org/design/designTools.html)
 - [FRC Mechanisms](https://docs.lynkrobotics.org/design/frcMechanisms.html)
