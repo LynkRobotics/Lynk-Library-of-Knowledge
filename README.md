@@ -66,11 +66,14 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
-### Basics of Design
-
-<br>
-
-- [Basics of Design]() WIP
+- [Beginner Design / Onshape](https://docs.lynkrobotics.org/design/beginnerDesign.html)
+- [Intermediate Design](https://docs.lynkrobotics.org/design/intermediateDesign.html)
+- [Design Workshops](https://docs.lynkrobotics.org/design/designWorkshops.html)
+- [Design Tools](https://docs.lynkrobotics.org/design/designTools.html)
+- [FRC Mechanisms](https://docs.lynkrobotics.org/design/frcMechanisms.html)
+- [Design Photo Gallery](https://docs.lynkrobotics.org/design/photoGallery.html)
+- [Team Build Blogs](https://docs.lynkrobotics.org/design/teamBlogs.html)
+- [Design COTS Part Documentation](https://docs.lynkrobotics.org/design/cotsPartDocumentation.html)
 
 <br>
 
@@ -143,9 +146,9 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 |                       Name                       |                      Team                      | Team Role |
 | :----------------------------------------------: | :--------------------------------------------: | :-------: |
-|                  [Bob Bell](https://github.com/rjbell4) | [9496](https://lynkrobotics.org)  |   Mentor   |
-|                  [Jimmy McCosker](https://github.com/witherslayer67)  | [9496](https://lynkrobotics.org)  |  Student   |
-|                   TBD                   |   [tbd]()             |  tbd   |
+| [Bob Bell](https://github.com/rjbell4) | [9496](https://lynkrobotics.org)  |   Mentor   |
+| [Jimmy McCosker](https://github.com/witherslayer67)  | [9496](https://lynkrobotics.org)  |  Student   |
+| [Josh Pohlman]() | [9496](https://lynkrobotics.org) | Mentor |
 
 
 <br>
