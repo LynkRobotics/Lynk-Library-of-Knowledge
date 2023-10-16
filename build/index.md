@@ -31,7 +31,7 @@
 
 <br>
 
-## [Intermediate Build]()
+## [Intermediate Build](./intermediateBuild.md)
 
 <br>
 
