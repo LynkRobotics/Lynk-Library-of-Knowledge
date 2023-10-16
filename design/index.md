@@ -6,7 +6,7 @@
 
 <br> 
 
-## [Beginner Design / Onshape]()
+## [Beginner Design / Onshape](./beginnerDesign.md)
 
 <br>
 
@@ -21,7 +21,7 @@
 
 <br>
 
-## [Intermediate Design]()
+## [Intermediate Design](./intermediateDesign.md)
 
 - [Lynk Parts Coding System](https://docs.google.com/document/d/1AxjovjDQV9VLWG0vvZujM-4wMK7v6N10FWTSsmSrQFU/edit?usp=sharing)
 - [148 Engineering Design Process](https://www.robowranglers148.com/uploads/1/0/5/4/10542658/engineering_design_process_for_robotics.pdf)
@@ -39,7 +39,7 @@
 
 <br>
 
-## [Workshops]()
+## [Workshops](./designWorkshops.md)
 
 <br>
 
@@ -57,7 +57,7 @@
 
 <br>
 
-## [Design Tools]()
+## [Design Tools](./designTools.md)
 
 <br>
 
@@ -73,7 +73,7 @@
 
 <br>
 
-## [FRC Mechanisms]()
+## [FRC Mechanisms](./frcMechanisms.md)
 
 <br>
 
@@ -86,7 +86,7 @@
 
 <br>
 
-## [Photo Gallery]()
+## [Photo Gallery](./photoGallery.md)
 
 <br>
 
@@ -98,7 +98,7 @@
 
 <br>
 
-## [Team Build Blogs]()
+## [Team Build Blogs](./teamBlogs.md)
 
 - [254]() todo
 - [2910]() todo
@@ -110,7 +110,7 @@
 
 <br>
 
-## COTS Part Documentation
+## [COTS Part Documentation](./cotsPartDocumentation.md)
 
 <br>
 
