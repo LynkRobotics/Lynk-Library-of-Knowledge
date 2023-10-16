@@ -112,11 +112,19 @@ This section covers topics such as:
 
 <br>
 
-This section covers topics such as:
-- topic
-- topic
-- topic
+### Reading
 
+<br>
+
+- [todo]() 
+
+<br>
+
+### Videos
+
+<br>
+
+- [Mechanical Design for Controllability](https://youtu.be/VNfFn-gcfFI?si=V7nIBtyTmOmKHGzp) 
 
 <br>
 
