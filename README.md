@@ -126,6 +126,22 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
+## [Strategy]()
+
+<br>
+
+### [Basics Of Strategy]() WIP
+
+<br>
+
+- [todo]()
+
+<br>
+
+***
+
+<br> 
+
 ## [Driver Station](https://docs.lynkrobotics.org/driverStation/) WIP
 
 <br>
