@@ -23,6 +23,8 @@
 
 ## [Intermediate Design](./intermediateDesign.md)
 
+<br>
+
 - [Lynk Parts Coding System](https://docs.google.com/document/d/1AxjovjDQV9VLWG0vvZujM-4wMK7v6N10FWTSsmSrQFU/edit?usp=sharing)
 - [148 Engineering Design Process](https://www.robowranglers148.com/uploads/1/0/5/4/10542658/engineering_design_process_for_robotics.pdf)
 - [9496 Lynk: Making Robust FRC Robots](https://docs.google.com/document/d/1Qt6DSVOIRh5dXyzQ9Q3VipjBpd12ozPSDN2LOaZLYqo/edit?usp=sharing)
