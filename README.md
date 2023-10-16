@@ -110,6 +110,8 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
+
+
 ## [Scouting](https://docs.lynkrobotics.org/scouting/) WIP
 
 <br>
@@ -148,6 +150,54 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 - [Software](https://docs.lynkrobotics.org/driverStation/software.html) WIP
 - [Best Practices](https://docs.lynkrobotics.org/driverStation/bestPractices.html) WIP
+
+<br>
+
+***
+
+<br>
+
+## [Technical Documentation]() todo
+
+<br>
+
+### Programming
+
+<br>
+
+- [todo]()
+
+<br>
+
+### Design
+
+<br>
+
+- [todo]()
+
+<br>
+
+### Build
+
+<br>
+
+- [todo]()
+
+<br>
+
+### Electrical
+
+<br>
+
+- [todo]()
+
+<br>
+
+### Strategy
+
+<br>
+
+- [todo]()
 
 <br>
 
