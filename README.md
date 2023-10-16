@@ -149,7 +149,9 @@ This is where basic to more advanced knowledge from different sources will be ho
 | [Bob Bell](https://github.com/rjbell4) | [9496](https://lynkrobotics.org) | Mentor |
 | [Jimmy McCosker](https://github.com/witherslayer67) | [9496](https://lynkrobotics.org) | Student |
 | [Josh Pohlman](https://www.chiefdelphi.com/u/shuki/summary) | [9496](https://lynkrobotics.org) | Mentor |
-
+| | | |
+| | | |
+| | | |
 
 <br>
 
