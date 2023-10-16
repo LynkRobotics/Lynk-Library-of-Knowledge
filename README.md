@@ -85,11 +85,8 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
-### Basics of Build
-
-<br>
-
-- [Basics of Build]() WIP
+- [Beginner Build](https://docs.lynkrobotics.org/build/beginnerBuild.html)
+- [Intermediate Build](https://docs.lynkrobotics.org/build/intermediateBuild.html)
 
 <br>
 
