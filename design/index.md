@@ -48,14 +48,6 @@
 
 <br>
 
-## [Advanced Design]()
-
-<br>
-
-- []() todo
-
-<br>
-
 ### Videos
 
 <br> 
@@ -65,6 +57,31 @@
 - [A CAD Style Guide by 971](https://youtu.be/oENvHabGOoA?si=qe0Tc230AZP1iNOu)
 - [Nick Aarested](https://www.youtube.com/@cadandcookies)
 - [FRC RAMP](https://www.youtube.com/@973RAMP/videos)
+- [Effective Mechanical Mechanisms for FIRST](https://youtu.be/aBOnxpYnqJ8?si=v_-8Bacb59vAXEUB)
+
+<br>
+
+***
+
+<br>
+
+## [Advanced Design]()
+
+<br>
+
+### Reading
+
+<br>
+
+- []() todo
+
+<br>
+
+### Videos
+
+<br>
+
+- [Mechanical Design for Controllability](https://youtu.be/VNfFn-gcfFI?si=V7nIBtyTmOmKHGzp) 
 
 <br>
 
