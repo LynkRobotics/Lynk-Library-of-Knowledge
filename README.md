@@ -249,11 +249,12 @@ This section covers topics such as:
 
 <br>
 
-### Programming
+### [Programming]() TODO
 
 <br>
 
-- [todo]()
+- [449: Whitepaper: Swerve Drive Skew and Second Order Kinematics](https://www.chiefdelphi.com/t/whitepaper-swerve-drive-skew-and-second-order-kinematics/416964)
+- [449: Whitepaper: Two Jointed Arm Dynamics](https://www.chiefdelphi.com/t/whitepaper-two-jointed-arm-dynamics/423060)
 
 <br>
 
