@@ -103,12 +103,12 @@ This section covers topics such as:
 
 <br>
 
-- [Design Workshops](https://docs.lynkrobotics.org/design/designWorkshops.html)
-- [Design Tools](https://docs.lynkrobotics.org/design/designTools.html)
+- [Design Strategy](https://docs.lynkrobotics.org/design/designWorkshops.html)
+- [Design Calculator](https://docs.lynkrobotics.org/design/designTools.html)
 - [FRC Mechanisms](https://docs.lynkrobotics.org/design/frcMechanisms.html)
-- [Design Photo Gallery](https://docs.lynkrobotics.org/design/photoGallery.html)
-- [Team Build Blogs](https://docs.lynkrobotics.org/design/teamBlogs.html)
-- [Design COTS Part Documentation](https://docs.lynkrobotics.org/design/cotsPartDocumentation.html)
+- [Photo Gallery](https://docs.lynkrobotics.org/design/photoGallery.html)
+- [Blogs](https://docs.lynkrobotics.org/design/teamBlogs.html)
+- [COTS Documentation](https://docs.lynkrobotics.org/design/cotsPartDocumentation.html)
 
 <br>
 
