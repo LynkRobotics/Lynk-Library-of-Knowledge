@@ -194,7 +194,7 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
-- todo
+- [3847 Spectrum Robot Maintenance Guide](https://docs.google.com/document/d/1CvjUV53ifhAFf7fCFJdGgbg8yPtPixV1gRJVESSLZlo/edit#heading=h.m42ep9a2ths2)
 
 <br>
 
@@ -335,7 +335,8 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
-- todo
+- [3847 Spectrum Advanced Pneumatics Guide](https://docs.google.com/document/d/1rNLdCO9f27cHTKiJpNAOVxW79-M5pFQm7meleQlbIZQ/edit#heading=h.7o60uoauhoo3)
+
 
 <br>
 
