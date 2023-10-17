@@ -345,7 +345,6 @@ This is where basic to more advanced knowledge from different sources will be ho
 - [3847 Spectrum Intro to Pneumatics](https://docs.google.com/presentation/d/1thkZCVNKfHDGw6_co2KAN7cajhKEGYDX1tCw2e6pwqM/edit#slide=id.p)
 - [A Bunch Of Hot Air, Or: How To Kind Of Know What You’re Talking About In FRC Pneumatics](https://docs.google.com/document/d/10aEZaO04c5nDr1BbNrMd4oFdGLgB0jDwm_QNivSvYhs/edit#heading=h.4782j9s9j707)
 - [Team 358: Pneumatic Resource](https://www.team358.org/files/pneumatic/)
-- 
 
 
 <br>
@@ -384,7 +383,11 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
-### Reading
+### Beginner Strategy
+
+<br>
+
+#### Reading
 
 <br>
 
@@ -394,12 +397,54 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
-### Videos
+#### Videos
+
+<br>
 
 - [Effective FIRST Strategies with Karthik 2023](https://youtu.be/Y9B0Khob0Xk?si=_WmsMo3IoNrm2vtx)
 - [3847 Spectrum Overview of FRC Games](https://www.youtube.com/watch?v=vXg0Ar4g2EE)
 - [3847 Spectrum The Sauce](https://youtu.be/OIWYjbQcudo?si=NwTN9QAURfghIrNW)
 - [To Compete Consistently and Effectively - Logan Farrell](https://youtu.be/v5bzyUSzI2g?si=kkwklpgSYJXVKiJe)
+
+<br>
+
+### Intermediate Strategy
+
+<br>
+
+#### Reading
+
+<br>
+
+- todo
+
+<br>
+
+#### Videos
+
+<br>
+
+- todo
+
+<br>
+
+### Advanced Strategy
+
+<br>
+
+#### Reading
+
+<br>
+
+- todo
+
+<br>
+
+#### Videos
+
+<br>
+
+- todo
 
 <br>
 
