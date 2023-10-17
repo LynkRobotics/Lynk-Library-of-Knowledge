@@ -260,9 +260,6 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
-- [Offical Control System Manual](https://docs.wpilib.org/en/latest/docs/hardware/hardware-basics/index.html)
-- [3847 FRC Electrical Guide](https://docs.google.com/document/d/1DWktsIyFx9LDg2FKNm5Rkt2RC0K3OhBKp4SL9KYaHAs/edit#heading=h.43g73xk4swy9)
-- [Five Fatal Mistakes: Why your robot is dead on the field by Evan Forbes](https://docs.google.com/presentation/d/1tcrI3XbZPcJAUn9an1S5smc_v619o2s8YfDky0_kpGY/edit#slide=id.p)
 - [1678: Lesson 0: What is Electrical?](https://docs.google.com/presentation/d/1CCgLdhMkibfNEvRyvdns7pIUmU0SgKng1QGdjVTgsQo/edit#slide=id.g5b35a59fb_0_5)
 - [1678: Lesson 1: Wires and Stuff](https://docs.google.com/presentation/d/1oRd6U6edJ8Ou-LAJSqBGL8el6yXtAdT7YVNRLGeLi6A/edit#slide=id.g5b35a59fb_0_5)
 - [1678: Lesson 2: Basic Components](https://docs.google.com/presentation/d/11jlUqFix8rAi2rwakzWJBpIwQmFZjBT4JTa6-1QFJvs/edit#slide=id.g5b35a59fb_0_5)
@@ -271,12 +268,7 @@ This is where basic to more advanced knowledge from different sources will be ho
 - [1678: Lesson 5: Advanced Tools](https://docs.google.com/presentation/d/1jRYGHnnhAECjdUknwt05TffrutbA-1AMEOwax1uxhJI/edit#slide=id.g2318cd439ab_1_0)
 - [1678: Lesson 6: Pneumatic Basics](https://docs.google.com/presentation/d/1XeZMCr_IbQYNYFfq4BNLB8gYOnbdXj5xeB1jwhCCn_o/edit#slide=id.g25a4c89e744_1_0)
 - [1678: Lesson 7: Basic Sensors](https://docs.google.com/presentation/d/1lxrSXpda0HQV0UeBUUczmW4UugzzyFL_MsDsSCHv7_0/edit#slide=id.g25a51bbe37f_0_6)
-- [1678: Lesson A: Basic Electrical Theory](https://docs.google.com/presentation/d/1DOnsiT1MQXaa4iqYJylA8zCHZJkDcnmhJA_gO7P6KOg/edit#slide=id.g2318d3df748_0_0)
-- [1678: Lesson B: Resistivity, Series vs Parallel Circuits](https://docs.google.com/presentation/d/1o-osBLttlDqpKwZA4eOJ3pB_K5agi9yyoMjyyJ7MGu8/edit#slide=id.g5b35a59fb_0_5)
-- [1678: Lesson C: Signals](https://docs.google.com/presentation/d/1Afve2Rx2mLWZGAY5t-YrRmIPZzmcYBAADUru1vblo8Y/edit#slide=id.g5b35a59fb_0_5)
-- [1678: Lesson-Advanced 1: How to Solder](https://docs.google.com/presentation/d/1wo_As5Ju7huFNAzqd3VNYfvl3QAiTAG3VPXFzQd0tIE/edit#slide=id.g237f46a31b0_0_0)
-- [1678: Lesson-Advanced 2: Bellypan Wiring Basics](https://docs.google.com/presentation/d/1uemtnGMvqEIZEjBxko32iuXwB3bfNNwbmFrHbBE445I/edit#slide=id.g25d3a36ef02_0_0)
-- [1678: Lesson-Advanced 3: Battery Safety](https://docs.google.com/presentation/d/1tTtc53TgHy2gySB68oFN9jpL-gDUuChyOf5ujtzUBZE/edit#slide=id.g260b16e4ad2_0_0)
+- [3847 FRC Electrical Guide](https://docs.google.com/document/d/1DWktsIyFx9LDg2FKNm5Rkt2RC0K3OhBKp4SL9KYaHAs/edit#heading=h.43g73xk4swy9)
 
 <br>
 
@@ -302,7 +294,14 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
-- todo
+- [Offical Control System Manual](https://docs.wpilib.org/en/latest/docs/hardware/hardware-basics/index.html)
+- [Five Fatal Mistakes: Why your robot is dead on the field by Evan Forbes](https://docs.google.com/presentation/d/1tcrI3XbZPcJAUn9an1S5smc_v619o2s8YfDky0_kpGY/edit#slide=id.p)
+- [1678: Lesson A: Basic Electrical Theory](https://docs.google.com/presentation/d/1DOnsiT1MQXaa4iqYJylA8zCHZJkDcnmhJA_gO7P6KOg/edit#slide=id.g2318d3df748_0_0)
+- [1678: Lesson B: Resistivity, Series vs Parallel Circuits](https://docs.google.com/presentation/d/1o-osBLttlDqpKwZA4eOJ3pB_K5agi9yyoMjyyJ7MGu8/edit#slide=id.g5b35a59fb_0_5)
+- [1678: Lesson C: Signals](https://docs.google.com/presentation/d/1Afve2Rx2mLWZGAY5t-YrRmIPZzmcYBAADUru1vblo8Y/edit#slide=id.g5b35a59fb_0_5)
+- [1678: Lesson-Advanced 1: How to Solder](https://docs.google.com/presentation/d/1wo_As5Ju7huFNAzqd3VNYfvl3QAiTAG3VPXFzQd0tIE/edit#slide=id.g237f46a31b0_0_0)
+- [1678: Lesson-Advanced 2: Bellypan Wiring Basics](https://docs.google.com/presentation/d/1uemtnGMvqEIZEjBxko32iuXwB3bfNNwbmFrHbBE445I/edit#slide=id.g25d3a36ef02_0_0)
+- [1678: Lesson-Advanced 3: Battery Safety](https://docs.google.com/presentation/d/1tTtc53TgHy2gySB68oFN9jpL-gDUuChyOf5ujtzUBZE/edit#slide=id.g260b16e4ad2_0_0)
 
 <br>
 
