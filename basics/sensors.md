@@ -1,5 +1,0 @@
-# Sensor Basics
-
-<br>
-
-- todo

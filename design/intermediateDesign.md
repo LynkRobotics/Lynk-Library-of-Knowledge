@@ -2,11 +2,7 @@
 
 <br>
 
-***
-
-<br>
-
-### Reading 
+## Reading 
 
 <br> 
 
@@ -25,7 +21,7 @@
 
 <br>
 
-### Videos
+## Videos
 
 <br> 
 
@@ -36,8 +32,6 @@
 - [FRC RAMP](https://www.youtube.com/@973RAMP/videos)
 
 <br>
-
-***
 
 <br>
 

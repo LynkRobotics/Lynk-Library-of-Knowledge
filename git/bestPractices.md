@@ -1,4 +1,0 @@
-# Git Best Practices 
-
-<br>
-

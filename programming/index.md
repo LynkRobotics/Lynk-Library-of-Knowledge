@@ -94,6 +94,9 @@
 - [AdvantageScope (Log Viewer)](https://github.com/Mechanical-Advantage/AdvantageScope)
 - [Elastic (Alt. to Shuffleboard)](https://www.chiefdelphi.com/t/introducing-elastic-a-simple-and-modern-alternative-to-shuffleboard/440750)
 - [Pathplanner](https://github.com/mjansen4857/pathplanner)
+- [CTRE Pheonix Lib](https://store.ctr-electronics.com/software/)
+- [REVLib](https://docs.revrobotics.com/sparkmax/software-resources/spark-max-api-information#c++-and-java)
+
 
 <br>
 

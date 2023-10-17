@@ -1,32 +1,19 @@
-# Beginner Build
+# [Beginner Build](https://docs.lynkrobotics.org/build/beginnerBuild.html)
 
 <br>
 
-***
+## Reading
 
 <br>
 
-### Videos
+- [3847 Spectrum Robot Maintenance Guide](https://docs.google.com/document/d/1CvjUV53ifhAFf7fCFJdGgbg8yPtPixV1gRJVESSLZlo/edit#heading=h.m42ep9a2ths2)
 
 <br>
 
-- [Assembly, Organization & Best Practices](https://youtu.be/o52ivEj9PLM?si=MZzhDhDTjEQ3N-_9)
-- [How to build bumpers](https://www.youtube.com/watch?v=JN6JkBnvARo&list=PLbBZ-oKrRYEw7BPqCIbXKyx2CEwIw0FKK)
+## Videos
 
 <br>
 
-### Written Guides
+- todo
 
 <br>
-
-- [todo]()
-
-<br>
-
-***
-
-<br>
-
-# [Back](https://docs.lynkrobotics.org/build/) | [Home Page](https://docs.lynkrobotics.org/)
-
-<br> 

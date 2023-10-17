@@ -13,59 +13,29 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
-***
-
-<br>
-
-## [Programming](https://docs.lynkrobotics.org/programming/) WIP
+## [Programming](https://docs.lynkrobotics.org/programming/)
 
 <br> 
 
-### Basics of Programming
-
+### [Beginner Programming](https://docs.lynkrobotics.org/programming/beginnerProgramming.html)
+Covers:
+- Java
+- Git
+- Best Practices
 <br>
 
-- [Java](https://docs.lynkrobotics.org/java/) 
-- [Software Installation](https://docs.lynkrobotics.org/software/) 
-- [Git/GitHub](https://docs.lynkrobotics.org/git/)
-
+### [Intermediate Programming](https://docs.lynkrobotics.org/programming/intermediateProgramming.html)
+Covers:
+- Java in FRC
+- Command Based Programming
+- Control System
 <br>
 
-### Novice Programming 
-
-<br>
-
-- [Programming Basics](https://docs.lynkrobotics.org/basics/)
-- [Getting Started With FRC Programming](https://docs.lynkrobotics.org/start/) todo 
-
-<br>
-
-### Robots
-
-<br>
-
-- [Mechanism Examples / Templates](https://docs.lynkrobotics.org/mechanisms/)
-- [Libraries](https://docs.lynkrobotics.org/libraries/)
-- [Past Robot Code Documentation](https://docs.lynkrobotics.org/past/)
-- [Glossary](https://docs.lynkrobotics.org/glossary/)
-
-<br>
-
-### [Autonomous](https://docs.lynkrobotics.org/auto)
-
-<br>
-
-- [Pathplanner](https://docs.lynkrobotics.org/auto/pathplanner.html)
-
-<br>
-
-### Advanced Programming
-
-<br>
-
-- [Control Theory](https://docs.lynkrobotics.org/controlTheory/)
-- [Whitepapers](https://docs.lynkrobotics.org/whitepapers/) 
-
+### [Advanced Programming](https://docs.lynkrobotics.org/programming/advancedProgramming.html)
+Covers: 
+- Coding **MECHANISMS**!
+- Control Theory
+- Autonomous
 <br>
 
 ***
@@ -78,103 +48,21 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 
 ### [Beginner Design](https://docs.lynkrobotics.org/design/beginnerDesign.html)
+Covers:
+- Onshape
 
 <br>
 
-#### Reading
-
-- [Onshape Courses](https://learn.onshape.com/)
-- [Onshape4frc](https://onshape4frc.com/getting-started)
-
-<br>
-
-#### Videos
-
-<br> 
-
-- [3005 Onshape Design Course](https://youtube.com/playlist?list=PLQIm9FH0BaLy89D08eBL-6CcWH8o2BRJe&si=x4AX0GJiqzkJxVXf)
-- [3847 Intro to FRC Mechanisms](https://youtu.be/JTZ31lpMkfA?si=me_SW8SM-egxrF4-)
-
-
-<br>
-
-***
-
-<br>
 
 ### [Intermediate Design](https://docs.lynkrobotics.org/design/intermediateDesign.html)
-
-<br>
-
-#### Reading 
-
-<br> 
-
-- [148 Engineering Design Process](https://www.robowranglers148.com/uploads/1/0/5/4/10542658/engineering_design_process_for_robotics.pdf)
-- [3847 Spectrum Design Training](https://docs.google.com/document/d/e/2PACX-1vQk_ghFBN7682QI_17lbBCx8V_RXNomQRR7er-UIzlllsbdpO4RWOQAVnGFZAEypeNm2grS2G9oxFMp/pub)
-- [3847 Spectrum Recommended Reading](https://spectrum3847.org/recommendedreading/)
-- [Effective Mechanical Mechanisms for FIRST - Paul Copioli](https://youtu.be/aBOnxpYnqJ8?si=v_-8Bacb59vAXEUB)
-- [Appendages and manipulators in FIRST - Andy Baker](https://docs.google.com/presentation/d/1YTM2FmHvUvqv6XOI_iVW8Br4_A0RBnhT/edit?usp=sharing&ouid=110371802215846802787&rtpof=true&sd=true)
-- [1678 Design Training](https://drive.google.com/drive/folders/1F-AP030M6VrqCQtGZnVcdJJVV1d6hj72?usp=drive_link)
-- [NASA RAP](https://robotics.nasa.gov/downloads/nasarap-rdc-v101-compressed.pdf)
-- [610 Design Tutorials](http://www.team610.com/wp-content/uploads/2014/03/Design-TutorialsRev10.pdf)
-- [LYNK: Design Constraints of Chain](https://docs.google.com/document/d/1m06TxMAqUlIHKjY84uFjRJwLsTOlEjOfFqxZBVQKsck/edit?usp=sharing)
-- [LYNK: Parts Coding System](https://docs.google.com/document/d/1AxjovjDQV9VLWG0vvZujM-4wMK7v6N10FWTSsmSrQFU/edit?usp=sharing)
-- [LYNK: Making Robust FRC Robots](https://docs.google.com/document/d/1Qt6DSVOIRh5dXyzQ9Q3VipjBpd12ozPSDN2LOaZLYqo/edit?usp=sharing)
-
-
-<br>
-
-#### Videos
-
-<br> 
-
-- [A CAD Style Guide by 971](https://youtu.be/oENvHabGOoA?si=qe0Tc230AZP1iNOu)
-- [Purposeful and Efficient CAD](https://youtu.be/RxtOA4lBPK8?si=FFvrh58HJHzkDw0V)
-- [Design for Serviceability](https://youtu.be/iKS5dfLuRYA?si=AhDQ48YXtXCUPUqm)
-- [Nick Aarested](https://www.youtube.com/@cadandcookies)
-- [FRC RAMP](https://www.youtube.com/@973RAMP/videos)
-
-<br>
-
-***
+Covers:
+- todo
 
 <br>
 
 ### [Advanced Design](https://docs.lynkrobotics.org/design/advancedDesign.html)
-
-<br>
-
-#### Reading
-
-<br>
-
-- [todo]() 
-
-<br>
-
-#### Videos
-
-<br>
-
-- [Mechanical Design for Controllability](https://youtu.be/VNfFn-gcfFI?si=V7nIBtyTmOmKHGzp) 
-
-<br>
-
-***
-
-<br>
-
-### Misc
-
-<br>
-
-- [Design Strategy](https://docs.lynkrobotics.org/design/designWorkshops.html)
-- [Design Calculator](https://docs.lynkrobotics.org/design/designTools.html)
-- [FRC Mechanisms](https://docs.lynkrobotics.org/design/frcMechanisms.html)
-- [Photo Gallery](https://docs.lynkrobotics.org/design/photoGallery.html)
-- [Blogs](https://docs.lynkrobotics.org/design/teamBlogs.html)
-- [COTS Documentation](https://docs.lynkrobotics.org/design/cotsPartDocumentation.html)
+Covers:
+- todo
 
 <br>
 
@@ -183,75 +71,21 @@ This is where basic to more advanced knowledge from different sources will be ho
 <br>
 
 ## [Build](https://docs.lynkrobotics.org/build/) WIP
-
 <br>
 
 ### [Beginner Build](https://docs.lynkrobotics.org/build/beginnerBuild.html)
-
-<br>
-
-#### Reading
-
-<br>
-
-- [3847 Spectrum Robot Maintenance Guide](https://docs.google.com/document/d/1CvjUV53ifhAFf7fCFJdGgbg8yPtPixV1gRJVESSLZlo/edit#heading=h.m42ep9a2ths2)
-
-<br>
-
-#### Videos
-
-<br>
-
+Covers:
 - todo
-
-<br>
-
-***
-
 <br>
 
 ### [Intermediate Build](https://docs.lynkrobotics.org/build/intermediateBuild.html)
-
-<br>
-
-#### Reading
-
-<br>
-
+Covers:
 - todo
-
 <br>
 
-#### Videos
-
-<br>
-
+### [Advanced Build]() 
+Covers:
 - todo
-
-<br>
-
-***
-
-<br>
-
-### [Advanced Build]() TODO
-
-<br>
-
-#### Reading
-
-<br>
-
-- todo
-
-<br>
-
-#### Videos
-
-<br>
-
-- todo
-
 <br>
 
 ***
@@ -262,117 +96,19 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
-### [Beginner Electrical]() TODO
-
+### [Beginner Electrical]() 
+Covers:
+- todo
 <br>
-
-#### Reading
-
-<br>
-
-- [1678: Lesson 0: What is Electrical?](https://docs.google.com/presentation/d/1CCgLdhMkibfNEvRyvdns7pIUmU0SgKng1QGdjVTgsQo/edit#slide=id.g5b35a59fb_0_5)
-- [1678: Lesson 1: Wires and Stuff](https://docs.google.com/presentation/d/1oRd6U6edJ8Ou-LAJSqBGL8el6yXtAdT7YVNRLGeLi6A/edit#slide=id.g5b35a59fb_0_5)
-- [1678: Lesson 2: Basic Components](https://docs.google.com/presentation/d/11jlUqFix8rAi2rwakzWJBpIwQmFZjBT4JTa6-1QFJvs/edit#slide=id.g5b35a59fb_0_5)
-- [1678: Lesson 3: How the Robot Functions](https://docs.google.com/presentation/d/16b1H-DBFfcmU7qJBKfOH31s2-7g7x0GucyfJtPcP1tc/edit#slide=id.g5b35a59fb_0_5)
-- [1678: Lesson 4: Electrical Standardizations](https://docs.google.com/presentation/d/1-DVjD5Wltv7J6FQu2ITIwIhw0_XAaPpaNIXj_PpNbZc/edit#slide=id.g5b35a59fb_0_5)
-- [1678: Lesson 5: Advanced Tools](https://docs.google.com/presentation/d/1jRYGHnnhAECjdUknwt05TffrutbA-1AMEOwax1uxhJI/edit#slide=id.g2318cd439ab_1_0)
-- [1678: Lesson 6: Pneumatic Basics](https://docs.google.com/presentation/d/1XeZMCr_IbQYNYFfq4BNLB8gYOnbdXj5xeB1jwhCCn_o/edit#slide=id.g25a4c89e744_1_0)
-- [1678: Lesson 7: Basic Sensors](https://docs.google.com/presentation/d/1lxrSXpda0HQV0UeBUUczmW4UugzzyFL_MsDsSCHv7_0/edit#slide=id.g25a51bbe37f_0_6)
-- [3847 FRC Electrical Guide](https://docs.google.com/document/d/1DWktsIyFx9LDg2FKNm5Rkt2RC0K3OhBKp4SL9KYaHAs/edit#heading=h.43g73xk4swy9)
-
-<br>
-
-#### Videos
-
-<br>
-
-- [1678 2016 Fall Workshops - Robot Wiring](https://www.youtube.com/watch?v=LWMRDBBXYmI)
-- [How to Crimp Wires for FRC](https://www.youtube.com/watch?v=UcOv1a2rK2g&list=PLkS1F9cM-fqBIVntkvQme0nC_xUILWCam&index=16)
-
-<br>
-
-***
-
-<br>
-
 
 ### [Intermediate Electrical]() TODO
-
-<br>
-
-#### Reading
-
-<br>
-
-- [Offical Control System Manual](https://docs.wpilib.org/en/latest/docs/hardware/hardware-basics/index.html)
-- [3847 Spectrum Intro to FRC Control System](https://docs.google.com/presentation/d/1U8EKEZv5Km__JKcN2SpE7tU8HjkMOnHZUupBr-Zo96M/edit#slide=id.p)
-- [3847 Spectrum Beginner Motors for FRC](https://docs.google.com/presentation/d/e/2PACX-1vQx1bBy1RHAYv5y5O5y82e4a45j5DCRmNrwY-d_eOVz8wqks7ehSpiql-qweDWE0J3zzcqMG-5X805x/pub?start=false&loop=false&delayms=3000&slide=id.p)
-- [Five Fatal Mistakes: Why your robot is dead on the field by Evan Forbes](https://docs.google.com/presentation/d/1tcrI3XbZPcJAUn9an1S5smc_v619o2s8YfDky0_kpGY/edit#slide=id.p)
-- [1678: Lesson A: Basic Electrical Theory](https://docs.google.com/presentation/d/1DOnsiT1MQXaa4iqYJylA8zCHZJkDcnmhJA_gO7P6KOg/edit#slide=id.g2318d3df748_0_0)
-- [1678: Lesson B: Resistivity, Series vs Parallel Circuits](https://docs.google.com/presentation/d/1o-osBLttlDqpKwZA4eOJ3pB_K5agi9yyoMjyyJ7MGu8/edit#slide=id.g5b35a59fb_0_5)
-- [1678: Lesson C: Signals](https://docs.google.com/presentation/d/1Afve2Rx2mLWZGAY5t-YrRmIPZzmcYBAADUru1vblo8Y/edit#slide=id.g5b35a59fb_0_5)
-- [1678: Lesson-Advanced 1: How to Solder](https://docs.google.com/presentation/d/1wo_As5Ju7huFNAzqd3VNYfvl3QAiTAG3VPXFzQd0tIE/edit#slide=id.g237f46a31b0_0_0)
-- [1678: Lesson-Advanced 2: Bellypan Wiring Basics](https://docs.google.com/presentation/d/1uemtnGMvqEIZEjBxko32iuXwB3bfNNwbmFrHbBE445I/edit#slide=id.g25d3a36ef02_0_0)
-- [1678: Lesson-Advanced 3: Battery Safety](https://docs.google.com/presentation/d/1tTtc53TgHy2gySB68oFN9jpL-gDUuChyOf5ujtzUBZE/edit#slide=id.g260b16e4ad2_0_0)
-
-<br>
-
-#### Videos
-
-<br>
-
-- [3847 Spectrum Intro to FRC Control System](https://www.youtube.com/watch?v=XHx3JeTk0Qw)
-- [3847 Spectrum Beginner Motors for FRC](https://www.youtube.com/watch?v=vWKKIhUcTzw)
-- [3847 Spectrum Battery Tutorial](https://youtu.be/MH9MQdLXEIE?si=7hCJ_gvxoRBIh5jn)
-- [115 MVRT Control Systems](https://www.youtube.com/watch?v=HIt1lw9-kQg)
-- [1678 2016 Fall Workshops - Robot Wiring](https://www.youtube.com/watch?v=LWMRDBBXYmI)
-
-<br>
-
-***
-
+Covers:
+- todo
 <br>
 
 ### [Advanced Electrical]() TODO
-
-<br>
-
-#### Reading
-
-<br>
-
-- [3847 Spectrum Advanced Pneumatics Guide](https://docs.google.com/document/d/1rNLdCO9f27cHTKiJpNAOVxW79-M5pFQm7meleQlbIZQ/edit#heading=h.7o60uoauhoo3)
-- [3847 Spectrum Intro to Pneumatics](https://docs.google.com/presentation/d/1thkZCVNKfHDGw6_co2KAN7cajhKEGYDX1tCw2e6pwqM/edit#slide=id.p)
-- [A Bunch Of Hot Air, Or: How To Kind Of Know What You’re Talking About In FRC Pneumatics](https://docs.google.com/document/d/10aEZaO04c5nDr1BbNrMd4oFdGLgB0jDwm_QNivSvYhs/edit#heading=h.4782j9s9j707)
-- [Team 358: Pneumatic Resource](https://www.team358.org/files/pneumatic/)
-
-
-<br>
-
-#### Videos
-
-<br>
-
-- [Beginner's Guide to Soldering Electronics Part 1](https://www.youtube.com/watch?v=M2Jf8cebwCs)
-- [Beginner's Guide to Soldering Electronics Part 2: Building a Kit](https://www.youtube.com/watch?v=BPuH1Z2npoQ)
-- [3847 Spectrum Intro to Pneumatics](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dh1q_Xr5gHMQ&sa=D&source=editors&ust=1697559654632645&usg=AOvVaw1gC0nvPRNJIf6pr98wfdC8)
-
-<br>
-
-***
-
-<br>
-
-## [Scouting](https://docs.lynkrobotics.org/scouting/) WIP
-
-<br>
-
-### Basics of Scouting 
-
-<br>
-
-- [Basics of Scouting]() WIP
-
+Covers:
+- todo
 <br>
 
 ***

@@ -1,5 +1,0 @@
-# WPILib Basics
-
-<br>
-
-- todo

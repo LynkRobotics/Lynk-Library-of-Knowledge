@@ -1,14 +1,12 @@
-# Design
-
-<br> 
-
-***
-
-<br> 
-
-## [Beginner Design / Onshape](./beginnerDesign.md)
+# [Design](https://docs.lynkrobotics.org/design/) WIP
 
 <br>
+
+## [Beginner Design](https://docs.lynkrobotics.org/design/beginnerDesign.html)
+
+<br>
+
+### Reading
 
 - [Onshape Courses](https://learn.onshape.com/)
 - [Onshape4frc](https://onshape4frc.com/getting-started)
@@ -28,7 +26,7 @@
 
 <br>
 
-## [Intermediate Design](./intermediateDesign.md)
+## [Intermediate Design](https://docs.lynkrobotics.org/design/intermediateDesign.html)
 
 <br>
 
@@ -39,6 +37,7 @@
 - [148 Engineering Design Process](https://www.robowranglers148.com/uploads/1/0/5/4/10542658/engineering_design_process_for_robotics.pdf)
 - [3847 Spectrum Design Training](https://docs.google.com/document/d/e/2PACX-1vQk_ghFBN7682QI_17lbBCx8V_RXNomQRR7er-UIzlllsbdpO4RWOQAVnGFZAEypeNm2grS2G9oxFMp/pub)
 - [3847 Spectrum Recommended Reading](https://spectrum3847.org/recommendedreading/)
+- [Effective Mechanical Mechanisms for FIRST - Paul Copioli](https://youtu.be/aBOnxpYnqJ8?si=v_-8Bacb59vAXEUB)
 - [Appendages and manipulators in FIRST - Andy Baker](https://docs.google.com/presentation/d/1YTM2FmHvUvqv6XOI_iVW8Br4_A0RBnhT/edit?usp=sharing&ouid=110371802215846802787&rtpof=true&sd=true)
 - [1678 Design Training](https://drive.google.com/drive/folders/1F-AP030M6VrqCQtGZnVcdJJVV1d6hj72?usp=drive_link)
 - [NASA RAP](https://robotics.nasa.gov/downloads/nasarap-rdc-v101-compressed.pdf)
@@ -46,6 +45,7 @@
 - [LYNK: Design Constraints of Chain](https://docs.google.com/document/d/1m06TxMAqUlIHKjY84uFjRJwLsTOlEjOfFqxZBVQKsck/edit?usp=sharing)
 - [LYNK: Parts Coding System](https://docs.google.com/document/d/1AxjovjDQV9VLWG0vvZujM-4wMK7v6N10FWTSsmSrQFU/edit?usp=sharing)
 - [LYNK: Making Robust FRC Robots](https://docs.google.com/document/d/1Qt6DSVOIRh5dXyzQ9Q3VipjBpd12ozPSDN2LOaZLYqo/edit?usp=sharing)
+
 
 <br>
 
@@ -65,7 +65,7 @@
 
 <br>
 
-## [Advanced Design](./advancedDesign.md)
+## [Advanced Design](https://docs.lynkrobotics.org/design/advancedDesign.html)
 
 <br>
 
@@ -73,7 +73,7 @@
 
 <br>
 
-- []() todo
+- [todo]() 
 
 <br>
 
@@ -89,90 +89,18 @@
 
 <br>
 
-## [Workshops](./designWorkshops.md)
+## Misc
 
 <br>
 
-- [Effective FIRST Strategies with Karthik 2023](https://youtu.be/Y9B0Khob0Xk?si=_WmsMo3IoNrm2vtx)
-- [Strategic Design - Mike Corsetto](https://youtu.be/dSXDV-UhhxU?si=taPOYuzzqw8sd5iz)
-- [Simple Robots that Win - Adam Heard](https://www.youtube.com/live/vkLuooWkKic?si=y-xL9IndpIGJa8Dl)
-- [Laying the Foundation for a Successful Robot - Bryan Culver](https://youtu.be/h-exyC0WWg0?si=Vgi1X0tGw2Sc_4li)
-- [A Look Inside the Competition Season of Team 2056 - Tyler Holtzman](https://youtu.be/n-wsABuUbr8?si=vHtoeeYsGLqh-wra)
-- [Behind the 2020 Bots](https://youtu.be/Re7DmFGj7rw?si=cgKl5-kaENA6kP0H)
-- [Simple Thinking - Adam Heard](https://youtu.be/JyPHwNx_KXM?si=0vRKnN8bqFVl6Ern)
-
-<br>
-
-***
-
-<br>
-
-## [Design Tools](./designTools.md)
-
-<br>
-
-- [JVN Design Calculator](https://www.chiefdelphi.com/uploads/default/original/3X/2/b/2bf9206b962f74ed5556a0ae936ef0bf365ac975.xlsx)
-- [AMB Calculator](https://ambcalc.com/)
-- [Recalc](https://www.reca.lc/)
-- [Spectrum Design Calculator](http://designsheet.spectrum3847.org/)
-- [ILITE Drivetrain Simulator](https://www.chiefdelphi.com/t/ilite-drivetrain-simulator-v2020/369188)
+- [Design Strategy](https://docs.lynkrobotics.org/design/designWorkshops.html)
+- [Design Calculator](https://docs.lynkrobotics.org/design/designTools.html)
+- [FRC Mechanisms](https://docs.lynkrobotics.org/design/frcMechanisms.html)
+- [Photo Gallery](https://docs.lynkrobotics.org/design/photoGallery.html)
+- [Blogs](https://docs.lynkrobotics.org/design/teamBlogs.html)
 
 <br>
 
 ***
 
 <br>
-
-## [FRC Mechanisms](./frcMechanisms.md)
-
-<br>
-
-- [FRC Mechanism Encyclopedia](https://www.projectb.net.au/resources/robot-mechanisms/#SH)
-- [FRC Mechanisms](https://youtu.be/JTZ31lpMkfA?si=BrfYvaMGLkU3eCNi)
-
-<br>
-
-***
-
-<br>
-
-## [Photo Gallery](./photoGallery.md)
-
-<br>
-
-- [3847 Photo Gallery](https://photos.spectrum3847.org/search#q=robot&i=0)
-
-<br>
-
-***
-
-<br>
-
-## [Team Build Blogs](./teamBlogs.md)
-
-- [254]() todo
-- [2910]() todo
-- [3847](http://blog.spectrum3847.org/)
-
-<br>
-
-***
-
-<br>
-
-## [COTS Part Documentation](./cotsPartDocumentation.md)
-
-<br>
-
-- [REV ION Documentation](https://docs.revrobotics.com/docs/rev-ion)
-
-<br>
-
-***
-
-<br>
-
-# [Home Page](https://docs.lynkrobotics.org/)
-
-
-
