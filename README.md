@@ -309,7 +309,7 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
-- todo
+- [Spectrum 3847 Battery Tutorial](https://youtu.be/MH9MQdLXEIE?si=7hCJ_gvxoRBIh5jn)
 
 <br>
 
