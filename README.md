@@ -83,7 +83,7 @@ Covers:
 - todo
 <br>
 
-### [Advanced Build]() 
+### [Advanced Build](https://docs.lynkrobotics.org/build/advancedBuild.html) 
 Covers:
 - todo
 <br>
@@ -96,17 +96,17 @@ Covers:
 
 <br>
 
-### [Beginner Electrical]() 
+### [Beginner Electrical](https://docs.lynkrobotics.org/electrical/beginnerElectrical.html) 
 Covers:
 - todo
 <br>
 
-### [Intermediate Electrical]() TODO
+### [Intermediate Electrical](https://docs.lynkrobotics.org/electrical/intermediateElectrical.html) 
 Covers:
 - todo
 <br>
 
-### [Advanced Electrical]() TODO
+### [Advanced Electrical](https://docs.lynkrobotics.org/electrical/advancedElectrical.html) 
 Covers:
 - todo
 <br>
