@@ -1,7 +1,15 @@
 # Welcome to Lynk Library of Knowledge (LLK) 
 This is where basic to more advanced knowledge from different sources will be housed.
 
+<br>
+
+***
+
 # ! THIS SITE IS CONSTANTLY UPDATED, CHECK BACK EVERY SO OFTEN FOR UPDATES !
+
+<br>
+
+***
 
 <br>
 
