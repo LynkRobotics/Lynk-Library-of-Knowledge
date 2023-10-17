@@ -408,6 +408,10 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
+***
+
+<br>
+
 ### Intermediate Strategy
 
 <br>
@@ -425,6 +429,10 @@ This is where basic to more advanced knowledge from different sources will be ho
 <br>
 
 - todo
+
+<br>
+
+***
 
 <br>
 
