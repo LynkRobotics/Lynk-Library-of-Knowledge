@@ -183,10 +183,23 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
-This section covers topics such as:
-- topic
-- topic
-- topic
+#### Reading
+
+<br>
+
+- todo
+
+<br>
+
+#### Videos
+
+<br>
+
+- todo
+
+<br>
+
+***
 
 <br>
 
@@ -194,10 +207,23 @@ This section covers topics such as:
 
 <br>
 
-This section covers topics such as:
-- topic
-- topic
-- topic
+#### Reading
+
+<br>
+
+- todo
+
+<br>
+
+#### Videos
+
+<br>
+
+- todo
+
+<br>
+
+***
 
 <br>
 
@@ -205,10 +231,19 @@ This section covers topics such as:
 
 <br>
 
-This section covers topics such as:
-- topic
-- topic
-- topic
+#### Reading
+
+<br>
+
+- todo
+
+<br>
+
+#### Videos
+
+<br>
+
+- todo
 
 <br>
 
@@ -224,32 +259,19 @@ This section covers topics such as:
 
 <br>
 
-This section covers topics such as:
-- topic
-- topic
-- topic
+#### Reading
 
 <br>
 
-### [Intermediate Electrical]() TODO
+- todo
 
 <br>
 
-This section covers topics such as:
-- topic
-- topic
-- topic
+#### Videos
 
 <br>
 
-### [Advanced Electrical]() TODO
-
-<br>
-
-This section covers topics such as:
-- topic
-- topic
-- topic
+- todo
 
 <br>
 
@@ -258,6 +280,53 @@ This section covers topics such as:
 <br>
 
 
+### [Intermediate Electrical]() TODO
+
+<br>
+
+#### Reading
+
+<br>
+
+- todo
+
+<br>
+
+#### Videos
+
+<br>
+
+- todo
+
+<br>
+
+***
+
+<br>
+
+### [Advanced Electrical]() TODO
+
+<br>
+
+#### Reading
+
+<br>
+
+- todo
+
+<br>
+
+#### Videos
+
+<br>
+
+- todo
+
+<br>
+
+***
+
+<br>
 
 ## [Scouting](https://docs.lynkrobotics.org/scouting/) WIP
 
