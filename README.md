@@ -528,6 +528,9 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 ### Strategy
 
+<br>
+
+- [todo]()
 
 <br>
 
