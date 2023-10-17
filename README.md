@@ -353,19 +353,11 @@ This section covers topics such as:
 
 <br>
 
-## Team Technical Binders
+## [Team Technical Binders](https://docs.lynkrobotics.org/technicalBinders)
 
 <br>
 
-### [254]()
-
-<br>
-
-- [todo]()
-
-<br>
-
-### [971]()
+### [254](https://docs.lynkrobotics.org/technicalBinders/254.html)
 
 <br>
 
@@ -373,7 +365,15 @@ This section covers topics such as:
 
 <br>
 
-### [2910]()
+### [971](https://docs.lynkrobotics.org/technicalBinders/971.html)
+
+<br>
+
+- [todo]()
+
+<br>
+
+### [2910](https://docs.lynkrobotics.org/technicalBinders/2910.html)
 
 <br>
 
