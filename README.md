@@ -305,6 +305,8 @@ This is where basic to more advanced knowledge from different sources will be ho
 <br>
 
 - [Offical Control System Manual](https://docs.wpilib.org/en/latest/docs/hardware/hardware-basics/index.html)
+- [3847 Spectrum Intro to FRC Control System](https://docs.google.com/presentation/d/1U8EKEZv5Km__JKcN2SpE7tU8HjkMOnHZUupBr-Zo96M/edit#slide=id.p)
+- [3847 Spectrum Beginner Motors for FRC](https://docs.google.com/presentation/d/e/2PACX-1vQx1bBy1RHAYv5y5O5y82e4a45j5DCRmNrwY-d_eOVz8wqks7ehSpiql-qweDWE0J3zzcqMG-5X805x/pub?start=false&loop=false&delayms=3000&slide=id.p)
 - [Five Fatal Mistakes: Why your robot is dead on the field by Evan Forbes](https://docs.google.com/presentation/d/1tcrI3XbZPcJAUn9an1S5smc_v619o2s8YfDky0_kpGY/edit#slide=id.p)
 - [1678: Lesson A: Basic Electrical Theory](https://docs.google.com/presentation/d/1DOnsiT1MQXaa4iqYJylA8zCHZJkDcnmhJA_gO7P6KOg/edit#slide=id.g2318d3df748_0_0)
 - [1678: Lesson B: Resistivity, Series vs Parallel Circuits](https://docs.google.com/presentation/d/1o-osBLttlDqpKwZA4eOJ3pB_K5agi9yyoMjyyJ7MGu8/edit#slide=id.g5b35a59fb_0_5)
@@ -319,7 +321,11 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
-- [Spectrum 3847 Battery Tutorial](https://youtu.be/MH9MQdLXEIE?si=7hCJ_gvxoRBIh5jn)
+- [3847 Spectrum Intro to FRC Control System](https://www.youtube.com/watch?v=XHx3JeTk0Qw)
+- [3847 Spectrum Beginner Motors for FRC](https://www.youtube.com/watch?v=vWKKIhUcTzw)
+- [3847 Spectrum Battery Tutorial](https://youtu.be/MH9MQdLXEIE?si=7hCJ_gvxoRBIh5jn)
+- [115 MVRT Control Systems](https://www.youtube.com/watch?v=HIt1lw9-kQg)
+- [1678 2016 Fall Workshops - Robot Wiring](https://www.youtube.com/watch?v=LWMRDBBXYmI)
 
 <br>
 
@@ -336,6 +342,10 @@ This is where basic to more advanced knowledge from different sources will be ho
 <br>
 
 - [3847 Spectrum Advanced Pneumatics Guide](https://docs.google.com/document/d/1rNLdCO9f27cHTKiJpNAOVxW79-M5pFQm7meleQlbIZQ/edit#heading=h.7o60uoauhoo3)
+- [3847 Spectrum Intro to Pneumatics](https://docs.google.com/presentation/d/1thkZCVNKfHDGw6_co2KAN7cajhKEGYDX1tCw2e6pwqM/edit#slide=id.p)
+- [A Bunch Of Hot Air, Or: How To Kind Of Know What You’re Talking About In FRC Pneumatics](https://docs.google.com/document/d/10aEZaO04c5nDr1BbNrMd4oFdGLgB0jDwm_QNivSvYhs/edit#heading=h.4782j9s9j707)
+- [Team 358: Pneumatic Resource](https://www.team358.org/files/pneumatic/)
+- 
 
 
 <br>
@@ -346,6 +356,8 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 - [Beginner's Guide to Soldering Electronics Part 1](https://www.youtube.com/watch?v=M2Jf8cebwCs)
 - [Beginner's Guide to Soldering Electronics Part 2: Building a Kit](https://www.youtube.com/watch?v=BPuH1Z2npoQ)
+- [3847 Spectrum Intro to Pneumatics](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dh1q_Xr5gHMQ&sa=D&source=editors&ust=1697559654632645&usg=AOvVaw1gC0nvPRNJIf6pr98wfdC8)
+- 
 
 <br>
 
