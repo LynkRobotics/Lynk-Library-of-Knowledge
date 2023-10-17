@@ -66,9 +66,6 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
-***
-
-<br>
 
 ### [Beginner Design](https://docs.lynkrobotics.org/design/beginnerDesign.html)
 
@@ -386,11 +383,19 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
+***
+
+<br>
+
 ### Design
 
 <br>
 
 - [todo]()
+
+<br>
+
+***
 
 <br>
 
@@ -402,11 +407,19 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
+***
+
+<br>
+
 ### Electrical
 
 <br>
 
 - [todo]()
+
+<br>
+
+***
 
 <br>
 
