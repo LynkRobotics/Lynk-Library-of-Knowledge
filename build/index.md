@@ -50,7 +50,7 @@
 
 <br>
 
-## [Advanced Build]() TODO
+## [Advanced Build](https://docs.lynkrobotics.org/build/advancedBuild.html) 
 
 <br>
 
