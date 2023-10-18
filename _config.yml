@@ -5,4 +5,7 @@ site_name: Lynk Library of Knowledge
 
 theme: 
   favicon: imageAssets/favicon.png
+  features:
+    - navigation.tabs
+    - navigation.instant
 
