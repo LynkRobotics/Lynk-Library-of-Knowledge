@@ -30,3 +30,7 @@
 - [1678 2016 Fall Workshops - Robot Wiring](https://www.youtube.com/watch?v=LWMRDBBXYmI)
 
 <br>
+
+# [Back](https://docs.lynkrobotics.org/electrical/) | [Home Page](https://docs.lynkrobotics.org/)
+
+<br>
