@@ -2,7 +2,7 @@
 
 <br>
 
-### Reading
+## Reading
 
 <br>
 
@@ -10,7 +10,7 @@
 
 <br>
 
-### Videos
+## Videos
 
 <br>
 
