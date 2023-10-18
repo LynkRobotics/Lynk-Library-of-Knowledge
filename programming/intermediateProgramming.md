@@ -31,20 +31,19 @@
 - [3847 Intro to FRC Control System Video](https://www.youtube.com/watch?v=XHx3JeTk0Qw)
 - [3847 Beginner Subsystems and Commands Video](https://www.youtube.com/watch?v=vbcuFFr4k40)
 - [3847 Beginner Motors for FRC Video](https://www.youtube.com/watch?v=vWKKIhUcTzw)
+- [2059 The Hitchhikers](https://www.youtube.com/playlist?list=PL4GNHenJg9JD5xdRxByaZZEZP1PPajPeV)
+- [2168 Aluminum Falcons](https://www.youtube.com/playlist?list=PLUTJdMwEWueLJjRuvPU_CjCyMU2qd8Wys)
+- [5870 League of Logic](https://www.youtube.com/playlist?list=PLf-V-Ek_YwZWW4sQLzpEsekYJ9PxXRVCO)
+- [2265 Fe Maidens](https://www.youtube.com/playlist?list=PLGMXJaFAzee3Br0sxLy7W8MRi2kluN7Sq)
+- [Team 20](https://www.youtube.com/playlist?list=PL9bmxB51pgmdtdgy7bIWWnqwIhA93tq0_)
+- [3560 Chingbotics](https://www.youtube.com/playlist?list=PLNRwl3Qs4GCWsRtYbJwI-r3H6BucUl3Rk)
+- [6141 OCS Robotics](https://www.youtube.com/playlist?list=PLq0D8c7ScX7RbOCWmYK8uUNln0sueBLWV)
+- [4400 Cerbotics Intro to WPILib Workshop](https://www.youtube.com/watch?v=ImkxFrBirwY)
+- [2813 Gear Heads Robot Lessons](https://www.youtube.com/playlist?list=PLf-V-Ek_YwZV5AbWq6wnyQIAMcZH1HEr9)
+- [6841 Cerberus 2.0](https://www.youtube.com/playlist?list=PLYwJIUT_B-n612Gqmfsq1ukYLa6WKgon)
 
 <br>
 
-***
-
-<br>
-
-## Topic
-
-<br>
-
-- todo
-
-<br>
 
 ***
 
