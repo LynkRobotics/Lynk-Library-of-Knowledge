@@ -22,3 +22,9 @@
 - [To Compete Consistently and Effectively - Logan Farrell](https://youtu.be/v5bzyUSzI2g?si=kkwklpgSYJXVKiJe)
 
 <br>
+
+***
+
+<br>
+
+# [Back](https://docs.lynkrobotics.org/strategy/) | [Home Page](https://docs.lynkrobotics.org/)
