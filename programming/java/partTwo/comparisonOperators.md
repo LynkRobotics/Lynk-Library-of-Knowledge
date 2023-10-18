@@ -32,4 +32,4 @@ TODO
 
 <br>
 
-# [Previous Page](./booleanLogic.md) / [Home](./index.md) / [Next Page](https://docs.lynkrobotics.org/java/partThree) 
+# [Previous Page](./booleanLogic.md) / [Home](./index.md) / [Next Page](https://docs.lynkrobotics.org/programming/java/partThree) 
