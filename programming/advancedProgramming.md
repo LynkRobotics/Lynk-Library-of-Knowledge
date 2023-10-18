@@ -7,9 +7,10 @@
 <br>
 
 - [Autonomous](https://docs.lynkrobotics.org/auto)
-- [Mechanism Examples / Templates](https://docs.lynkrobotics.org/programming/mechanisms/)
-- [Past Robot Code Documentation](https://docs.lynkrobotics.org/programming/past/)
-- [Glossary](https://docs.wpilib.org/en/stable/docs/software/frc-glossary.html)
+- [Mechanism Examples / Templates](https://docs.lynkrobotics.org/mechanisms/)
+- [Libraries](https://docs.lynkrobotics.org/libraries/)
+- [Past Robot Code Documentation](https://docs.lynkrobotics.org/past/)
+- [Glossary](https://docs.lynkrobotics.org/glossary/)
 
 <br>
 
@@ -63,11 +64,12 @@
 
 <br>
 
-#### Control Loops
+#### Reading
 
 <br>
 
 - [3847 Spectrum Beginner Control Loops](https://docs.google.com/presentation/d/1Z3H8fjxVSJSIoAv1C09J7CEWDGmV66ZCOXEI1wKS23w/edit?usp=sharing)
+- [Engineering Media - Control Theory - Brian Douglas](https://engineeringmedia.com/)
 
 <br>
 
@@ -99,6 +101,7 @@
 - [Wesley Aptekar-Cassels: Intro to Control Theory Part 1: PID](https://blog.wesleyac.com/posts/intro-to-control-part-one-pid)
 - [Wesley Aptekar-Cassels: Intro to Control Theory Part Two: PID tuning](https://blog.wesleyac.com/posts/intro-to-control-part-two-pid-tuning)
 - [PID Without a PHD](https://drive.google.com/file/d/0B8Oix1YVtSZgUW1sd3dOOFVzdXc/view?resourcekey=0-fY1n3GWPrgTzNxLW-5g97w)
+- [What are PID gains and feed-forward gains?](https://www.motioncontroltips.com/faq-what-are-pid-gains-and-feed-forward-gains/)
 
 <br>
 
@@ -157,7 +160,8 @@
 <br>
 
 - [LearnChemE: Introduction to Feedforward Control](https://www.youtube.com/watch?v=OZsIXaSaW7g)
-- [MATLAB: What Is Feedforward Control Control Systems in Practice](https://www.youtube.com/watch?v=FW_ay7K4PE)
+
+- [MATLAB: What Is Feedforward Control Control Systems in Practice](https://www.youtube.com/watch?v=FW_ay7K4jPE)
 
 <br>
 
