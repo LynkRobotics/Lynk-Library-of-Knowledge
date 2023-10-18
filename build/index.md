@@ -80,6 +80,7 @@
 - [Snow Problem Powder Coating](https://drive.google.com/file/d/1tkvnYnH1gXw5S4DSMSlFH2DYaXuZE-QP/view?usp=sharing)
 - [LYNK: Making Robust FRC Robots](https://docs.google.com/document/d/1Qt6DSVOIRh5dXyzQ9Q3VipjBpd12ozPSDN2LOaZLYqo/edit?usp=sharing)
 - [Loctite: Threadlocking User’s Guide](https://www.ellsworth.com/globalassets/literature-library/manufacturer/henkel-loctite/henkel-loctite-user-guide-threadlocking.pdf)
+- [NASA RAP](https://robotics.nasa.gov/downloads/nasarap-rdc-v101-compressed.pdf)
 
 ### Videos
 
