@@ -47,6 +47,11 @@
 
 - [W3Schools](https://www.w3schools.com/java/)
 - [Codecademy](https://www.codecademy.com/learn/learn-java)
+- [CodingBat: Java Practice](https://codingbat.com/java)
+- [Java Masterclass for Software Developers](https://www.educative.io/courses/java-masterclass-developers)
+- [Learn Object-Oriented Programming in Java](https://www.educative.io/courses/learn-object-oriented-programming-in-java)
+- [CodeWars programming problems and challenges](https://www.codewars.com/)
+- [Project Euler (pronounced Oil-er) programming problems and challenges](https://projecteuler.net/)
 
 <br>
 
@@ -61,6 +66,9 @@
 - [3847 Spectrum Intro to Java Programming](https://docs.google.com/presentation/d/1MxjAYEkdW9MVuQUSKM9xFdQ3vQl-1MXcdd2jdfOI_KY/edit?usp=sharing)
 - [4946 Intro to Java](https://drive.google.com/file/d/1t27lMdlTeeCrOaorByj7n-3Fu4tQJktJ/view)
 - [Learn X in Y Minutes (Syntax Overview)](https://learnxinyminutes.com/docs/java/)
+- [Think Java](https://greenteapress.com/thinkjava6/thinkjava.pdf)
+- [5472 Stallion Robotics: Java Robotics Course](https://drive.google.com/file/d/18Vz7tjU1hkQeqj2FLn9RQvlza2pqOJtR/)
+- [AP CSA Java Course](https://runestone.academy/ns/books/published/csawesome/index.html)
 
 <br>
 
@@ -76,6 +84,12 @@
 - [Learn Java In 3 Hours](https://www.youtube.com/watch?v=_73sZ-BUZXI)
 - [Learn Java In 12 Hours](https://youtu.be/xk4_1vDrzzo)
 - [FreeCodeCamp: Intro to Object Oriented Programming](https://www.youtube.com/watch?v=SiBw7os-_zI)
+- [2813 Gear Heads Java Software Lessons](https://www.youtube.com/playlist?list=PLf-V-Ek_YwZWk92UYFl2Z2g9pFwwWmOZ2)
+- [7237 Unibots Java Basics](https://www.youtube.com/playlist?list=PLbyD6UONF3m7Tvp6mTluAtD8vSv2MeO8o)
+- [FreeCodeCamp: Intro to Java Programming Video](https://www.youtube.com/watch?v=GoXwIVyNvX0)
+- [FreeCodeCamp: Java 8 Full Tutorial for Beginners Video](https://www.youtube.com/watch?v=grEKMHGYyns)
+- [FreeCodeCamp: Intro to Object Oriented Programming](https://www.youtube.com/watch?v=SiBw7os-_zI)
+
 
 <br>
 
@@ -160,7 +174,7 @@
 
 <br>
 
-- todo
+- [Git & GitHub Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 
 <br>
 
@@ -203,6 +217,16 @@
 - [3847 Intro to FRC Control System Video](https://www.youtube.com/watch?v=XHx3JeTk0Qw)
 - [3847 Beginner Subsystems and Commands Video](https://www.youtube.com/watch?v=vbcuFFr4k40)
 - [3847 Beginner Motors for FRC Video](https://www.youtube.com/watch?v=vWKKIhUcTzw)
+- [2059 The Hitchhikers](https://www.youtube.com/playlist?list=PL4GNHenJg9JD5xdRxByaZZEZP1PPajPeV)
+- [2168 Aluminum Falcons](https://www.youtube.com/playlist?list=PLUTJdMwEWueLJjRuvPU_CjCyMU2qd8Wys)
+- [5870 League of Logic](https://www.youtube.com/playlist?list=PLf-V-Ek_YwZWW4sQLzpEsekYJ9PxXRVCO)
+- [2265 Fe Maidens](https://www.youtube.com/playlist?list=PLGMXJaFAzee3Br0sxLy7W8MRi2kluN7Sq)
+- [Team 20](https://www.youtube.com/playlist?list=PL9bmxB51pgmdtdgy7bIWWnqwIhA93tq0_)
+- [3560 Chingbotics](https://www.youtube.com/playlist?list=PLNRwl3Qs4GCWsRtYbJwI-r3H6BucUl3Rk)
+- [6141 OCS Robotics](https://www.youtube.com/playlist?list=PLq0D8c7ScX7RbOCWmYK8uUNln0sueBLWV)
+- [4400 Cerbotics Intro to WPILib Workshop](https://www.youtube.com/watch?v=ImkxFrBirwY)
+- [2813 Gear Heads Robot Lessons](https://www.youtube.com/playlist?list=PLf-V-Ek_YwZV5AbWq6wnyQIAMcZH1HEr9)
+- [6841 Cerberus 2.0](https://www.youtube.com/playlist?list=PLYwJIUT_B-n612Gqmfsq1ukYLa6WKgon)
 
 <br>
 
@@ -288,11 +312,12 @@
 
 <br>
 
-##### Control Loops
+##### Reading
 
 <br>
 
 - [3847 Spectrum Beginner Control Loops](https://docs.google.com/presentation/d/1Z3H8fjxVSJSIoAv1C09J7CEWDGmV66ZCOXEI1wKS23w/edit?usp=sharing)
+- [Engineering Media - Control Theory - Brian Douglas](https://engineeringmedia.com/)
 
 <br>
 
@@ -324,6 +349,7 @@
 - [Wesley Aptekar-Cassels: Intro to Control Theory Part 1: PID](https://blog.wesleyac.com/posts/intro-to-control-part-one-pid)
 - [Wesley Aptekar-Cassels: Intro to Control Theory Part Two: PID tuning](https://blog.wesleyac.com/posts/intro-to-control-part-two-pid-tuning)
 - [PID Without a PHD](https://drive.google.com/file/d/0B8Oix1YVtSZgUW1sd3dOOFVzdXc/view?resourcekey=0-fY1n3GWPrgTzNxLW-5g97w)
+- [What are PID gains and feed-forward gains?](https://www.motioncontroltips.com/faq-what-are-pid-gains-and-feed-forward-gains/)
 
 <br>
 
