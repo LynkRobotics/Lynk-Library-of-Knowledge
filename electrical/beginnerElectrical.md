@@ -26,3 +26,7 @@
 - [How to Crimp Wires for FRC](https://www.youtube.com/watch?v=UcOv1a2rK2g&list=PLkS1F9cM-fqBIVntkvQme0nC_xUILWCam&index=16)
 
 <br>
+
+# [Back](https://docs.lynkrobotics.org/electrical/) | [Home Page](https://docs.lynkrobotics.org/)
+
+<br>
