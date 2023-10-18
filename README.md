@@ -42,7 +42,7 @@ Covers:
 
 <br>
 
-## [Design](https://docs.lynkrobotics.org/design/) WIP
+## [Design](https://docs.lynkrobotics.org/design/) 
 
 <br>
 
@@ -70,7 +70,7 @@ Covers:
 
 <br>
 
-## [Build](https://docs.lynkrobotics.org/build/) WIP
+## [Build](https://docs.lynkrobotics.org/build/) 
 <br>
 
 ### [Beginner Build](https://docs.lynkrobotics.org/build/beginnerBuild.html)
@@ -92,7 +92,7 @@ Covers:
 
 <br>
 
-## [Electrical](https://docs.lynkrobotics.org/electrical/) WIP 
+## [Electrical](https://docs.lynkrobotics.org/electrical/)  
 
 <br>
 
@@ -137,26 +137,13 @@ Covers:
 
 ***
 
-<br> 
+<br>
 
-## [Driver Station](https://docs.lynkrobotics.org/driverStation/) WIP
+## [Technical Documentation]() 
 
 <br>
 
-- [Software](https://docs.lynkrobotics.org/driverStation/software.html) WIP
-- [Best Practices](https://docs.lynkrobotics.org/driverStation/bestPractices.html) WIP
-
-<br>
-
-***
-
-<br>
-
-## [Technical Documentation]() todo
-
-<br>
-
-### [Programming]() TODO
+### [Programming]() 
 
 <br>
 
