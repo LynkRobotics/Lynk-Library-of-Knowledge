@@ -6,7 +6,10 @@
 
 <br>
 
+- [3847 Spectrum Build Training](https://docs.google.com/document/d/e/2PACX-1vQk_ghFBN7682QI_17lbBCx8V_RXNomQRR7er-UIzlllsbdpO4RWOQAVnGFZAEypeNm2grS2G9oxFMp/pub)
 - [3847 Spectrum Robot Maintenance Guide](https://docs.google.com/document/d/1CvjUV53ifhAFf7fCFJdGgbg8yPtPixV1gRJVESSLZlo/edit#heading=h.m42ep9a2ths2)
+- [NASA RAP](https://robotics.nasa.gov/downloads/nasarap-rdc-v101-compressed.pdf)
+- [LYNK: Making Robust FRC Robots](https://docs.google.com/document/d/1Qt6DSVOIRh5dXyzQ9Q3VipjBpd12ozPSDN2LOaZLYqo/edit?usp=sharing)
 
 <br>
 
