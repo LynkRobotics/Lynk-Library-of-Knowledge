@@ -8,4 +8,12 @@ theme:
   features:
     - navigation.tabs
     - navigation.instant
+nav:
+- Home: 
+  - '/programming/index.md'
+- Programming:
+   - '/programming/index.md'
+- Design:
+   - '/programming/index.md'
+- Build:
 
