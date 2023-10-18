@@ -23,3 +23,7 @@
 - [3847 Spectrum Intro to Pneumatics](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dh1q_Xr5gHMQ&sa=D&source=editors&ust=1697559654632645&usg=AOvVaw1gC0nvPRNJIf6pr98wfdC8)
 
 <br>
+
+# [Back](https://docs.lynkrobotics.org/electrical/) | [Home Page](https://docs.lynkrobotics.org/)
+
+<br>
