@@ -17,3 +17,10 @@
 - todo
 
 <br>
+
+***
+
+<br>
+
+# [Back](https://docs.lynkrobotics.org/strategy/) | [Home Page](https://docs.lynkrobotics.org/)
+
