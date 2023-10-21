@@ -13,6 +13,18 @@ This is where basic to more advanced knowledge from different sources will be ho
 
 <br>
 
+## [What is FRC?](https://docs.lynkrobotics.org/whatIsFRC/)
+Covers:
+- What is FRC?
+- The History of FRC
+- todo
+
+<br>
+
+***
+
+<br>
+
 ## [Programming](https://docs.lynkrobotics.org/programming/)
 
 <br> 
