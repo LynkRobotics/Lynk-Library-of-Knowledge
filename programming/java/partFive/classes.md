@@ -23,7 +23,7 @@
 
 <br>
 
-````Java
+````java
 //Simple motor class
 class motor{
     //classes can have fields that store data
