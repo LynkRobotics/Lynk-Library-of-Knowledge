@@ -5,5 +5,5 @@ plugins:
 theme:
   custom_dir: 'imageAssets'
   favicon: /favicon.png
-site_name: [Lynk Library of Knowledge]
+title: [Lynk Library of Knowledge]
 description: [9496 Lynk's site for housing knowledge and information for the team.]
