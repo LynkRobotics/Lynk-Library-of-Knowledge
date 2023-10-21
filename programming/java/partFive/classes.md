@@ -48,7 +48,7 @@ class motor{
 
 <br>
 
-````Java
+````java
  motor(int c){               //This is the constructor, it doesn't have a return type or void
         channel = c;            //channel doesn't get a value set until the consttuctor is run
     }
