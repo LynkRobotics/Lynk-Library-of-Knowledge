@@ -80,6 +80,7 @@
 - [Squaring material](https://youtu.be/tW8HNAlUXxU?si=TF_p_BFwojvCdRHT)
 - [Grinding HSS Tools](https://youtu.be/__A2xtLF0AU?si=kwzj_uOH7SMK7DHT)
 - [Four Methods Of Flush Riveting](https://youtu.be/WC5BAp2xvDc?si=FBX29Xm9wCpJkAbz)
+- [Getting Started cutting metal on the Shapeoko](https://youtu.be/Yo33kOJfw70?si=rAMwo1Ys3QaDFdNm)
 
 <br>
 
