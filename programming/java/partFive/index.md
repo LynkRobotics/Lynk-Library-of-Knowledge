@@ -16,7 +16,7 @@
 In this part you will learn about making a objects and methods.
 We will be using this block of Java code for this part. 
 
-````Java
+````java
 public class JavaIntro5 {                       
     public static void main(String args[]) {    
       motor m1 = new motor(0);              //new is used to create an instance of the class called an object
