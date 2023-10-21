@@ -14,8 +14,7 @@ This section is focused around resources to learn Java, from websites, to readin
 
 <br>
 
-- [Start]()
-  - [Setup]() todo?
+- [Start](./start/index.md)
 - [Part 1](./partOne/index.md)
   - [Comments](./partOne/comments.md)
   - [Variables](./partOne/variables.md)

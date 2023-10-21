@@ -1,11 +1,24 @@
-# Welcome to Lynk Library of Knowledge (LLK) 
-This is where basic to more advanced knowledge from different sources will be housed.
+<br>
+
+# Welcome to Lynk Library of Knowledge (LLK)!
 
 <br>
 
 ***
 
 # ! THIS SITE IS CONSTANTLY UPDATED, CHECK BACK EVERY SO OFTEN FOR UPDATES !
+
+<br>
+
+***
+
+<br>
+
+## [What is FRC?](https://docs.lynkrobotics.org/whatIsFRC/)
+Covers:
+- What is FRC?
+- The History of FRC
+- todo
 
 <br>
 
@@ -133,6 +146,14 @@ Covers:
 ### [Advanced Strategy](https://docs.lynkrobotics.org/strategy/advancedStrategy.html)
 Covers:
 - todo
+<br>
+
+***
+
+<br>
+
+## [Team Blogs](https://docs.lynkrobotics.org/teamBlogs/)
+Team blogs from various teams are housed here.
 <br>
 
 ***
