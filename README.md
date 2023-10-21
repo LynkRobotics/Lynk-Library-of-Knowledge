@@ -151,6 +151,14 @@ Covers:
 
 <br>
 
+## [Team Blogs](https://docs.lynkrobotics.org/teamBlogs/)
+Team blogs from various teams are housed here.
+<br>
+
+***
+
+<br>
+
 ## [Technical Documentation](https://docs.lynkrobotics.org/whitepapers/) 
 <br>
 
