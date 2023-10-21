@@ -19,6 +19,7 @@
 
 - [3005 Onshape Design Course](https://youtube.com/playlist?list=PLQIm9FH0BaLy89D08eBL-6CcWH8o2BRJe&si=x4AX0GJiqzkJxVXf)
 - [3847 Intro to FRC Mechanisms](https://youtu.be/JTZ31lpMkfA?si=me_SW8SM-egxrF4-)
+- [FUN: Behind the Bumpers](https://youtube.com/playlist?list=PLkZ6_Ld1x9Y_GDGwzzxD_vi_5tnlmAWJo&si=Q4rhtTdQc81wzV3J)
 
 <br>
 
@@ -82,6 +83,7 @@
 <br>
 
 - [Mechanical Design for Controllability](https://youtu.be/VNfFn-gcfFI?si=V7nIBtyTmOmKHGzp) 
+- [3D Printing Tips When Adding Metal Parts](https://youtu.be/rk6MkW1eRiY?si=-bjcroJT3XKzytSA)
 
 <br>
 
