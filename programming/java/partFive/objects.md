@@ -23,7 +23,7 @@
 
 <br>
 
-````Java
+````java
 motor m1 = new motor(0);              //new is used to create an instance of the class called an object
       motor m2 = new motor(1);
       
