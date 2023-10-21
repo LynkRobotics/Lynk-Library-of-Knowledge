@@ -43,7 +43,7 @@ public class JavaIntro2 {                        //This creates the "class", for
 
 <br>
 
-# [Previous Page](https://docs.lynkrobotics.org/java) / [Home](https://docs.lynkrobotics.org/) / [Next Page](./booleanLogic.md) 
+# [Previous Page](https://docs.lynkrobotics.org/programming/java) / [Home](https://docs.lynkrobotics.org/) / [Next Page](./booleanLogic.md) 
 
 <br>
 
