@@ -1,7 +1,6 @@
 <br>
 
-# Welcome to Lynk Library of Knowledge (LLK) 
-This is where basic to more advanced knowledge from different sources will be housed.
+# Welcome to Lynk Library of Knowledge (LLK)!
 
 <br>
 
