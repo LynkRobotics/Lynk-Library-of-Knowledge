@@ -16,7 +16,7 @@ Welcome to the beginner Java tutorial, this is the landing page for part two. I 
 We will be learning about Boolean Logic, and Comparison Operators in this part.
 We will be using this block of Java code for this part. 
 
-````Java
+````java
 public class JavaIntro2 {                        //This creates the "class", for now think of each class like a document or file
     public static void main(String args[]) {    //This line lets Java know what to run when you click execute below
       boolean b1 = true;                        //boolean variables can only hold true or false
