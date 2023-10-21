@@ -20,7 +20,7 @@
 
 <br>
 
-````Java
+````java
 //Anything typed after a "//" is comment, the complier ignores comments
 //Comments are used to provide more information about what a program is doing.
 
