@@ -54,7 +54,7 @@
 
 <br>
 
-# [Previous Page](./index.md) / [Home](./index.md) / [Next Page](./index.md) 
+# [Previous Page](./index.md) / [Home](./index.md) / [Next Page](https://docs.lynkrobotics.org/programming/java/partFive) 
 
 
 

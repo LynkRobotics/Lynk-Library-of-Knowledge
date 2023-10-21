@@ -33,4 +33,4 @@ if (x == y){  //"if" statements decide to do something based on if something is 
 
 <br>
 
-# [Previous Page](./index.md) / [Home](./index.md) / [Next Page](./index.md) 
+# [Previous Page](./index.md) / [Home](./index.md) / [Next Page](https://docs.lynkrobotics.org/programming/java/partFour) 
