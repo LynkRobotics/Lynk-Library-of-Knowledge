@@ -15,6 +15,7 @@
 <br>
 
 - [Mechanical Design for Controllability](https://youtu.be/VNfFn-gcfFI?si=V7nIBtyTmOmKHGzp) 
+- [3D Printing Tips When Adding Metal Parts](https://youtu.be/rk6MkW1eRiY?si=-bjcroJT3XKzytSA)
 
 <br>
 
