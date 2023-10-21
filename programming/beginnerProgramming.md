@@ -10,8 +10,7 @@
 
 <br>
 
-- [Start]()
-  - [Setup]() todo
+- [Start](./java/start/index.md)
 - [Part 1](./java/partOne/index.md)
   - [Comments](./java/partOne/comments.md)
   - [Variables](./java/partOne/variables.md)
@@ -23,13 +22,13 @@
 - [Part 2](./java/partTwo/index.md)
   - [Boolean Logic](./java/partTwo/booleanLogic.md)
   - [Comparison Operators](./java/partTwo/comparisonOperators.md)
-- [Part 3]()
-  - [if, else if, else]()
-- [Part 4]()
-  - [Making a Method]()
-- [Part 5]()
-  - [Creating and Using Objects]()
-  - [Making our own Class]()
+- [Part 3](./java/partThree)
+  - [if, else if, else](./java/partThree/if.md)
+- [Part 4](./java/partFour)
+  - [Making a Method](./java/partFour/makingAMethod.md)
+- [Part 5](./java/partFive)
+  - [Creating and Using Objects](./java/partFive/objects.md)
+  - [Making our own Class](./java/partFive/classes.md)
 
 <br>
 

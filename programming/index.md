@@ -14,8 +14,7 @@
 
 <br>
 
-- [Start]()
-  - [Setup]() todo
+- [Start](./java/start/index.md)
 - [Part 1](./java/partOne/index.md)
   - [Comments](./java/partOne/comments.md)
   - [Variables](./java/partOne/variables.md)
