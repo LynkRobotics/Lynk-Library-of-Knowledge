@@ -92,17 +92,23 @@ Covers:
 
 ### [Beginner Build](https://docs.lynkrobotics.org/build/beginnerBuild.html)
 Covers:
-- todo
+- Build Training
+- Making Robust FRC Robots
+- Robot Maintenance
 <br>
 
 ### [Intermediate Build](https://docs.lynkrobotics.org/build/intermediateBuild.html)
 Covers:
-- todo
+- Best Practices
+- How to build bumpers
+- Understanding Engineering Drawings
 <br>
 
 ### [Advanced Build](https://docs.lynkrobotics.org/build/advancedBuild.html) 
 Covers:
-- todo
+- Powder Coating
+- Carbide Create / Motion
+- and More!
 <br>
 
 ***
