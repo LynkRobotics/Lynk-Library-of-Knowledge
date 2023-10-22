@@ -250,3 +250,7 @@ Team blogs from various teams are housed here.
 | ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/LynkRobotics/LynkRobotics.github.io/main?style=for-the-badge&labelColor=bf5700&color=000000) |
 
 <br>
+
+![GitHub Repo stars](https://img.shields.io/github/stars/LynkRobotics/LynkRobotics.github.io?style=for-the-badge&logoColor=bf5700&labelColor=bf5700&color=000000) ![GitHub watchers](https://img.shields.io/github/watchers/LynkRobotics/LynkRobotics.github.io?style=for-the-badge&labelColor=bf5700&color=000000)
+
+
