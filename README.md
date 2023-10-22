@@ -165,6 +165,10 @@ Covers:
 - todo
 <br>
 
+### [Strategy Tools](https://docs.lynkrobotics.org/strategy/tools.html)
+Tools that will help with strategy
+<br>
+
 ***
 
 <br>
