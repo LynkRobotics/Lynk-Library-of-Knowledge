@@ -2,7 +2,7 @@
 
 <br>
 
-## Beginner Strategy
+## [Beginner Strategy](./beginnerStrategy.md)
 
 <br>
 
@@ -31,7 +31,7 @@
 
 <br>
 
-## Intermediate Strategy
+## [Intermediate Strategy](./intermediateStrategy.md)
 
 <br>
 
@@ -55,7 +55,7 @@
 
 <br>
 
-## Advanced Strategy
+## [Advanced Strategy](./advancedStrategy.md)
 
 <br>
 
@@ -74,3 +74,11 @@
 - todo
 
 <br>
+
+## [Tools](./tools.md)
+
+<br>
+
+- [The Blue Alliance](https://www.thebluealliance.com/)
+- [Statbotics](https://www.statbotics.io/)
+- [FRC Locks](https://frclocks.com)
