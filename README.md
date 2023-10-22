@@ -6,7 +6,7 @@
 
 ***
 
-# ! THIS SITE IS CONSTANTLY UPDATED, CHECK BACK EVERY SO OFTEN FOR UPDATES !
+# ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/LynkRobotics.github.io/main?label=Last%20Updated&labelColor=bf5700&color=000000)
 
 <br>
 
