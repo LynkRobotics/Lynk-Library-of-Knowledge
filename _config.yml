@@ -7,3 +7,9 @@ theme:
   favicon: /favicon.png
 title: Lynk Library of Knowledge
 description: 9496 Lynk's site for housing knowledge and information for the team.
+
+social-network-links:
+  email: "info@lynkrobotics.org"
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  facebook: LynkRobotics
+  github: LynkRobotics
