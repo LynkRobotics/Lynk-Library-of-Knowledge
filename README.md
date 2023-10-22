@@ -121,17 +121,23 @@ Covers:
 
 ### [Beginner Electrical](https://docs.lynkrobotics.org/electrical/beginnerElectrical.html) 
 Covers:
-- todo
+- What is Electrical? 
+- Crimping Wires
+- Basics
 <br>
 
 ### [Intermediate Electrical](https://docs.lynkrobotics.org/electrical/intermediateElectrical.html) 
 Covers:
-- todo
+- How to Solder
+- Different Circuits
+- Batteries
 <br>
 
 ### [Advanced Electrical](https://docs.lynkrobotics.org/electrical/advancedElectrical.html) 
 Covers:
-- todo
+- Pneumatics
+- Adv. Soldering
+- and More!
 <br>
 
 ***
