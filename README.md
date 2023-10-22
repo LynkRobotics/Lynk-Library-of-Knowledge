@@ -4,9 +4,7 @@
 
 <br>
 
-***
-
-# ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/LynkRobotics.github.io/main?label=Last%20Updated&labelColor=bf5700&color=000000)
+# ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/LynkRobotics.github.io/main?style=for-the-badge&label=Last%20Updated&labelColor=bf5700&color=000000 )
 
 <br>
 
@@ -230,5 +228,25 @@ Team blogs from various teams are housed here.
 | | | |
 | | | |
 | | | |
+
+<br>
+
+***
+
+<br>
+
+| Last Updated |
+| :---: |
+| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/LynkRobotics.github.io/main?style=for-the-badge&label=Last%20Updated&labelColor=bf5700&color=000000) |
+| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/LynkRobotics.github.io/programming?style=for-the-badge&label=Programming%20Last%20Updated&labelColor=bf5700&color=000000) |
+| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/LynkRobotics.github.io/design?style=for-the-badge&label=Design%20Last%20Updated&labelColor=bf5700&color=000000) |
+| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/LynkRobotics.github.io/build?style=for-the-badge&label=Build%20Last%20Updated&labelColor=bf5700&color=000000) |
+| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/LynkRobotics.github.io/electrical?style=for-the-badge&label=Electrical%20Last%20Updated&labelColor=bf5700&color=000000) |
+| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/LynkRobotics.github.io/strategy?style=for-the-badge&label=Strategy%20Last%20Updated&labelColor=bf5700&color=000000) |
+| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/LynkRobotics.github.io/scouting?style=for-the-badge&label=Scouting%20Last%20Updated&labelColor=bf5700&color=000000) |
+| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/LynkRobotics.github.io/teamBlogs?style=for-the-badge&label=Team%20Blogs%20Last%20Updated&labelColor=bf5700&color=000000) |
+| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/LynkRobotics.github.io/technicalDocuments?style=for-the-badge&label=Technical%20Documents%20Last%20Updated&labelColor=bf5700&color=000000) |
+| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/LynkRobotics.github.io/whatIsFRC?style=for-the-badge&label=What%20is%20FRC%3F%20Last%20Updated&labelColor=bf5700&color=000000) |
+| ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/LynkRobotics/LynkRobotics.github.io/main?style=for-the-badge&labelColor=bf5700&color=000000) |
 
 <br>
