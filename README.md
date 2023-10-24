@@ -251,6 +251,7 @@ Team blogs from various teams are housed here.
 | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/teamBlogs?style=for-the-badge&label=Team%20Blogs%20Last%20Updated&labelColor=bf5700&color=000000) |
 | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/technicalDocuments?style=for-the-badge&label=Technical%20Documents%20Last%20Updated&labelColor=bf5700&color=000000) |
 | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/whatIsFRC?style=for-the-badge&label=What%20is%20FRC%3F%20Last%20Updated&labelColor=bf5700&color=000000) |
+| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/Lynk-Archive?style=for-the-badge&label=Lynk%20Archive%20last%20updated&labelColor=bf5700&color=000000) |
 | ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/LynkRobotics/Lynk-Library-of-Knowledge/main?style=for-the-badge&labelColor=bf5700&color=000000) |
 
 <br>
