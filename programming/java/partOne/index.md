@@ -17,7 +17,7 @@ Welcome to the beginner Java tutorial, this is the landing page for part one. I 
 In this part you will learn about the pure basics of Java.
 We will be using this block of Java code for this part. 
 
-````Java
+````java
 //Anything typed after a "//" is comment, the complier ignores comments
 //Comments are used to provide more information about what a program is doing.
 

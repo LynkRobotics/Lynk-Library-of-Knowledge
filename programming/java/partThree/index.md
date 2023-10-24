@@ -17,7 +17,7 @@
 In this part you will learn about todo
 We will be using this block of Java code for this part. 
 
-````Java
+````java
 public class JavaIntro3 {                        //This creates the "class", for now think of each class like a document or file
     public static void main(String args[]) {    //This line lets Java know what to run when you click execute below
         boolean b1 = true;

@@ -15,7 +15,7 @@
 
 <br>
 
-````Java
+````java
  /*add 4 to the paramter sent to the method and return the result*/
     public static double addFour(double num){   // the varible type before the method name is what type will be returned
         return num + 4;                         //return is the keyword that tells java to end the method and send the value

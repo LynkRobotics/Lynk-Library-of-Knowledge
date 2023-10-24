@@ -20,8 +20,8 @@
 ### OA Blogs
 <br>
 
-- [2022: Spectrum 3847 | Build Blog](https://www.chiefdelphi.com/t/spectrum-3847-build-blog-2022/399190?u=jimmyy)
-- [2023: Spectrum 3847 | Build Blog](https://www.chiefdelphi.com/t/spectrum-3847-build-blog-2023/420801?u=jimmyy)
+- [2022: Spectrum 3847 ⎮ Build Blog](https://www.chiefdelphi.com/t/spectrum-3847-build-blog-2022/399190?u=jimmyy)
+- [2023: Spectrum 3847 ⎮ Build Blog](https://www.chiefdelphi.com/t/spectrum-3847-build-blog-2023/420801?u=jimmyy)
 
 
 <br>

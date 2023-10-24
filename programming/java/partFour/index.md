@@ -18,7 +18,7 @@
 In this part you will learn about making a method
 We will be using this block of Java code for this part. 
 
-````Java
+````java
 public class JavaIntro4 {                       
     /*add 4 to the paramter sent to the method and return the result*/
     public static double addFour(double num){   // the varible type before the method name is what type will be returned
