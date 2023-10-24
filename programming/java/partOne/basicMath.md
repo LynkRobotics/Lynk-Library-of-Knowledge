@@ -26,7 +26,7 @@
 
 ## Example
 
-````Java
+````java
 int x = 10;
 int y = 20;
 int answer = x + y;

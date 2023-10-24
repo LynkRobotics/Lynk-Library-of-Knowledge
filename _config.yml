@@ -1,8 +1,9 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-site_name: Lynk Library of Knowledge
 
-theme: 
-  favicon: imageAssets/favicon.png
-
+theme:
+  custom_dir: 'imageAssets'
+  favicon: /favicon.png
+title: Lynk Library of Knowledge
+description: 9496 Lynk's site for housing knowledge and information for the team.

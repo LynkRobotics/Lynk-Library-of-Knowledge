@@ -26,7 +26,7 @@
 
 ## Example
 
-````Java
+````java
 System.out.println("Answer: " + answer);
 ````
 

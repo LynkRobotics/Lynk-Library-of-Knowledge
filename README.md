@@ -1,11 +1,22 @@
-# Welcome to Lynk Library of Knowledge (LLK) 
-This is where basic to more advanced knowledge from different sources will be housed.
+<br>
+
+# Welcome to Lynk Library of Knowledge (LLK)!
+
+<br>
+
+# ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/main?style=for-the-badge&label=Last%20Updated&labelColor=bf5700&color=000000 )
 
 <br>
 
 ***
 
-# ! THIS SITE IS CONSTANTLY UPDATED, CHECK BACK EVERY SO OFTEN FOR UPDATES !
+<br>
+
+## [What is FRC?](https://docs.lynkrobotics.org/whatIsFRC/)
+Covers:
+- What is FRC?
+- The History of FRC
+- todo
 
 <br>
 
@@ -36,6 +47,7 @@ Covers:
 - Coding **MECHANISMS**!
 - Control Theory
 - Autonomous
+- and MORE!!!!
 <br>
 
 ***
@@ -46,23 +58,27 @@ Covers:
 
 <br>
 
-
 ### [Beginner Design](https://docs.lynkrobotics.org/design/beginnerDesign.html)
 Covers:
 - Onshape
+- Intro to FRC Mechanisms
+- Behind the Bumpers
 
 <br>
 
-
 ### [Intermediate Design](https://docs.lynkrobotics.org/design/intermediateDesign.html)
 Covers:
-- todo
+- Design Process
+- Effective Mechanisms in FRC
+- Making Robust FRC Robots 
 
 <br>
 
 ### [Advanced Design](https://docs.lynkrobotics.org/design/advancedDesign.html)
 Covers:
-- todo
+- Printing tips
+- Design for Controllability
+- and More!
 
 <br>
 
@@ -75,17 +91,23 @@ Covers:
 
 ### [Beginner Build](https://docs.lynkrobotics.org/build/beginnerBuild.html)
 Covers:
-- todo
+- Build Training
+- Making Robust FRC Robots
+- Robot Maintenance
 <br>
 
 ### [Intermediate Build](https://docs.lynkrobotics.org/build/intermediateBuild.html)
 Covers:
-- todo
+- Best Practices
+- How to build bumpers
+- Understanding Engineering Drawings
 <br>
 
 ### [Advanced Build](https://docs.lynkrobotics.org/build/advancedBuild.html) 
 Covers:
-- todo
+- Powder Coating
+- Carbide Create / Motion
+- and More!
 <br>
 
 ***
@@ -98,17 +120,23 @@ Covers:
 
 ### [Beginner Electrical](https://docs.lynkrobotics.org/electrical/beginnerElectrical.html) 
 Covers:
-- todo
+- What is Electrical? 
+- Crimping Wires
+- Basics
 <br>
 
 ### [Intermediate Electrical](https://docs.lynkrobotics.org/electrical/intermediateElectrical.html) 
 Covers:
-- todo
+- How to Solder
+- Different Circuits
+- Batteries
 <br>
 
 ### [Advanced Electrical](https://docs.lynkrobotics.org/electrical/advancedElectrical.html) 
 Covers:
-- todo
+- Pneumatics
+- Adv. Soldering
+- and More!
 <br>
 
 ***
@@ -133,6 +161,22 @@ Covers:
 ### [Advanced Strategy](https://docs.lynkrobotics.org/strategy/advancedStrategy.html)
 Covers:
 - todo
+<br>
+
+### [Strategy Tools](https://docs.lynkrobotics.org/strategy/tools.html)
+Tools that will help with strategy
+<br>
+
+***
+
+<br>
+
+## [Lynk Archive](https://docs.lynkrobotics.org/lynkArchive/index.html)
+This is where various items (such as, OA, guides, etc) from the team will be housed
+<br>
+
+## [Team Blogs](https://docs.lynkrobotics.org/teamBlogs/)
+Team blogs from various teams are housed here.
 <br>
 
 ***
@@ -190,3 +234,30 @@ Covers:
 | | | |
 
 <br>
+
+***
+
+<br>
+
+| Last Updated |
+| :---: |
+| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/main?style=for-the-badge&label=Last%20Updated&labelColor=bf5700&color=000000) |
+| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/programming?style=for-the-badge&label=Programming%20Last%20Updated&labelColor=bf5700&color=000000) |
+| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/design?style=for-the-badge&label=Design%20Last%20Updated&labelColor=bf5700&color=000000) |
+| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/build?style=for-the-badge&label=Build%20Last%20Updated&labelColor=bf5700&color=000000) |
+| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/electrical?style=for-the-badge&label=Electrical%20Last%20Updated&labelColor=bf5700&color=000000) |
+| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/strategy?style=for-the-badge&label=Strategy%20Last%20Updated&labelColor=bf5700&color=000000) |
+| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/scouting?style=for-the-badge&label=Scouting%20Last%20Updated&labelColor=bf5700&color=000000) |
+| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/teamBlogs?style=for-the-badge&label=Team%20Blogs%20Last%20Updated&labelColor=bf5700&color=000000) |
+| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/technicalDocuments?style=for-the-badge&label=Technical%20Documents%20Last%20Updated&labelColor=bf5700&color=000000) |
+| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/whatIsFRC?style=for-the-badge&label=What%20is%20FRC%3F%20Last%20Updated&labelColor=bf5700&color=000000) |
+| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/Lynk-Archive?style=for-the-badge&label=Lynk%20Archive%20last%20updated&labelColor=bf5700&color=000000) |
+| ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/LynkRobotics/Lynk-Library-of-Knowledge/main?style=for-the-badge&labelColor=bf5700&color=000000) |
+
+<br>
+
+![GitHub Repo stars](https://img.shields.io/github/stars/LynkRobotics/Lynk-Library-of-Knowledge?style=for-the-badge&logoColor=bf5700&labelColor=bf5700&color=000000) ![GitHub watchers](https://img.shields.io/github/watchers/LynkRobotics/LynkRobotics.github.io?style=for-the-badge&labelColor=bf5700&color=000000)
+
+![Static Badge](https://img.shields.io/badge/Lynk%20Library%20of%20Knowledge-LLK-NAN?style=for-the-badge&labelColor=bf5700&color=000000&link=%3Cobject%20data%3D%22https%3A%2F%2Fdocs.lynkrobotics.org%2F%22%3E%3C%2Fobject%3E)
+
+

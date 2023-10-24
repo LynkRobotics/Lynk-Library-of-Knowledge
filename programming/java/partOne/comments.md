@@ -16,7 +16,7 @@
 
 ## Example
 
-````Java
+````java
 //This is a comment
 
 /*
