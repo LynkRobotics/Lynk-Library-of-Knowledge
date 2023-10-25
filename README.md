@@ -260,4 +260,3 @@ Team blogs from various teams are housed here.
 
 ![Static Badge](https://img.shields.io/badge/Lynk%20Library%20of%20Knowledge-LLK-NAN?style=for-the-badge&labelColor=bf5700&color=000000&link=%3Cobject%20data%3D%22https%3A%2F%2Fdocs.lynkrobotics.org%2F%22%3E%3C%2Fobject%3E)
 
-
