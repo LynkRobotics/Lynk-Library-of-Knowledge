@@ -4,7 +4,8 @@
 
 <br>
 
-# ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/main?style=for-the-badge&label=Last%20Updated&labelColor=bf5700&color=000000 )
+# ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/main?style=for-the-badge&label=Last%20Updated&labelColor=bf5700&color=000000 ) ![GitHub issues](https://img.shields.io/github/issues/LynkRobotics/Lynk-Library-of-Knowledge?style=for-the-badge&logo=github&labelColor=bf5700&color=000000)
+
 
 <br>
 
