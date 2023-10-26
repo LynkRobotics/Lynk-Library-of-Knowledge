@@ -6,13 +6,12 @@ projects: ["LLK ToDo List/1"]
 assignees:
   - witherslayer67
 body:
-  - type: textarea
+  - type: input
     id: name-of-resource
     attributes:
       label: Name of Resource
       description: Whats the name of the resource?
-      placeholder: Insert the name
-      value: "Name!"
+      placeholder: "Resource Name"
     validations:
       required: true
   - type: input
