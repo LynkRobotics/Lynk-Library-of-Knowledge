@@ -149,6 +149,7 @@
 
 <br>
 
+- [FRC Documentation on Git/GitHub](https://docs.wpilib.org/en/latest/docs/software/basic-programming/git-getting-started.html)
 - [Git in a Nutshell](https://www.educative.io/blog/git-github-tutorial-beginners)
 - [6135 Git Presentation](https://docs.google.com/presentation/d/1u6U_jYswAvdTaLUHEQ-OCSHSVd32xVkV7TSDiXvAtFM/)
 - [4915 Spartronics Git Developer’s Handbook](https://spartronics4915.gitbook.io/developer-handbook/)
