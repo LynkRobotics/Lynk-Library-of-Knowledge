@@ -1,23 +1,42 @@
 ---
 name: Content Addition Request
 about: 'Provide a resource to add to the LLK '
-title: 'content: addition'
-labels: ''
+title: 'LLK Content Addition Request: (insert name of resource)'
+labels: enhancement
 assignees: witherslayer67
 
 ---
 
-**What is your resource related to? (Design, Build, Programming, Electrical, Strategy, etc)**
-If your resource goes under programming, put programming, etc. If Multiple, separate by a comma. 
+# Lynk Library of Knowledge (LLK): Content Addition Request
 
-**What level should this go under?**
-Is this a Beginner, Intermediate, or Advanced resource. If it doesn't go under a category put "Misc"   
+<br>
 
-**Is this a Video, Reading, or other?**
-Is this resource a Video, Reading, or other?
+- Name of Resource: 
 
-**Name and Link to Resource**
-A clear and concise description of any alternative solutions or features you've considered.
+<br>
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+- Subteam (Build, Design, Electrical, Programming, Scouting, Strategy):
+
+<br>
+
+- Source (Ex. Team number / Name): 
+
+<br>
+
+- Link: 
+
+<br>
+
+- Level (Beginner, Intermediate, Advanced, Tool, Misc):
+
+<br>
+
+- Reading / Video / Other: 
+
+<br>
+
+***
+
+<br>
+
+- Have you checked if this resource is already on the LLK? (Yes / No):
