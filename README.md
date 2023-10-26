@@ -215,6 +215,9 @@ Team blogs from various teams are housed here.
 ### [971](https://docs.lynkrobotics.org/technicalBinders/971.html)
 <br>
 
+### [2056](https://docs.lynkrobotics.org/technicalBinders/2056.html)
+<br>
+
 ### [2910](https://docs.lynkrobotics.org/technicalBinders/2910.html)
 <br>
 
