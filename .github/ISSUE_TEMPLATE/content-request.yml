@@ -28,7 +28,6 @@ body:
       label: Subteam
       description: Which Subteam section does this resource belong to?
       options:
-        - None
         - Build
         - Design
         - Electrical
@@ -39,7 +38,6 @@ body:
         - Technical Reading
         - Technical Binders
         - Team Blogs
-      default: 0
       multiple: true
     validations:
       required: true
