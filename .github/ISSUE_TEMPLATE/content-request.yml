@@ -53,7 +53,6 @@ body:
         - Advanced
         - Tools
         - Misc
-      default: 0
     validations:
       required: true
   - type: dropdown
@@ -65,7 +64,6 @@ body:
         - Reading
         - Video
         - Other
-      default: 0
     validations:
       required: true
   - type: checkboxes
