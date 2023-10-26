@@ -47,3 +47,15 @@ body:
       default: 0
     validations:
       required: true
+  - type: dropdown
+    id: readingVideo
+    attributes:
+      label: Reading / Video / Other
+      description: Is this a reading, video, or other resource? 
+      options:
+        - Reading
+        - Video
+        - Other
+      default: 0
+    validations:
+      required: true
