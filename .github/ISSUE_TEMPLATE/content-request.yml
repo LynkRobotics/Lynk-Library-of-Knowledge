@@ -6,7 +6,7 @@ projects: ["LLK ToDo List/1"]
 assignees:
   - witherslayer67
 body:
-   - type: textarea
+  - type: textarea
     id: name-of-resource
     attributes:
       label: Name of Resource
