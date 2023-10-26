@@ -2,7 +2,7 @@ name: LLK Content Request
 description: Request for content to be added to the LLK
 title: "[Content Request]: "
 labels: ["documentation"]
-projects: ["LynkRobotics/projects/1"]
+projects: ["LynkRobotics/projects/1/views/1"]
 assignees:
   - witherslayer67
 body:
