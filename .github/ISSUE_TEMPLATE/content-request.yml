@@ -15,7 +15,7 @@ body:
       value: "Name!"
     validations:
       required: true
- - type: dropdown
+  - type: dropdown
     id: subteam
     attributes:
       label: SubTeam
