@@ -18,7 +18,7 @@ body:
   - type: dropdown
     id: subteam
     attributes:
-      label: SubTeam
+      label: Subteam
       description: Which Subteam section does this resource belong to?
       options:
         - Build
@@ -30,6 +30,20 @@ body:
         - What is FRC?
         - Technical Binders
         - Team Blogs
+      default: 0
+    validations:
+      required: true
+  - type: dropdown
+    id: contentLevel
+    attributes:
+      label: Level of content
+      description: Which level does this resource belong to?
+      options:
+        - Beginner
+        - Intermediate
+        - Advanced
+        - Tools
+        - Misc
       default: 0
     validations:
       required: true
