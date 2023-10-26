@@ -15,3 +15,21 @@ body:
       value: "Name!"
     validations:
       required: true
+ - type: dropdown
+    id: subteam
+    attributes:
+      label: SubTeam
+      description: Which Subteam section does this resource belong to?
+      options:
+        - Build
+        - Design
+        - Electrical
+        - Programming
+        - Scouting
+        - Strategy
+        - What is FRC?
+        - Technical Binders
+        - Team Blogs
+      default: 0
+    validations:
+      required: true
