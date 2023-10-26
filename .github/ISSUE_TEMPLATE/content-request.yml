@@ -67,6 +67,7 @@ body:
       label: Level of content
       description: Which level does this resource belong to?
       options:
+        - Do not know
         - Beginner
         - Intermediate
         - Advanced
