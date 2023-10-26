@@ -15,6 +15,14 @@ body:
     validations:
       required: true
   - type: input
+    id: resourceSource
+    attributes:
+      label: Works Cited
+      description: Who is the creator of the resource you are submitting?
+      placeholder: "Name or Team Number"
+    validations:
+      required: true
+  - type: input
     id: resourceLink
     attributes:
       label: Resource Link
