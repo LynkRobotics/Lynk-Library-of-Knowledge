@@ -18,6 +18,7 @@ body:
     id: resourceLink
     attributes:
       label: Resource Link
+      description: URL for the resource
       placeholder: "www.url.com/resource"
     validations:
       required: true
@@ -65,3 +66,11 @@ body:
       default: 0
     validations:
       required: true
+  - type: checkboxes
+    id: haveChecked
+    attributes:
+      label: Have you checked if this resource is already in the LLK
+      description: By submitting this issue, you have seen that this is not already provided in the LLK
+      options:
+        - label: I have checked
+          required: true
