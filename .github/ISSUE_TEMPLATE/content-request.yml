@@ -42,6 +42,26 @@ body:
     validations:
       required: true
   - type: dropdown
+    id: subteam2
+    attributes:
+      label: additional Subteam
+      description: Which additional Subteam section does this resource belong to?
+      options:
+        - N/A
+        - Build
+        - Design
+        - Electrical
+        - Programming
+        - Scouting
+        - Strategy
+        - What is FRC?
+        - Technical Reading
+        - Technical Binders
+        - Team Blogs
+      default: 0
+    validations:
+      required: false
+  - type: dropdown
     id: contentLevel
     attributes:
       label: Level of content
