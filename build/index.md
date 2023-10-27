@@ -12,6 +12,7 @@
 
 - [3847 Spectrum Build Training](https://docs.google.com/document/d/e/2PACX-1vQk_ghFBN7682QI_17lbBCx8V_RXNomQRR7er-UIzlllsbdpO4RWOQAVnGFZAEypeNm2grS2G9oxFMp/pub)
 - [3847 Spectrum Robot Maintenance Guide](https://docs.google.com/document/d/1CvjUV53ifhAFf7fCFJdGgbg8yPtPixV1gRJVESSLZlo/edit#heading=h.m42ep9a2ths2)
+- [3847 Build Self Learning Resources](https://docs.google.com/presentation/d/e/2PACX-1vRaIkRvKioVmcl1P6vpddYPYC43QjaxsRZu6qavmp3lNpBcQ0noBf91Pv4N8DwSDgcxdfG2IoPqTNs7/pub?start=false&loop=false&delayms=3000&slide=id.p)
 - [NASA RAP](https://robotics.nasa.gov/downloads/nasarap-rdc-v101-compressed.pdf)
 - [LYNK: Making Robust FRC Robots](https://docs.google.com/document/d/1Qt6DSVOIRh5dXyzQ9Q3VipjBpd12ozPSDN2LOaZLYqo/edit?usp=sharing)
 
@@ -38,6 +39,8 @@
 <br>
 
 - [Loctite: Threadlocking User’s Guide](https://www.ellsworth.com/globalassets/literature-library/manufacturer/henkel-loctite/henkel-loctite-user-guide-threadlocking.pdf)
+- [3847 Build a Bumper Corner](https://docs.google.com/presentation/d/e/2PACX-1vQPDMXJUIOujh_RAJJN_TbLKwHxAndGKZH29gJBilNJVhy4ldbWUeddlX8ZOVYTWcgpbWvMtem8vuW1/pub?start=false&loop=false&delayms=3000&slide=id.p)
+- [3847 Maintenance and Triage](https://docs.google.com/presentation/d/1m0f9urPvA5mDsYUIbJfKmZDw2Bal5va4vqTf4cG_kvM/edit#slide=id.p)
 
 <br>
 
@@ -50,6 +53,9 @@
 - [Understanding Engineering Drawings](https://youtu.be/ht9GwXQMgpo?si=lytPkhk27MsLrDBO)
 - [8 Old School Tips For Better Hand Filing](https://youtu.be/h4KaiG7CpSQ?si=08oAXmoljbbA4mnZ)
 - [How to build bumpers](https://www.youtube.com/watch?v=JN6JkBnvARo&list=PLbBZ-oKrRYEw7BPqCIbXKyx2CEwIw0FKK)
+- [How to Make FRC Bumpers - Tutorial](https://www.youtube.com/watch?v=Uny8tTLfOzc)
+- [3847 Build a Bumper Corner](https://www.youtube.com/watch?v=FzBe4kIvTy8)
+- [3847 Maintenance and Triage](https://www.youtube.com/watch?v=TsYSL9athTk)
 
 <br>
 
