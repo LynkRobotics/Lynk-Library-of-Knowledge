@@ -243,23 +243,6 @@ Team blogs from various teams are housed here.
 
 <br>
 
-| Last Updated |
-| :---: |
-| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/main?style=for-the-badge&label=Last%20Updated&labelColor=bf5700&color=000000) |
-| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/programming?style=for-the-badge&label=Programming%20Last%20Updated&labelColor=bf5700&color=000000) |
-| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/design?style=for-the-badge&label=Design%20Last%20Updated&labelColor=bf5700&color=000000) |
-| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/build?style=for-the-badge&label=Build%20Last%20Updated&labelColor=bf5700&color=000000) |
-| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/electrical?style=for-the-badge&label=Electrical%20Last%20Updated&labelColor=bf5700&color=000000) |
-| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/strategy?style=for-the-badge&label=Strategy%20Last%20Updated&labelColor=bf5700&color=000000) |
-| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/scouting?style=for-the-badge&label=Scouting%20Last%20Updated&labelColor=bf5700&color=000000) |
-| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/teamBlogs?style=for-the-badge&label=Team%20Blogs%20Last%20Updated&labelColor=bf5700&color=000000) |
-| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/technicalDocuments?style=for-the-badge&label=Technical%20Documents%20Last%20Updated&labelColor=bf5700&color=000000) |
-| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/whatIsFRC?style=for-the-badge&label=What%20is%20FRC%3F%20Last%20Updated&labelColor=bf5700&color=000000) |
-| ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/Lynk-Archive?style=for-the-badge&label=Lynk%20Archive%20last%20updated&labelColor=bf5700&color=000000) |
-| ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/LynkRobotics/Lynk-Library-of-Knowledge/main?style=for-the-badge&labelColor=bf5700&color=000000) |
-
-<br>
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/LynkRobotics/Lynk-Library-of-Knowledge?style=for-the-badge&logoColor=bf5700&labelColor=bf5700&color=000000) ![GitHub watchers](https://img.shields.io/github/watchers/LynkRobotics/LynkRobotics.github.io?style=for-the-badge&labelColor=bf5700&color=000000)
 
 ![Static Badge](https://img.shields.io/badge/Lynk%20Library%20of%20Knowledge-LLK-NAN?style=for-the-badge&labelColor=bf5700&color=000000&link=%3Cobject%20data%3D%22https%3A%2F%2Fdocs.lynkrobotics.org%2F%22%3E%3C%2Fobject%3E)
