@@ -6,12 +6,12 @@
 
 <br>
 
-### 2023 Off-Season
+### [2023 Off-Season](./2023OffSeasonOA/index.md)
 - [2023 OA Off-Season Post (10/23/23)](https://www.chiefdelphi.com/t/frc-9496-lynk-2024-build-thread-open-alliance/441524?u=jimmyy/3?u=jimmyy)
 
 <br>
 
-### 2024 Season
+### [2024 Season](./2024SeasonOA/index.md)
 - [2024 OA Blog](https://www.chiefdelphi.com/t/frc-9496-lynk-2024-build-thread-open-alliance/441524?u=jimmyy)
 
 <br>
