@@ -44,9 +44,9 @@ This [video](https://youtu.be/BycqWYE3Ais?si=CsRCYG96PdMLrEDS) by YouTuber [Alph
 
 <br>
 
-- [FUN: Rewind Ep 1 | 2016: A Stronghold to Behold | FIRST History](https://youtu.be/fnFCz8LNDoM?si=JWvoqszKYGZtKSPf)
-- [FUN: Rewind Ep. 2 | Districts: A FIRST in Michigan | Jim Zondag FRC 33](https://www.youtube.com/watch?v=QtrJ7ROboXA)
-- [FUN: Rewind Ep. 3 | History of Divisions | Rylee 3481 & James 179 ](https://youtu.be/xdBq2ou9lNQ?si=_YfyXvxzwxTMOYEV)
+- [FUN: Rewind Ep 1: 2016: A Stronghold to Behold: FIRST History](https://youtu.be/fnFCz8LNDoM?si=JWvoqszKYGZtKSPf)
+- [FUN: Rewind Ep. 2: Districts: A FIRST in Michigan: Jim Zondag FRC 33](https://www.youtube.com/watch?v=QtrJ7ROboXA)
+- [FUN: Rewind Ep. 3: History of Divisions: Rylee 3481 & James 179](https://youtu.be/xdBq2ou9lNQ?si=_YfyXvxzwxTMOYEV)
 
 <br>
 
