@@ -184,6 +184,10 @@ This is where various items (such as, OA, guides, etc) from the team will be hou
 Team blogs from various teams are housed here.
 <br>
 
+## [Team Technical Binders](https://docs.lynkrobotics.org/technicalBinders)
+Various team technical binders will be housed here
+<br>
+
 ***
 
 <br>
@@ -208,22 +212,6 @@ Team blogs from various teams are housed here.
 
 ***
 
-<br>
-
-## [Team Technical Binders](https://docs.lynkrobotics.org/technicalBinders)
-
-<br>
-
-### [254](https://docs.lynkrobotics.org/technicalBinders/254.html)
-<br>
-
-### [971](https://docs.lynkrobotics.org/technicalBinders/971.html)
-<br>
-
-### [2056](https://docs.lynkrobotics.org/technicalBinders/2056.html)
-<br>
-
-### [2910](https://docs.lynkrobotics.org/technicalBinders/2910.html)
 <br>
 
 ***
