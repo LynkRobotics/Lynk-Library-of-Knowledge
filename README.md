@@ -150,18 +150,22 @@ Covers:
 
 ### [Beginner Strategy](https://docs.lynkrobotics.org/strategy/beginnerStrategy.html)
 Covers:
-- todo
+- Effective FIRST Strategies with Karthik
+- Basic Strategy
 <br>
 
 
 ### [Intermediate Strategy](https://docs.lynkrobotics.org/strategy/intermediateStrategy.html)
 Covers:
+- Strategic Design
 - todo
 <br>
 
 ### [Advanced Strategy](https://docs.lynkrobotics.org/strategy/advancedStrategy.html)
 Covers:
-- todo
+- Developing Alliance Match Strategy
+- Game Analysis
+- and More!
 <br>
 
 ### [Strategy Tools](https://docs.lynkrobotics.org/strategy/tools.html)
