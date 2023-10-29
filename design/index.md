@@ -51,6 +51,7 @@
 - [3847 Spectrum: Exploration of the WCP Greyt Elevator](https://docs.google.com/presentation/d/e/2PACX-1vR7pTJ3LLc3vSHlODMRAvNtY-d9foLmCrTbscrR4XsfZ-feEIsnIMLqN88qVLrryX-u11UMneEtNw7E/pub?start=false&loop=false&delayms=3000&slide=id.p)
 - [3847 Spectrum: Versaplanetary Gearboxes](https://docs.google.com/presentation/d/e/2PACX-1vQN88Il5Nrz_L5Xer0ZD26VU7vyzBauwLfSA0oDac8M8dG8X2PG5apirFMdWU9d8s1PdfkQGyDSHsxQ/pub?start=false&loop=false&delayms=3000#slide=id.p)
 - [3847 Spectrum: Understanding Engineering Drawings](https://docs.google.com/presentation/d/e/2PACX-1vSem3tgOC9RU2MZDlUcG63dWr3bkP0v4WdpYcP2Csp5CzON34-OxHoik1XQR6ER7oK0s9GmSVJXjmp_/pub?start=false&loop=false&delayms=3000#slide=id.p)
+- [3847 Spectrum: Beginner Swerve](https://docs.google.com/presentation/d/19VG7f6q_nAr7J_KQzzkFIEuZ_MiLac2Agt8Rigstvxw/edit#slide=id.p)
 - [610 Design Tutorials](http://www.team610.com/wp-content/uploads/2014/03/Design-TutorialsRev10.pdf)
 - [LYNK: Design Constraints of Chain](https://docs.google.com/document/d/1m06TxMAqUlIHKjY84uFjRJwLsTOlEjOfFqxZBVQKsck/edit?usp=sharing)
 - [LYNK: Parts Coding System](https://docs.google.com/document/d/1AxjovjDQV9VLWG0vvZujM-4wMK7v6N10FWTSsmSrQFU/edit?usp=sharing)
@@ -71,6 +72,7 @@
 - [3847 Spectrum: Exploration of the WCP Greyt Elevator](https://www.youtube.com/watch?v=qpS9nBsSBMY)
 - [3847 Spectrum: Versaplanetary Gearboxes](https://youtu.be/IPvYsb7iGRU?si=7b2-hTEHji09xAEQ)
 - [3847 Spectrum: Understanding Engineering Drawings](https://youtu.be/NYxRrcumNW0?si=XCCe6wGEi2dGGROj)
+- [3847 Spectrum: Beginner Swerve](https://youtu.be/Lufpp4JW07E?si=Xw5x8OCBklMP7Kfm)
 - [Nick Aarested](https://www.youtube.com/@cadandcookies)
 - [FRC RAMP](https://www.youtube.com/@973RAMP/videos)
 
