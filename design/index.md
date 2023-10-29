@@ -46,6 +46,7 @@
 - [1678 Design Training](https://drive.google.com/drive/folders/1F-AP030M6VrqCQtGZnVcdJJVV1d6hj72?usp=drive_link)
 - [NASA RAP](https://robotics.nasa.gov/downloads/nasarap-rdc-v101-compressed.pdf)
 - [3847 Spectrum: Exploration of the FRC Kit Drivetrain](https://docs.google.com/presentation/d/1s8FXoLkaDItLqeoZuWtbpKZ37vAkAWRLAB3alNoH6QE/edit#slide=id.p)
+- [3847 Spectrum: Exploration of the WCP Greyt Elevator](https://docs.google.com/presentation/d/e/2PACX-1vR7pTJ3LLc3vSHlODMRAvNtY-d9foLmCrTbscrR4XsfZ-feEIsnIMLqN88qVLrryX-u11UMneEtNw7E/pub?start=false&loop=false&delayms=3000&slide=id.p)
 - [610 Design Tutorials](http://www.team610.com/wp-content/uploads/2014/03/Design-TutorialsRev10.pdf)
 - [LYNK: Design Constraints of Chain](https://docs.google.com/document/d/1m06TxMAqUlIHKjY84uFjRJwLsTOlEjOfFqxZBVQKsck/edit?usp=sharing)
 - [LYNK: Parts Coding System](https://docs.google.com/document/d/1AxjovjDQV9VLWG0vvZujM-4wMK7v6N10FWTSsmSrQFU/edit?usp=sharing)
@@ -63,6 +64,7 @@
 - [Design for Serviceability](https://youtu.be/iKS5dfLuRYA?si=AhDQ48YXtXCUPUqm)
 - [3847 Overview of FRC Robots](https://www.youtube.com/watch?v=86NCQfrjNr0)
 - [3847 Spectrum: Exploration of the FRC Kit Drivetrain](https://www.youtube.com/watch?v=WP8MMmHlwTM)
+- [3847 Spectrum: Exploration of the WCP Greyt Elevator](https://www.youtube.com/watch?v=qpS9nBsSBMY)
 - [Nick Aarested](https://www.youtube.com/@cadandcookies)
 - [FRC RAMP](https://www.youtube.com/@973RAMP/videos)
 
