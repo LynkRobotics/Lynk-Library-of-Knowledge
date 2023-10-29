@@ -7,7 +7,10 @@
 <br>
 
 ### [2023 Off-Season](./2023OffSeasonOA/index.md)
-- [2023 OA Off-Season Post (10/23/23)](https://www.chiefdelphi.com/t/frc-9496-lynk-2024-build-thread-open-alliance/441524?u=jimmyy/3?u=jimmyy)
+- [2023 OA Off-Season Post (10/23/23)](https://www.chiefdelphi.com/t/frc-9496-lynk-2024-build-thread-open-alliance/441524?u=jimmyy/3?u=jimmyy) <br>
+This was the first student meeting of 9496 Lynk
+- [2023 OA Off-Season Post (10/29/23)](https://www.chiefdelphi.com/t/frc-9496-lynk-2024-build-thread-open-alliance/441524?u=jimmyy/7?u=jimmyy) <br>
+This was the public release of the Lynk Library of Knowledge (LLK)
 
 <br>
 
