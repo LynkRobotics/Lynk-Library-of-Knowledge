@@ -61,7 +61,7 @@ Covers:
 
 ### [Beginner Design](https://docs.lynkrobotics.org/design/beginnerDesign.html)
 Covers:
-- Onshape
+- OnShape
 - Intro to FRC Mechanisms
 - Behind the Bumpers
 
