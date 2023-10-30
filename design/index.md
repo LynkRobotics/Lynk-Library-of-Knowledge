@@ -58,6 +58,7 @@
 - [1678 Citrus Circuits: A Shooter Mechanism: From Concept to Competition](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/shooter_mechanism_from_concept_to_competition.pdf)
 - [3847 Spectrum: Beginner Swerve](https://docs.google.com/presentation/d/19VG7f6q_nAr7J_KQzzkFIEuZ_MiLac2Agt8Rigstvxw/edit#slide=id.p)
 - [1678 Citrus Circuits: Simple Robots that Win](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/simple_robots_that_win.pdf)
+- [1678 Citrus Circuits: Simplicity in Design](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/simplicity_in_design.pdf)
 - [610 Design Tutorials](http://www.team610.com/wp-content/uploads/2014/03/Design-TutorialsRev10.pdf)
 - [LYNK: Design Constraints of Chain](https://docs.google.com/document/d/1m06TxMAqUlIHKjY84uFjRJwLsTOlEjOfFqxZBVQKsck/edit?usp=sharing)
 - [LYNK: Parts Coding System](https://docs.google.com/document/d/1AxjovjDQV9VLWG0vvZujM-4wMK7v6N10FWTSsmSrQFU/edit?usp=sharing)
@@ -83,6 +84,7 @@
 - [1678 Citrus Circuits: A Shooter Mechanism: From Concept to Competition](https://www.youtube.com/watch?v=nWzm-8c9Vyw)
 - [3847 Spectrum: Beginner Swerve](https://youtu.be/Lufpp4JW07E?si=Xw5x8OCBklMP7Kfm)
 - [1678 Citrus Circuits: Simple Robots that Win](https://www.youtube.com/watch?v=KP7FAur7jj4)
+- [1678 Citrus Circuits: Simplicity in Design](https://www.youtube.com/watch?v=2XneNCxo1tY)
 - [Nick Aarested](https://www.youtube.com/@cadandcookies)
 - [FRC RAMP](https://www.youtube.com/@973RAMP/videos)
 
