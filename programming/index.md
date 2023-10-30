@@ -438,6 +438,7 @@
 <br>
 
 - [971 Spartan Robotics: Distortion, Mapping, and Vision](https://docs.google.com/presentation/d/1pIXrXb_jm4eeUZMu_UsEyszuM3a0ctF-xCKt0XsVtCw/edit#slide=id.p)
+- [971 Spartan Robotics: Sensor Filtering in FRC](https://docs.google.com/presentation/d/1fuQh7zUe5Aoufv1o_k1GJ9bF7wKdqJYgl6v3O-pg79E/edit#slide=id.p)
 
 <br>
 
@@ -450,6 +451,7 @@
 <br>
 
 - [971 Spartan Robotics: Distortion, Mapping, and Vision](https://www.youtube.com/watch?v=cPaa6apv0m4)
+- [971 Spartan Robotics: Sensor Filtering in FRC](https://www.youtube.com/watch?v=IGbiZmzRUt8)
 
 <br>
 
