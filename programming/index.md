@@ -417,7 +417,44 @@
 
 <br>
 
+#### Vision
 
+<br>
 
+##### WPILib
+
+<br>
+
+- todo
+
+<br>
+
+***
+
+<br>
+
+##### Reading / Blogs
+
+<br>
+
+- [971 Spartan Robotics: Distortion, Mapping, and Vision](https://docs.google.com/presentation/d/1pIXrXb_jm4eeUZMu_UsEyszuM3a0ctF-xCKt0XsVtCw/edit#slide=id.p)
+
+<br>
+
+***
+
+<br>
+
+##### Videos
+
+<br>
+
+- [971 Spartan Robotics: Distortion, Mapping, and Vision](https://www.youtube.com/watch?v=cPaa6apv0m4)
+
+<br>
+
+***
+
+<br>
 
 
