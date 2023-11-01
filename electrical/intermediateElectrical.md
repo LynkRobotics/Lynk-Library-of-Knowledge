@@ -1,4 +1,4 @@
-# [Intermediate Electrical]() TODO
+# [Intermediate Electrical]() 
 
 <br>
 
@@ -7,6 +7,7 @@
 <br>
 
 - [Offical Control System Manual](https://docs.wpilib.org/en/latest/docs/hardware/hardware-basics/index.html)
+- [FIRST® Robotics Competition Pneumatics Manual](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/technical-resources/frc_pneumatics_manual.pdf)
 - [3847 Spectrum Intro to FRC Control System](https://docs.google.com/presentation/d/1U8EKEZv5Km__JKcN2SpE7tU8HjkMOnHZUupBr-Zo96M/edit#slide=id.p)
 - [3847 Spectrum Beginner Motors for FRC](https://docs.google.com/presentation/d/e/2PACX-1vQx1bBy1RHAYv5y5O5y82e4a45j5DCRmNrwY-d_eOVz8wqks7ehSpiql-qweDWE0J3zzcqMG-5X805x/pub?start=false&loop=false&delayms=3000&slide=id.p)
 - [1678 Citrus Circuits: Diagnosing Electrical Issues](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/wiring_diagnosis_and_history_of_electrial_problems_and_solutions.pdf)
