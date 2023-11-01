@@ -1,4 +1,4 @@
-# [Advanced Electrical]() TODO
+# [Advanced Electrical]() 
 
 <br>
 
