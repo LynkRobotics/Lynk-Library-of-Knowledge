@@ -12,6 +12,7 @@
 - [Paper: Vision Processing with Hardware Acceleration and DepthAI](https://www.chiefdelphi.com/t/paper-vision-processing-with-hardware-acceleration-and-depthai/420836?u=jimmyy)
 - [Paper: 4 wheel independent drive & independent steering (“swerve”)](https://www.chiefdelphi.com/t/paper-4-wheel-independent-drive-independent-steering-swerve/107383?u=jimmyy)
 - [paper: Driver Station Best Practices](https://www.chiefdelphi.com/t/paper-driver-station-best-practices/164429)
+- [449: Whitepaper: Trapezoidal-Exponential Motion Profiling](https://www.chiefdelphi.com/t/whitepaper-trapezoidal-exponential-motion-profiling/443468?u=jimmyy)
 
 <br>
 
