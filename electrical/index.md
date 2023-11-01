@@ -1,4 +1,4 @@
-# [Electrical](https://docs.lynkrobotics.org/electrical/) WIP 
+# [Electrical](https://docs.lynkrobotics.org/electrical/)  
 
 <br>
 
