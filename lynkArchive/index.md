@@ -11,6 +11,8 @@
 This was the first student meeting of 9496 Lynk
 - [2023 OA Off-Season Post (10/29/23)](https://www.chiefdelphi.com/t/frc-9496-lynk-2024-build-thread-open-alliance/441524/8?u=jimmyy) <br>
 This was the public release of the Lynk Library of Knowledge (LLK)
+- [2023 OA Off-Season Post (11/3/23)](https://www.chiefdelphi.com/t/frc-9496-lynk-2024-build-thread-open-alliance/441524/10?u=jimmyy) <br>
+This was a post based around the various tools we want for our shop.
 
 <br>
 
