@@ -11,7 +11,7 @@
 - [2018](./2018/index.md)
 - [2019](./2019/index.md) todo
 - [2020](./2020/index.md)
-- [2021](./2021/index.md) todo
+- [2021](./2021/index.md)
 - [2022](./2022/index.md) todo
 - [2023](./2023/index.md) todo
 
