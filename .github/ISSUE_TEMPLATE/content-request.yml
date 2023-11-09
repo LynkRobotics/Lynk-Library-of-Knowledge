@@ -29,7 +29,7 @@ body:
       description: 2nd URL for the resource (like a video link)
       placeholder: "www.url.com/resource"
     validations:
-      required: true
+      required: false
   - type: dropdown
     id: subteam
     attributes:
@@ -37,6 +37,7 @@ body:
       description: Which Subteam section does this resource belong to?
       options:
         - Build
+        - Business
         - Design
         - Electrical
         - Programming
