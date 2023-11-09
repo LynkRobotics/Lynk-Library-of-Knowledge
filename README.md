@@ -17,7 +17,7 @@
 Covers:
 - What is FRC?
 - The History of FRC
-- Roles in Competition
+- Roles in FRC
 
 <br>
 
