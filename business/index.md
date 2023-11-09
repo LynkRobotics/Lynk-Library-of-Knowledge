@@ -23,6 +23,8 @@
 - [971 Spartan Robotics: Inventive Outreach and Your Team](https://www.youtube.com/watch?v=tw8kkre6hK4)
 
 ## Awards and Judging
+- [3847 Spectrum: Intro to FRC Awards](https://docs.google.com/presentation/d/1UnttqOi1H2jew6oH1XU6TsiONF36XJKw18fp9j5jfbc/edit#slide=id.p)
+- [3847 Spectrum: Awards Self Learning Resources](https://docs.google.com/presentation/d/e/2PACX-1vQ5ajz7LcqEwvkcAR16aPhGkzomvF09qvBnqPqxi0Q-MB2pVhNmMZNI8SGrWMQzRGcIvV47O38zHUvN/pub?start=false&loop=false&delayms=3000#slide=id.p)
 - [Woodie Flowers Award Winners Round Table RSN Spring Conferences Presented by WPI](https://www.youtube.com/watch?v=RnGvHOT2EZ0)
 - [The FRC Judging Process - RSN Spring Conferences Presented by WPI](https://www.youtube.com/watch?v=dnXDDtChA54)
 - [971 Spartan Robotics: FRC Judging: Maximizing Time & Content](https://www.youtube.com/watch?v=zSiEL2yZSj0)
