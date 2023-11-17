@@ -43,7 +43,7 @@ Covers:
 - Control System
 <br>
 
-### [Advanced Programming](https://docs.lynkrobotics.org/programming/advancedProgramming.html)
+### [Advanced Programming](https://docs.lynkrobotics.org/programming/advancedProgramming/index.html)
 Covers: 
 - Coding **MECHANISMS**!
 - Control Theory
