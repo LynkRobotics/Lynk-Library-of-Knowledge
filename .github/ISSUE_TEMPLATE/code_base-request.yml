@@ -53,7 +53,7 @@ body:
         - Python
         - Other
       multiple: true
-     validations: 
+    validations: 
        required: true
   - type: input
     id: resourceLink
