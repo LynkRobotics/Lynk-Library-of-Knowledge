@@ -48,10 +48,10 @@ body:
       label: Programming Langauge
       description: What langauge is this code base in?
       options:
-      - Java
-      - C++
-      - Python
-      - Other
+        - Java
+        - C++
+        - Python
+        - Other
       multiple: true
      validations: 
        required: true
