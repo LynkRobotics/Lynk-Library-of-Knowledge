@@ -1,0 +1,73 @@
+name: Code Base Addition Request
+description: Request for a Code Base to be added to the LLK
+title: "[Code Base Content Request]: "
+labels: ["documentation", "Programming"]
+projects: ["LynkRobotics/1"]
+assignees:
+  - witherslayer67
+body:
+  - type: input
+    id: team-number
+    attributes:
+      label: Team Number
+      description: Whats the team number of the Code Base?
+      placeholder: "ex. 9496"
+    validations:
+      required: true
+  - type: dropdown
+    id: year
+    attributes:
+      label: Year
+      description: What year is this Code Base from?
+      options:
+        - 2005
+        - 2006
+        - 2007
+        - 2008
+        - 2009
+        - 2010
+        - 2011
+        - 2012
+        - 2013
+        - 2014
+        - 2015
+        - 2016
+        - 2017
+        - 2018
+        - 2019
+        - 2020
+        - 2021
+        - 2022
+        - 2023
+      multiple: false
+    validations:
+      required: true
+  - type: dropdown
+    id: langauge
+    attributes: 
+      label: Programming Langauge
+      description: What langauge is this code base in?
+      options:
+      - Java
+      - C++
+      - Python
+      - Other
+      multiple: true
+     validations: 
+       required: true
+  - type: input
+    id: resourceLink
+    attributes:
+      label: Resource Link 1
+      description: URL for the resource
+      placeholder: "www.url.com/resource"
+    validations:
+      required: true
+  - type: checkboxes
+    id: haveChecked
+    attributes:
+      label: Have you checked if this resource is already in the LLK
+      description: By submitting this issue, you have seen that this is not already provided in the LLK
+      options:
+        - label: I have checked
+          required: true
