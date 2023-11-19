@@ -1,6 +1,6 @@
 name: CAD Addition Request
 description: Request for a CAD file to be added to the LLK
-title: "[Content Request]: "
+title: "[CAD Content Request]: "
 labels: ["documentation"]
 projects: ["LynkRobotics/1"]
 assignees:
