@@ -42,7 +42,7 @@ body:
       multiple: false
     validations:
       required: true
-  - type: dropdown
+  -type: dropdown
     id: langauge
     attributes: 
       label: Programming Langauge
