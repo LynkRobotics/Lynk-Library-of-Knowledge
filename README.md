@@ -4,6 +4,8 @@
 
 <br>
 
+![image](imageAssets\image1.png)
+
 # ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/main?style=for-the-badge&label=Last%20Updated&labelColor=bf5700&color=000000 ) ![GitHub issues](https://img.shields.io/github/issues/LynkRobotics/Lynk-Library-of-Knowledge?style=for-the-badge&logo=github&labelColor=bf5700&color=000000)
 
 
@@ -176,7 +178,13 @@ Tools that will help with strategy
 
 <br>
 
-## [Business](https://docs.lynkrobotics.org/business/index.html) *coming soon*
+## [Business](https://docs.lynkrobotics.org/business/index.html) 
+This section covers topics such as
+- Branding
+- Social Media
+- Media
+- Outreach
+- Awards and Judging
 
 <br>
 
@@ -196,30 +204,8 @@ Team blogs from various teams are housed here.
 Various team technical binders will be housed here
 <br>
 
-***
-
-<br>
-
 ## [Technical Documentation](https://docs.lynkrobotics.org/whitepapers/) 
-<br>
-
-### [Programming](https://docs.lynkrobotics.org/whitepapers/programming.html) 
-<br>
-
-### [Design](https://docs.lynkrobotics.org/whitepapers/design.html)
-<br>
-
-### [Build](https://docs.lynkrobotics.org/whitepapers/build.html)
-<br>
-
-### [Electrical](https://docs.lynkrobotics.org/whitepapers/electrical.html)
-<br>
-
-### [Strategy](https://docs.lynkrobotics.org/whitepapers/strategy.html)
-<br>
-
-***
-
+This is where whitepapers and such are held.
 <br>
 
 ***
