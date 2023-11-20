@@ -4,7 +4,7 @@
 
 ![image](imageAssets\image1.png)
 
-# ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/main?style=for-the-badge&label=Last%20Updated&labelColor=bf5700&color=000000 ) ![GitHub issues](https://img.shields.io/github/issues/LynkRobotics/Lynk-Library-of-Knowledge?style=for-the-badge&logo=github&labelColor=bf5700&color=000000)
+# ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/main?style=for-the-badge&label=Last%20Updated&labelColor=000000&color=bf5700) ![GitHub issues](https://img.shields.io/github/issues/LynkRobotics/Lynk-Library-of-Knowledge?style=for-the-badge&logo=github&labelColor=000000&color=bf5700)
 
 ## [What is FRC?](https://docs.lynkrobotics.org/whatIsFRC/)
 Covers:
@@ -174,6 +174,7 @@ This is where whitepapers and such are held.
 | :----------------------------------------------: | :--------------------------------------------: | :-------: |
 | [Bob Bell](https://github.com/rjbell4) | [9496](https://lynkrobotics.org) | Mentor |
 | [Jimmy McCosker](https://github.com/witherslayer67) | [9496](https://lynkrobotics.org) | Student |
+| [Dustin Nazelrod](https://https://github.com/NazelrodDustin) | [9496](https://lynkrobotics.org) | Mentor |
 | [Joshua Pohlman](https://www.chiefdelphi.com/u/shuki/summary) | [9496](https://lynkrobotics.org) | Mentor |
 | | | |
 | | | |
@@ -185,7 +186,7 @@ This is where whitepapers and such are held.
 
 <br>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/LynkRobotics/Lynk-Library-of-Knowledge?style=for-the-badge&logoColor=bf5700&labelColor=bf5700&color=000000) ![GitHub watchers](https://img.shields.io/github/watchers/LynkRobotics/LynkRobotics.github.io?style=for-the-badge&labelColor=bf5700&color=000000)
+![GitHub Repo stars](https://img.shields.io/github/stars/LynkRobotics/Lynk-Library-of-Knowledge?style=for-the-badge&logoColor=bf5700&labelColor=000000&color=bf5700) ![GitHub watchers](https://img.shields.io/github/watchers/LynkRobotics/LynkRobotics.github.io?style=for-the-badge&labelColor=000000&color=bf5700)
 
-![Static Badge](https://img.shields.io/badge/Lynk%20Library%20of%20Knowledge-LLK-NAN?style=for-the-badge&labelColor=bf5700&color=000000&link=%3Cobject%20data%3D%22https%3A%2F%2Fdocs.lynkrobotics.org%2F%22%3E%3C%2Fobject%3E)
+![Static Badge](https://img.shields.io/badge/Lynk%20Library%20of%20Knowledge-LLK-NAN?style=for-the-badge&labelColor=000000&color=bf5700&link=%3Cobject%20data%3D%22https%3A%2F%2Fdocs.lynkrobotics.org%2F%22%3E%3C%2Fobject%3E)
 
