@@ -2,18 +2,9 @@
 
 # Welcome to Lynk Library of Knowledge (LLK)!
 
-<br>
-
 ![image](imageAssets\image1.png)
 
 # ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/LynkRobotics/Lynk-Library-of-Knowledge/main?style=for-the-badge&label=Last%20Updated&labelColor=bf5700&color=000000 ) ![GitHub issues](https://img.shields.io/github/issues/LynkRobotics/Lynk-Library-of-Knowledge?style=for-the-badge&logo=github&labelColor=bf5700&color=000000)
-
-
-<br>
-
-***
-
-<br>
 
 ## [What is FRC?](https://docs.lynkrobotics.org/whatIsFRC/)
 Covers:
@@ -21,15 +12,10 @@ Covers:
 - The History of FRC
 - Roles in FRC
 
-<br>
-
 ***
-
-<br>
 
 ## [Programming](https://docs.lynkrobotics.org/programming/)
 
-<br> 
 
 ### [Beginner Programming](https://docs.lynkrobotics.org/programming/beginnerProgramming.html)
 Covers:
@@ -51,15 +37,10 @@ Covers:
 - Control Theory
 - Autonomous
 - and MORE!!!!
-<br>
 
 ***
 
-<br>
-
 ## [Design](https://docs.lynkrobotics.org/design/) 
-
-<br>
 
 ### [Beginner Design](https://docs.lynkrobotics.org/design/beginnerDesign.html)
 Covers:
@@ -83,14 +64,9 @@ Covers:
 - Design for Controllability
 - and More!
 
-<br>
-
 ***
 
-<br>
-
 ## [Build](https://docs.lynkrobotics.org/build/) 
-<br>
 
 ### [Beginner Build](https://docs.lynkrobotics.org/build/beginnerBuild.html)
 Covers:
@@ -111,15 +87,10 @@ Covers:
 - Powder Coating
 - Carbide Create / Motion
 - and More!
-<br>
 
 ***
 
-<br>
-
 ## [Electrical](https://docs.lynkrobotics.org/electrical/)  
-
-<br>
 
 ### [Beginner Electrical](https://docs.lynkrobotics.org/electrical/beginnerElectrical.html) 
 Covers:
@@ -140,15 +111,10 @@ Covers:
 - Pneumatics
 - Adv. Soldering
 - and More!
-<br>
 
 ***
 
-<br>
-
 ## [Strategy](https://docs.lynkrobotics.org/strategy)
-
-<br>
 
 ### [Beginner Strategy](https://docs.lynkrobotics.org/strategy/beginnerStrategy.html)
 Covers:
@@ -172,11 +138,8 @@ Covers:
 
 ### [Strategy Tools](https://docs.lynkrobotics.org/strategy/tools.html)
 Tools that will help with strategy
-<br>
 
 ***
-
-<br>
 
 ## [Business](https://docs.lynkrobotics.org/business/index.html) 
 This section covers topics such as
@@ -186,11 +149,7 @@ This section covers topics such as
 - Outreach
 - Awards and Judging
 
-<br>
-
 ***
-
-<br>
 
 ## [Lynk Archive](https://docs.lynkrobotics.org/lynkArchive/index.html)
 This is where various items (such as, OA, guides, etc) from the team will be housed
@@ -206,7 +165,6 @@ Various team technical binders will be housed here
 
 ## [Technical Documentation](https://docs.lynkrobotics.org/whitepapers/) 
 This is where whitepapers and such are held.
-<br>
 
 ***
 
