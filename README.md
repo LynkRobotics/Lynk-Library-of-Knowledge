@@ -174,7 +174,6 @@ This is where whitepapers and such are held.
 | :----------------------------------------------: | :--------------------------------------------: | :-------: |
 | [Bob Bell](https://github.com/rjbell4) | [9496](https://lynkrobotics.org) | Mentor |
 | [Jimmy McCosker](https://github.com/witherslayer67) | [9496](https://lynkrobotics.org) | Student |
-| [Dustin Nazelrod](https://https://github.com/NazelrodDustin) | ? | Mentor |
 | [Joshua Pohlman](https://www.chiefdelphi.com/u/shuki/summary) | [9496](https://lynkrobotics.org) | Mentor |
 | | | |
 | | | |
