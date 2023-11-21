@@ -188,4 +188,3 @@ This is where whitepapers and such are held.
 ![GitHub Repo stars](https://img.shields.io/github/stars/LynkRobotics/Lynk-Library-of-Knowledge?style=for-the-badge&logoColor=bf5700&labelColor=000000&color=bf5700) ![GitHub watchers](https://img.shields.io/github/watchers/LynkRobotics/LynkRobotics.github.io?style=for-the-badge&labelColor=000000&color=bf5700)
 
 ![Static Badge](https://img.shields.io/badge/Lynk%20Library%20of%20Knowledge-LLK-NAN?style=for-the-badge&labelColor=000000&color=bf5700&link=%3Cobject%20data%3D%22https%3A%2F%2Fdocs.lynkrobotics.org%2F%22%3E%3C%2Fobject%3E)
-
