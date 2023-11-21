@@ -1,5 +1,5 @@
 # [Advanced Programming](./advancedProgramming/index.md)
-- [Control Theory](./advancedProgramming/controlTheory.md)
+- [Control Theory](./controlTheory.md)
 - [Autonomous](https://docs.lynkrobotics.org/auto)
 - [Mechanism Examples / Templates](https://docs.lynkrobotics.org/mechanisms/)
 - [Libraries](https://docs.lynkrobotics.org/libraries/)
