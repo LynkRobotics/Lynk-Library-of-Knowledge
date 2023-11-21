@@ -7,5 +7,3 @@ theme:
   favicon: /favicon.png
 title: Lynk Library of Knowledge
 description: 9496 Lynk's site for housing knowledge and information for the team.
-markdown_extensions:
-  - attr_list
