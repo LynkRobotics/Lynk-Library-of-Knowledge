@@ -1,6 +1,6 @@
-# [Beginner Programming]()
+# [Beginner Programming](./beginnerProgramming.md)
 
-### Tutorials
+## Tutorials
 - [LYNK Java Tutorial](./java/index.md)
 - [W3Schools](https://www.w3schools.com/java/)
 - [Codecademy](https://www.codecademy.com/learn/learn-java)
@@ -11,7 +11,9 @@
 - [Project Euler (pronounced Oil-er) programming problems and challenges](https://projecteuler.net/)
 <br>
 
-### Reading
+## Reading <br>
+
+### Java <br>
 - [3847 Spectrum Intro to Java Programming](https://docs.google.com/presentation/d/1MxjAYEkdW9MVuQUSKM9xFdQ3vQl-1MXcdd2jdfOI_KY/edit?usp=sharing)
 - [4946 Intro to Java](https://drive.google.com/file/d/1t27lMdlTeeCrOaorByj7n-3Fu4tQJktJ/view)
 - [Learn X in Y Minutes (Syntax Overview)](https://learnxinyminutes.com/docs/java/)
@@ -20,7 +22,9 @@
 - [AP CSA Java Course](https://runestone.academy/ns/books/published/csawesome/index.html)
 <br>
 
-### Videos
+## Videos <br>
+
+### Java <br>
 - [Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34)
 - [Learn Java In 3 Hours](https://www.youtube.com/watch?v=_73sZ-BUZXI)
 - [Learn Java In 12 Hours](https://youtu.be/xk4_1vDrzzo)
@@ -31,9 +35,3 @@
 - [FreeCodeCamp: Java 8 Full Tutorial for Beginners Video](https://www.youtube.com/watch?v=grEKMHGYyns)
 - [FreeCodeCamp: Intro to Object Oriented Programming](https://www.youtube.com/watch?v=SiBw7os-_zI)
 <br>
-
-### Misc. Resources
-- [Git/GitHub](./git.md)
-<br>
-
-# [Back](https://docs.lynkrobotics.org/programming/) | [Home Page](https://docs.lynkrobotics.org/)
