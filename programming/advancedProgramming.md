@@ -56,9 +56,16 @@
 - [MATLAB: What Is Feedforward Control Control Systems in Practice](https://www.youtube.com/watch?v=FW_ay7K4jPE)
 
 ### State-Space <br>
-- [Introduction to State-Space Equations: State Space, Part 1](https://youtu.be/hpeKrMG-WP0?si=LF1vKVz4w8Jw_P1Z)
-- [What is Pole Placement (Full State Feedback): State Space, Part 2](https://youtu.be/FXSpHy8LvmY?si=2pVxxxEKKNHPqB1-)
+- [MATLAB: Introduction to State-Space Equations: State Space, Part 1](https://youtu.be/hpeKrMG-WP0?si=LF1vKVz4w8Jw_P1Z)
+- [MATLAB: What is Pole Placement (Full State Feedback): State Space, Part 2](https://youtu.be/FXSpHy8LvmY?si=2pVxxxEKKNHPqB1-)
 
 ### Kalman Filters <br>
+- [MATLAB: Why Use Kalman Filters?: Understanding Kalman Filters, Part 1](https://youtu.be/mwn8xhgNpFY?si=U2H4U4Lw_r9oYQGj)
+- [MATLAB: State Observers: Understanding Kalman Filters, Part 2](https://youtu.be/4OerJmPpkRg?si=3_DLan0Ab_eixwyk)
+- [MATLAB: Optimal State Estimator: Understanding Kalman Filters, Part 3](https://youtu.be/ul3u2yLPwU0?si=yHvnfQ6FaI636JU3)
+- [MATLAB: Optimal State Estimator Algorithm: Understanding Kalman Filters, Part 4](https://youtu.be/VFXf1lIZ3p8?si=ntWOronq5vEpN1dq)
+- [MATLAB: Nonlinear State Estimators: Understanding Kalman Filters, Part 5](https://youtu.be/Vefia3JMeHE?si=7_hECJY8bJxngwx9)
+- [MATLAB: How to Use a Kalman Filter in Simulink: Understanding Kalman Filters, Part 6](https://youtu.be/ouRM4sgoVs8?si=gD9vmt_P5yoCZNwa)
+- [MATLAB: How to Use an Extended Kalman Filter in Simulink: Understanding Kalman Filters, Part 7](https://youtu.be/bCsOdnADuAM?si=cCMHqzeVch-rYdcs)
 
 <br>
