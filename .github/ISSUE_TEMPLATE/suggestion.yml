@@ -1,1 +1,12 @@
-todo
+name: LLK Suggestion Form
+description: Request for a CAD file to be added to the LLK
+title: "[LLK Suggestion]: "
+labels: ["improvement"]
+projects: ["LynkRobotics/1"]
+assignees:
+  - witherslayer67
+body:
+  - type: input
+    id: suggestion
+    attributes: 
+      label: todo
