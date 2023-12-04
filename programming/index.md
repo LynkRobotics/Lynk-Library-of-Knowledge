@@ -109,6 +109,28 @@
 
 ## [Advanced Programming](./advancedProgramming.md) <br>
 
+### Mechanism Examples <br>
+
+#### Arm <br>
+- todo
+
+#### Shooter <br>
+- todo
+
+#### Swerve <br>
+- todo
+
+#### Elevator <br>
+- todo
+
+#### Intake <br>
+- todo
+
+#### LEDs <br>
+- todo
+
+<br>
+
 ### Reading <br>
 
 #### Control System <br>
