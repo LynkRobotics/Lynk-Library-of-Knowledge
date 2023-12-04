@@ -12,7 +12,9 @@
 
 ## FRC Libraries <br>
 - [CTRE Phoenix Lib](https://store.ctr-electronics.com/software/)
+  - [Pheonix 6 Documentation](https://pro.docs.ctr-electronics.com/en/latest/)
 - [REVLib](https://docs.revrobotics.com/sparkmax/software-resources/spark-max-api-information#c++-and-java)
+  - [REVLib Documentation](https://codedocs.revrobotics.com/java/com/revrobotics/package-summary.html)
 
 ## Log Viewers <br>
 - [AdvantageScope (Log Viewer)](https://github.com/Mechanical-Advantage/AdvantageScope)
