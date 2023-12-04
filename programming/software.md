@@ -1,10 +1,24 @@
 # Software
+
+## WPILib <br>
 - [WPILib Installation Guide](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html)
+
+## FRC Game Tools <br>
 - [Installing the FRC Game Tools](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/frc-game-tools.html)
+
+## Git / GitHub <br>
 - [GitHub Desktop](https://desktop.github.com/)
 - [Git](https://git-scm.com/)
-- [AdvantageScope (Log Viewer)](https://github.com/Mechanical-Advantage/AdvantageScope)
-- [Elastic (Alt. to Shuffleboard)](https://www.chiefdelphi.com/t/introducing-elastic-a-simple-and-modern-alternative-to-shuffleboard/440750)
-- [Pathplanner](https://github.com/mjansen4857/pathplanner)
+
+## FRC Libraries <br>
 - [CTRE Phoenix Lib](https://store.ctr-electronics.com/software/)
 - [REVLib](https://docs.revrobotics.com/sparkmax/software-resources/spark-max-api-information#c++-and-java)
+
+## Log Viewers <br>
+- [AdvantageScope (Log Viewer)](https://github.com/Mechanical-Advantage/AdvantageScope)
+
+## Dashboards <br>
+- [Elastic (Alt. to Shuffleboard)](https://www.chiefdelphi.com/t/introducing-elastic-a-simple-and-modern-alternative-to-shuffleboard/440750)
+
+## Auto Tools <br>
+- [Pathplanner](https://github.com/mjansen4857/pathplanner)
