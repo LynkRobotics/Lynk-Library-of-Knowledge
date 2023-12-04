@@ -20,6 +20,10 @@ todo: Insert an image of the different templates
 
 If you have anything to add, like [CAD models](https://docs.lynkrobotics.org/design/CAD/index.html), [Code Bases](https://docs.lynkrobotics.org/programming/codeBases.html), [Technical Binders](https://docs.lynkrobotics.org/technicalBinders/index.html) feel free to submit it, this site is to help everyone, the more content, the better. 
 
+If you have any suggestions for the LLK as well, those are also welcome, we want user feedback, this is for the community to use, this project will be maintained for years to come, so we hope that this site is as accessible as it can possibly be.
+
+todo: add suggestion widget
+
 ## Lynks:
 [![Static Badge](https://img.shields.io/badge/Lynk%20Library%20of%20Knowledge-LLK-NAN?style=for-the-badge&labelColor=bf5700&color=000000&link=docs.lynkrobotics.org)](https://docs.lynkrobotics.org/) <br>
 [![Static Badge](https://img.shields.io/badge/LLK_GitHub_Repository-github?style=for-the-badge&logo=github&logoColor=000000&labelColor=bf5700&color=000000)](https://github.com/LynkRobotics/Lynk-Library-of-Knowledge) <br>
