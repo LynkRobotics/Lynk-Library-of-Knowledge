@@ -23,7 +23,7 @@
 - [5472 Stallion Robotics: Java Robotics Course](https://drive.google.com/file/d/18Vz7tjU1hkQeqj2FLn9RQvlza2pqOJtR/)
 - [AP CSA Java Course](https://runestone.academy/ns/books/published/csawesome/index.html)
 
-#### Git / GitHib <br>
+#### Git / GitHub <br>
 - [FRC Documentation on Git/GitHub](https://docs.wpilib.org/en/latest/docs/software/basic-programming/git-getting-started.html)
 - [Git in a Nutshell](https://www.educative.io/blog/git-github-tutorial-beginners)
 - [6135 Git Presentation](https://docs.google.com/presentation/d/1u6U_jYswAvdTaLUHEQ-OCSHSVd32xVkV7TSDiXvAtFM/)
@@ -52,8 +52,7 @@
 - [FreeCodeCamp: Java 8 Full Tutorial for Beginners Video](https://www.youtube.com/watch?v=grEKMHGYyns)
 - [FreeCodeCamp: Intro to Object Oriented Programming](https://www.youtube.com/watch?v=SiBw7os-_zI)
 
-#### Git / GitHub <br>
-- [Git & GitHub Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
+<br>
 
 ## [Intermediate Programming](./intermediateProgramming.md)
 
