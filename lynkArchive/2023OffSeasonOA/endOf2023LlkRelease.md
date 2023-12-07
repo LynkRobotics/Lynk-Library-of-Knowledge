@@ -22,7 +22,7 @@ There are multple issue templates for specific things (such as: CAD, Code Bases,
 
 ![image](https://github.com/LynkRobotics/Lynk-Library-of-Knowledge/blob/main/imageAssets/llkIssueForm.png?raw=true)
 
-If you have anything to add, like [CAD models](https://docs.lynkrobotics.org/design/CAD/index.html), [Code Bases](https://docs.lynkrobotics.org/programming/codeBases.html), [Technical Binders](https://docs.lynkrobotics.org/technicalBinders/index.html) feel free to submit it, this site is to help everyone, the more content, the better. 
+If you have anything to add, like [CAD models](https://docs.lynkrobotics.org/design/CAD/index.html), [Code Bases](https://docs.lynkrobotics.org/programming/codeBases.html),[Software](https://docs.lynkrobotics.org/programming/software.html), [Technical Binders](https://docs.lynkrobotics.org/technicalBinders/index.html), literally anything, feel free to submit it, this site is to help everyone, the more content, the better. 
 
 If you have any suggestions for the LLK as well, those are also welcome, we want user feedback, this is for the community to use, this project will be maintained for years to come, so we hope that this site is as accessible as it can possibly be.
 
