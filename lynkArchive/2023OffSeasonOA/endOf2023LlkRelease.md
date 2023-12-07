@@ -1,4 +1,4 @@
-# [Lynk Library of Knowledge](https://docs.lynkrobotics.org/): End of 2024 Pre-Season Release
+# [Lynk Library of Knowledge](https://docs.lynkrobotics.org/): 2024 Pre-Season Release
 
 ![image](https://docs.lynkrobotics.org/imageAssets/image1.png)
 
@@ -8,9 +8,9 @@ In a [previous post](https://www.chiefdelphi.com/t/frc-9496-lynk-2024-build-thre
 
 ![image](https://github.com/LynkRobotics/Lynk-Library-of-Knowledge/blob/main/imageAssets/llkFrontPage.png?raw=true)
 
-The past few months the LLK has grown exponetially, many commits have been made, and has changed shape many times. It has been reorganized, re-themed, sorted, etc many times to find the best way to organize the site. The site's structure as of this release, will be the final structure for the 2024 Season. We won't change it as teams will become familar with the site, and if it did change, that would be very inconvenient for teams to find what they're looking for. 
+In the past few months the LLK has grown exponentially, many commits have been made, and has changed shape many times. It has been reorganized, re-themed, sorted, etc many times to find the best way to organize the site. The site's structure as of this release, will be the final structure for the 2024 Season. We won't change it as teams will become familiar with the site, and if it did change, that would be very inconvenient for teams to find what they're looking for.
 
-Every "section" (ex. Design) is split into 3: Beginner, Intermediate, and Advanced. After that it split down further into Reading and videos, then topic by topic. For example design's Intermediate section is split into Design Training, Mechanisms, Engineering Drawings, Simple Robot Design, Design Process, etc. 
+Every "section" (ex. Design) is split into 3: Beginner, Intermediate, and Advanced. After that, it split down further into Reading and videos, then topic by topic. For example, design's Intermediate section is split into Design Training, Mechanisms, Engineering Drawings, Simple Robot Design, Design Process, etc. 
 
 ![image](https://github.com/LynkRobotics/Lynk-Library-of-Knowledge/blob/main/imageAssets/llkDesignSection.png?raw=true)
 
@@ -22,7 +22,7 @@ There are multple issue templates for specific things (such as: CAD, Code Bases,
 
 ![image](https://github.com/LynkRobotics/Lynk-Library-of-Knowledge/blob/main/imageAssets/llkIssueForm.png?raw=true)
 
-If you have anything to add, like [CAD models](https://docs.lynkrobotics.org/design/CAD/index.html), [Code Bases](https://docs.lynkrobotics.org/programming/codeBases.html), [Technical Binders](https://docs.lynkrobotics.org/technicalBinders/index.html) feel free to submit it, this site is to help everyone, the more content, the better. 
+If you have anything to add, like [CAD models](https://docs.lynkrobotics.org/design/CAD/index.html), [Code Bases](https://docs.lynkrobotics.org/programming/codeBases.html),[Software](https://docs.lynkrobotics.org/programming/software.html), [Technical Binders](https://docs.lynkrobotics.org/technicalBinders/index.html), literally anything, feel free to submit it, this site is to help everyone, the more content, the better. 
 
 If you have any suggestions for the LLK as well, those are also welcome, we want user feedback, this is for the community to use, this project will be maintained for years to come, so we hope that this site is as accessible as it can possibly be.
 
