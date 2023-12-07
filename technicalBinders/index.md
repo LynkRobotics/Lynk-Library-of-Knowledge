@@ -1,6 +1,4 @@
-# Technical Binders
-
-<br>
+# Technical Binders <br>
 
 - [33](./33.md)
 - [67](./67.md)
@@ -37,7 +35,3 @@
 - [6832](./6832.md)
 - [7461](./7461.md)
 
-<br>
-
-
-# [Previous Page](https://docs.lynkrobotics.org/) | [Home](https://docs.lynkrobotics.org/)

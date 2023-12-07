@@ -20,7 +20,9 @@
 - [AdvantageScope (Log Viewer)](https://github.com/Mechanical-Advantage/AdvantageScope)
 
 ## Dashboards <br>
-- [Elastic (Alt. to Shuffleboard)](https://www.chiefdelphi.com/t/introducing-elastic-a-simple-and-modern-alternative-to-shuffleboard/440750)
+- [Elastic (Alt. to Shuffleboard)](https://www.chiefdelphi.com/t/introducing-elastic-a-simple-and-modern-alternative-to-shuffleboard/440750u=jimmyy)
+- [QFRCDashboard (Alt. to Shuffleboard)](https://www.chiefdelphi.com/t/qfrcdashboard-a-simple-high-performance-reliable-shuffleboard-alternative/445256?u=jimmyy)
 
 ## Auto Tools <br>
 - [Pathplanner](https://github.com/mjansen4857/pathplanner)
+- [Choreo: A New Approach to Swerve Trajectories](https://www.chiefdelphi.com/t/introducing-choreo-a-new-approach-to-swerve-trajectories/445236?u=jimmyy)
