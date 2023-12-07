@@ -8,9 +8,9 @@ In a [previous post](https://www.chiefdelphi.com/t/frc-9496-lynk-2024-build-thre
 
 ![image](https://github.com/LynkRobotics/Lynk-Library-of-Knowledge/blob/main/imageAssets/llkFrontPage.png?raw=true)
 
-The past few months the LLK has grown exponetially, many commits have been made, and has changed shape many times. It has been reorganized, re-themed, sorted, etc many times to find the best way to organize the site. The site's structure as of this release, will be the final structure for the 2024 Season. We won't change it as teams will become familar with the site, and if it did change, that would be very inconvenient for teams to find what they're looking for. 
+In the past few months the LLK has grown exponentially, many commits have been made, and has changed shape many times. It has been reorganized, re-themed, sorted, etc many times to find the best way to organize the site. The site's structure as of this release, will be the final structure for the 2024 Season. We won't change it as teams will become familiar with the site, and if it did change, that would be very inconvenient for teams to find what they're looking for.
 
-Every "section" (ex. Design) is split into 3: Beginner, Intermediate, and Advanced. After that it split down further into Reading and videos, then topic by topic. For example design's Intermediate section is split into Design Training, Mechanisms, Engineering Drawings, Simple Robot Design, Design Process, etc. 
+Every "section" (ex. Design) is split into 3: Beginner, Intermediate, and Advanced. After that, it split down further into Reading and videos, then topic by topic. For example, design's Intermediate section is split into Design Training, Mechanisms, Engineering Drawings, Simple Robot Design, Design Process, etc. 
 
 ![image](https://github.com/LynkRobotics/Lynk-Library-of-Knowledge/blob/main/imageAssets/llkDesignSection.png?raw=true)
 
