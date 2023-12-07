@@ -67,6 +67,7 @@
 - [3847 Overview of FRC Programming Slides](https://docs.google.com/presentation/d/e/2PACX-1vRC037jwjNSnJN47Sut_juVnw0Ds6HQF1Jrwlx2t-1F6xo2s3G6tx7XU7Q0-xzG7ihGxwnhlGDvChz6/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 #### Control System <br>
+- [FRC Control System Setup Explained Todd](https://www.youtube.com/watch?v=ZbjsY8N0hZc)
 - [3847 Intro to FRC Control System Slides](https://docs.google.com/presentation/d/1U8EKEZv5Km__JKcN2SpE7tU8HjkMOnHZUupBr-Zo96M/edit#slide=id.p)
 
 #### Motors <br>
