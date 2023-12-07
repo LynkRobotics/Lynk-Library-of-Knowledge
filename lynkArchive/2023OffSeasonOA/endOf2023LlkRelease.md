@@ -1,4 +1,4 @@
-# [Lynk Library of Knowledge](https://docs.lynkrobotics.org/): End of 2024 Pre-Season Release
+# [Lynk Library of Knowledge](https://docs.lynkrobotics.org/): 2024 Pre-Season Release
 
 ![image](https://docs.lynkrobotics.org/imageAssets/image1.png)
 
