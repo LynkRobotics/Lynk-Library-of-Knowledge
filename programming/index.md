@@ -65,6 +65,8 @@
 #### Intro to FRC Programming <br>
 - [3847 Intro to Java Programming Slides](https://docs.google.com/presentation/d/1MxjAYEkdW9MVuQUSKM9xFdQ3vQl-1MXcdd2jdfOI_KY/edit#slide=id.p)
 - [3847 Overview of FRC Programming Slides](https://docs.google.com/presentation/d/e/2PACX-1vRC037jwjNSnJN47Sut_juVnw0Ds6HQF1Jrwlx2t-1F6xo2s3G6tx7XU7Q0-xzG7ihGxwnhlGDvChz6/pub?start=false&loop=false&delayms=3000&slide=id.p)
+- [3847 Programming Practices Slides](https://docs.google.com/presentation/d/1AM8HVvaWyb8HCFTLPVTEehJRqDwfTwjC0XqQcrS3sj4/edit#slide=id.p)
+
 
 #### Control System <br>
 - [FRC Control System Setup Explained Todd](https://www.youtube.com/watch?v=ZbjsY8N0hZc)

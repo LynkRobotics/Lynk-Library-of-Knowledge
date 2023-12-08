@@ -1,0 +1,44 @@
+name: Team Build Blog Addition Request
+description: Request for a CAD file to be added to the LLK
+title: "[Team Build Blog Addition]: "
+labels: ["documentation"]
+projects: ["LynkRobotics/1"]
+assignees:
+  - witherslayer67
+body:
+  - type: input
+    id: team-number
+    attributes:
+      label: Team Number
+      description: Whats the team number of the build blog?
+      placeholder: "ex. 9496"
+    validations:
+      required: true
+  - type: dropdown
+    id: year
+    attributes:
+      label: Year
+      description: What year is the Build Blog from?
+      options:
+        - 2022
+        - 2023
+        - 2024
+      multiple: false
+    validations:
+      required: true 
+  - type: input
+    id: resourceLink
+    attributes:
+      label: Resource Link 1
+      description: URL for the resource
+      placeholder: "www.url.com/resource"
+    validations:
+      required: true
+  - type: checkboxes
+    id: haveChecked
+    attributes:
+      label: Have you checked if this resource is already in the LLK
+      description: By submitting this issue, you have seen that this is not already provided in the LLK
+      options:
+        - label: I have checked
+          required: true
