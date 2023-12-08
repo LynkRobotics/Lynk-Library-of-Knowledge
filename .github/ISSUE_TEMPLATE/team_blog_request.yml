@@ -1,5 +1,5 @@
 name: Team Build Blog Addition Request
-description: Request for a CAD file to be added to the LLK
+description: Request for a build blog from CD to be added to the LLK
 title: "[Team Build Blog Addition]: "
 labels: ["documentation"]
 projects: ["LynkRobotics/1"]
