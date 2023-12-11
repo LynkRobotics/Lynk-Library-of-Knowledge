@@ -81,6 +81,21 @@ if true
 ````
 Along the same lines, parentheses (( and )) should be used for the arguments of the conditional or loop, as seen in the example above. <br>
 
+## Indentations and Spacing <br>
+While the amount of whitespace doesn’t affect the compilation and running of code in Java, there are standards that help with readability.
+
+All indentations should be two spaces, and there should be an indentation each time a new block (eg. loop, method, etc) is opened, as seen in the examples above.
+
+There should be spaces before and after keywords and operators. For example, while
+````java
+x=3;
+````
+is valid syntax, placing a space between each side of the operator keeps the code clear and readable:
+````java
+x = 3;
+````
+
+
 
 
 
