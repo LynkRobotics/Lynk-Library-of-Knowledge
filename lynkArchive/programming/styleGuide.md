@@ -29,13 +29,13 @@ public class Constants {
   public static final double VALUE_OF_PI = 3.14159; // constant
 }
 ````
-| Type | Naming Convention | Example |  
-| :---: | :---: | :---: |
+
+|                       Type                       |                      Naming Convention                      | Example |
+| :----------------------------------------------: | :--------------------------------------------: | :-------: |
 | Class | PascalCase | LinkedList |
 | Constant | snake_case | VALUE_OF_PI |
-| Method | cammelCase | myMethod | 
+| Method | cammelCase | myMethod |
 | Variable | cammelCase | numLetters |
-| | | |
 | | | |
 | | | |
 
