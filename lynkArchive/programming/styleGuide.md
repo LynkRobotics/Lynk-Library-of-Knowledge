@@ -6,6 +6,8 @@ Coding style is an important part of good software engineering practice. The goa
 ### Why we use a style guide XKCD <br>
 ![image](http://imgs.xkcd.com/comics/code_quality.png)
 
+***
+
 ## Comments <br>
 Comments should be used to give overviews of code and provide additional information that is not readily available in the code itself. Comments should contain only information that is relevant to reading and understanding the program. Avoid duplicating information that is clearly evident in the code. <br>
 
@@ -22,6 +24,8 @@ mSwerveMods = new SwerveModule[] {
   new SwerveModule(3, Constants.Swerve.Mod3.constants)
 };
 ````
+
+***
 
 ## Naming Conventions <br>
 
@@ -72,6 +76,8 @@ public final class Constants { // Constants Class
 }
 ````
 
+***
+
 ## Class Headers <br>
 All source files should begin with a class header that lists the class name, year: game, and team (9496 Lynk) <br>
 
@@ -87,6 +93,8 @@ public class DriveSubsystem extends SubsystemBase {
 }
 ````
 
+***
+
 ## Brackets and Parentheses <br>
 Brackets ({ and }) must be used for all method and class declarations, as well as conditionals and loops that contain multiple lines of code. <br>
 While you can omit brackets for single line conditionals and loops, it’s best practice to use them for readability. For example, <br>
@@ -101,6 +109,8 @@ if true
   return false;
 ````
 Along the same lines, parentheses (( and )) should be used for the arguments of the conditional or loop, as seen in the example above. <br>
+
+***
 
 ## Indentations and Spacing <br>
 While the amount of whitespace doesn’t affect the compilation and running of code in Java, there are standards that help with readability.
