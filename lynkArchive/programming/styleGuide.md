@@ -9,7 +9,19 @@ Coding style is an important part of good software engineering practice. The goa
 ## Comments <br>
 Comments should be used to give overviews of code and provide additional information that is not readily available in the code itself. Comments should contain only information that is relevant to reading and understanding the program. Avoid duplicating information that is clearly evident in the code. <br>
 
-todo add example 
+````java
+/*
+Initalizes all 4 Swerve modules with their constants and positions
+0 1
+2 3
+*/
+mSwerveMods = new SwerveModule[] {
+  new SwerveModule(0, Constants.Swerve.Mod0.constants),
+  new SwerveModule(1, Constants.Swerve.Mod1.constants),
+  new SwerveModule(2, Constants.Swerve.Mod2.constants),
+  new SwerveModule(3, Constants.Swerve.Mod3.constants)
+};
+````
 
 ## Naming Conventions <br>
 
