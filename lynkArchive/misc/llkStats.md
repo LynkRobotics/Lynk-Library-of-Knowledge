@@ -17,3 +17,6 @@
 
 ## Top 50 Cities of Visiors in the last year <br>
 <script src="//widgets.clicky.com/poppy/?site_id=101435660&sitekey=530a7c4e24685be3333f0bd54fb76f88&width=650&height=1650&date=last-365-days&type=cities&limit=50&title=&hide_title=0&hide_branding=1" type="text/javascript"></script>
+
+## Top 50 Web Browsers in the last year <br>
+<script src="//widgets.clicky.com/poppy/?site_id=101435660&sitekey=530a7c4e24685be3333f0bd54fb76f88&width=650&height=1650&date=last-365-days&type=web-browsers&limit=50&title=&hide_title=0&hide_branding=1" type="text/javascript"></script>
