@@ -18,4 +18,7 @@ public class DriveSubsystem {
 }
 ````
 
+Constants do not use camel case, and instead use snake case (eg. snake_case) with all uppercase letters. For example, if you wanted to store a CAN constant of a drive motor, you could name it .
+
+
 
