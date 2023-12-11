@@ -30,11 +30,14 @@ public class Constants {
 }
 ````
 | Type | Naming Convention | Example |  
-| :-: | :-: | :-: |
+| :---: | :---: | :---: |
 | Class | PascalCase | LinkedList |
 | Constant | snake_case | VALUE_OF_PI |
 | Method | cammelCase | myMethod | 
 | Variable | cammelCase | numLetters |
+| | | |
+| | | |
+| | | |
 
 ***
 
