@@ -11,11 +11,26 @@ Comments should be used to give overviews of code and provide additional informa
 
 
 ## Naming Conventions <br>
-As a rule, Java uses camel case (eg. camelCase) for most names, including variables and methods. However, there are some variations depending on what you are naming. <br>
 
+### Variables and Methods <br>
+As a rule, Java uses camel case (eg. camelCase) for most names, including variables and methods. <br> 
+
+````java
+// Variable Example
+public Pose2d currentPose = getPose(); 
+
+// Method Example
+public Pose2d getPose() { 
+  return swerveOdometry.getPoseMeters();
+}
+````
+
+### Classes <br>
+However, there are some variations depending on what you are naming. <br>
 Class and Interface names use pascal case (eg. PascalCase), which is like camel case, except they start with a capital letter. For example, the drive subsystem class is named DriveSubsystem, not driveSubsystem. <br>
 
 ````java
+// Class Example
 public class DriveSubsystem {
 
 }
