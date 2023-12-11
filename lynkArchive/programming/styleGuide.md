@@ -49,6 +49,22 @@ public class DriveSubsystem {
 }
 ````
 
+## Brackets and Parentheses <br>
+Brackets ({ and }) must be used for all method and class declarations, as well as conditionals and loops that contain multiple lines of code. <br>
+While you can omit brackets for single line conditionals and loops, it’s best practice to use them for readability. For example, <br>
+````java
+if (true) {
+  return false;
+}
+````
+is more readable than:
+````java
+if true
+  return false;
+````
+Along the same lines, parentheses (( and )) should be used for the arguments of the conditional or loop, as seen in the example above. <br>
+
+
 
 
 
