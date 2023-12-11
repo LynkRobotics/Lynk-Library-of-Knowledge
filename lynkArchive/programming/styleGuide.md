@@ -36,8 +36,6 @@ public class Constants {
 | Constant | snake_case | VALUE_OF_PI |
 | Method | cammelCase | myMethod |
 | Variable | cammelCase | numLetters |
-| | | |
-| | | |
 
 ***
 
@@ -62,7 +60,22 @@ Along the same lines, parentheses (( and )) should be used for the arguments of 
 ## Indentations and Spacing <br>
 While the amount of whitespace doesn’t affect the compilation and running of code in Java, there are standards that help with readability.
 
-All indentations should be two spaces, and there should be an indentation each time a new block (eg. loop, method, etc) is opened, as seen in the examples above.
+All indentations should be two spaces (or tab), and there should be an indentation each time a new block (eg. loop, method, etc) is opened, as seen in the examples above and below.
+
+````java
+public class JavaExample {
+  public class Constants {
+    public static final double VALUE_OF_PI = 3.14;
+  }
+  public static void Main(String[] args){
+    if (VALUE_OF_PIE == 3.14){
+      return true;
+    } else {
+      return false;
+    }
+  }
+}
+````
 
 There should be spaces before and after keywords and operators. For example, while
 
@@ -77,7 +90,7 @@ x = 3;
 *** 
 
 ## Class Headers <br>
-All source files should begin with a class header that lists the class name, version information, and author. 
+All source files should begin with a class header that lists the team name and number (Lynk 9496), the current season, and if it is Off-Season or In-Season
 ````java
 // Lynk 9496
 // Season: 2024 Crescendo
@@ -90,7 +103,4 @@ public class JavaExample {
 
 *** 
 
-## Comments
-https://www.gvsu.edu/computing/java-coding-style-guide-37.htm
-https://hackmd.io/@csci0200/B1MLkTu2Y#Recommended-Style
-https://www.codecademy.com/article/java-for-programmers-java-style-guide
+
