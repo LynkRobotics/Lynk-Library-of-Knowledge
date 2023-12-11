@@ -15,6 +15,7 @@
 - [LYNK: Making Robust FRC Robots](https://docs.google.com/document/d/1Qt6DSVOIRh5dXyzQ9Q3VipjBpd12ozPSDN2LOaZLYqo/edit?usp=sharing)
 - [LYNK: Design Constraints of Chain](https://docs.google.com/document/d/1m06TxMAqUlIHKjY84uFjRJwLsTOlEjOfFqxZBVQKsck/edit?usp=sharing)
 - [LYNK: Parts Coding System](https://docs.google.com/document/d/1AxjovjDQV9VLWG0vvZujM-4wMK7v6N10FWTSsmSrQFU/edit?usp=sharing)
+- [LYNK: Java Style Guide](https://docs.lynkrobotics.org/lynkArchive/programming/styleGuide.html)
 
 ## Team Links <br>
 [![Static Badge](https://img.shields.io/badge/Team_Website-Lynk?style=for-the-badge&label=Lynk&labelColor=000000&color=bf5700)](https://lynkrobotics.org) <br>
