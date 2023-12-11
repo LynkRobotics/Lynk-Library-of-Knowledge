@@ -8,115 +8,51 @@ Coding style is an important part of good software engineering practice. The goa
 
 ***
 
-## Comments <br>
-Comments should be used to give overviews of code and provide additional information that is not readily available in the code itself. Comments should contain only information that is relevant to reading and understanding the program. Avoid duplicating information that is clearly evident in the code. <br>
-
-````java
-/*
-Initalizes all 4 Swerve modules with their constants and positions
-0 1
-2 3
-*/
-mSwerveMods = new SwerveModule[] {
-  new SwerveModule(0, Constants.Swerve.Mod0.constants),
-  new SwerveModule(1, Constants.Swerve.Mod1.constants),
-  new SwerveModule(2, Constants.Swerve.Mod2.constants),
-  new SwerveModule(3, Constants.Swerve.Mod3.constants)
-};
-````
-
-***
-
 ## Naming Conventions <br>
-
-### Variables and Methods <br>
-As a rule, Java uses camel case (eg. camelCase) for most names, including variables and methods. <br> 
-
+### Variable and Methods <br>
+As a rule, Java uses camel case (eg. camelCase) for most names, including variables and methods. However, there are some variations depending on what you are naming.
 ````java
-// Variable Example
-public Pose2d currentPose = getPose(); 
+public int userAge; // variable
 
-// Method Example
-public Pose2d getPose() { 
-  return swerveOdometry.getPoseMeters();
+public int getUserAge(){ // method
+  return userAge;
 }
 ````
-
-### Classes <br>
-However, there are some variations depending on what you are naming. <br>
-Class and Interface names use pascal case (eg. PascalCase), which is like camel case, except they start with a capital letter. For example, the drive subsystem class is named DriveSubsystem, not driveSubsystem. <br>
-
+Class and Interface names use pascal case (eg. PascalCase), which is like camel case, except they start with a capital letter. For example, the linked list class is named LinkedList, not linkedList.
 ````java
-// Class Example
-public class DriveSubsystem {
-
+public class LinkedList { // Class
 }
 ````
-### Constants <br>
-Constants should be held in the `Constants.java` class, and they should be easily readible and organized into smaller subclasses.
-All constants should be `public static final` because constants do not change. 
-Refer to Variables and Classes naming conventions to name Classes and Variables
+Constants do not use camel case, and instead use snake case (eg. snake_case) with all uppercase letters. For example, if you wanted to store the constant pi, you could name it VALUE_OF_PI.
 ````java
-// Constants class
-public final class Constants { // PascalCase
-
-  // Swerve Class
-  public static final class Swerve { // PascalCase
-
-    // Pigeon ID Variable 
-    public static final int pigeonID = 1; // Camel Case
-    public static final boolean invertGyro = false; 
-
-    // Module 0 Class 
-    public static final class Mod0 { // PascalCase
-      public static final int driveMotorID = 1; 
-      public static final int angleMotorID = 2;
-      public static final int canCoderID = 1;
-      public static final String canBus = "rio";
-      public static final Rotation2d angleOffset = Rotation2d.fromDegrees(0.0);
-      public static final SwerveModuleConstants constants = new SwerveModuleConstants(driveMotorID, angleMotorID,
-        canCoderID, canBus, angleOffset);
-    }
-  }
+public class Constants {
+  public static final double VALUE_OF_PI = 3.14159; // constant
 }
 ````
-You can get the gist of it
+| Type | Naming Convention | Example |  
+| :-: | :-: | :-: |
+| Class | PascalCase | LinkedList |
+| Constant | snake_case | VALUE_OF_PI |
+| Method | cammelCase | myMethod | 
+| Variable | cammelCase | numLetters |
 
 ***
 
-## Class Headers <br>
-All source files should begin with a class header that lists the team number and name, year and gane, and the code version (either In-Season, or Off-Season)
+## Brackets and Parentheses <br> 
+Brackets ({ and }) must be used for all method and class declarations, as well as conditionals and loops that contain multiple lines of code.
 
-````java
-// Created by 9496 Lynk
-// 2024: Crescendo 
-// Code Version: In-Season
-
-package frc.robot.subsystems;
-
-import frc.robot.Constants;
-
-public class DriveSubsystem extends SubsystemBase {
-  
-}
-````
-
-***
-
-## Brackets and Parentheses <br>
-Brackets ({ and }) must be used for all method and class declarations, as well as conditionals and loops that contain multiple lines of code. <br>
-While you can omit brackets for single line conditionals and loops, it’s best practice to use them for readability. For example, <br>
+While you can omit brackets for single line conditionals and loops, it’s best practice to use them for readability. For example,
 ````java
 if (true) {
   return false;
 }
 ````
-is more readable than:
+is much more readable than
 ````java
 if true
   return false;
 ````
-Along the same lines, parentheses (( and )) should be used for the arguments of the conditional or loop, as seen in the example above. <br>
+Along the same lines, parentheses (( and )) should be used for the arguments of the conditional or loop, as seen in the example above.
 
 ***
 
@@ -126,6 +62,7 @@ While the amount of whitespace doesn’t affect the compilation and running of c
 All indentations should be two spaces, and there should be an indentation each time a new block (eg. loop, method, etc) is opened, as seen in the examples above.
 
 There should be spaces before and after keywords and operators. For example, while
+
 ````java
 x=3;
 ````
@@ -134,9 +71,23 @@ is valid syntax, placing a space between each side of the operator keeps the cod
 x = 3;
 ````
 
+*** 
 
+## Class Headers <br>
+All source files should begin with a class header that lists the class name, version information, and author. 
+````java
+// Lynk 9496
+// Season: 2024 Crescendo
+// Status: In-Season
 
+public class JavaExample {
+  
+}
+````
 
+*** 
 
-
-
+## Comments
+https://www.gvsu.edu/computing/java-coding-style-guide-37.htm
+https://hackmd.io/@csci0200/B1MLkTu2Y#Recommended-Style
+https://www.codecademy.com/article/java-for-programmers-java-style-guide
