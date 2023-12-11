@@ -79,10 +79,12 @@ public final class Constants { // Constants Class
 ***
 
 ## Class Headers <br>
-All source files should begin with a class header that lists the class name, year: game, and team (9496 Lynk) <br>
+All source files should begin with a class header that lists the team number and name, year and gane, and the code version (either In-Season, or Off-Season)
 
 ````java
-// Code for: Drive Subsystem | 2023: Charged Up! | 9496 Lynk
+// Created by 9496 Lynk
+// 2024: Crescendo 
+// Code Version: In-Season
 
 package frc.robot.subsystems;
 
