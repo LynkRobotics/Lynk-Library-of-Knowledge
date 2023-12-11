@@ -54,17 +54,22 @@ public class DriveSubsystem {
 ````
 ### Constants <br>
 Constants should be held in the `Constants.java` class, and they should be easily readible and organized into smaller subclasses.
-All constants should be `public static final` because constants do not change
+All constants should be `public static final` because constants do not change. 
+Refer to Variables and Classes naming conventions to name Classes and Variables
 ````java
-public final class Constants { // Constants Class
+// Constants class
+public final class Constants { // PascalCase
 
-  public static final class Swerve { // Swerve Class
+  // Swerve Class
+  public static final class Swerve { // PascalCase
 
-    public static final int pigeonID = 1; //some swerve constants
+    // Pigeon ID Variable 
+    public static final int pigeonID = 1; // Camel Case
     public static final boolean invertGyro = false; 
 
-    public static final class Mod0 { // Module 0 Class
-      public static final int driveMotorID = 1; // Camel Case styling
+    // Module 0 Class 
+    public static final class Mod0 { // PascalCase
+      public static final int driveMotorID = 1; 
       public static final int angleMotorID = 2;
       public static final int canCoderID = 1;
       public static final String canBus = "rio";
@@ -75,6 +80,7 @@ public final class Constants { // Constants Class
   }
 }
 ````
+You can get the gist of it
 
 ***
 
