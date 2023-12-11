@@ -55,9 +55,14 @@ Constants do not use camel case, and instead use snake case (eg. snake_case) wit
 All source files should begin with a class header that lists the class name, year: game, and team (9496 Lynk) <br>
 
 ````java
-// Code for: Drive Subsystem | 2023: Charged Up! | 9496 Lynk 
-public class DriveSubsystem {
+// Code for: Drive Subsystem | 2023: Charged Up! | 9496 Lynk
 
+package frc.robot.subsystems;
+
+import frc.robot.Constants;
+
+public class DriveSubsystem extends SubsystemBase {
+  
 }
 ````
 
