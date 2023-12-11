@@ -48,8 +48,29 @@ public class DriveSubsystem {
 
 }
 ````
-#### tbd <br>
-Constants do not use camel case, and instead use snake case (eg. snake_case) with all uppercase letters. For example, if you wanted to store a CAN constant of a drive motor, you could name it DRIVE_M.
+### Constants <br>
+Constants should be held in the `Constants.java` class, and they should be easily readible and organized into smaller subclasses.
+All constants should be `public static final` because constants do not change
+````java
+public final class Constants { // Constants Class
+
+  public static final class Swerve { // Swerve Class
+
+    public static final int pigeonID = 1; //some swerve constants
+    public static final boolean invertGyro = false; 
+
+    public static final class Mod0 { // Module 0 Class
+      public static final int driveMotorID = 1; // Camel Case styling
+      public static final int angleMotorID = 2;
+      public static final int canCoderID = 1;
+      public static final String canBus = "rio";
+      public static final Rotation2d angleOffset = Rotation2d.fromDegrees(0.0);
+      public static final SwerveModuleConstants constants = new SwerveModuleConstants(driveMotorID, angleMotorID,
+        canCoderID, canBus, angleOffset);
+    }
+  }
+}
+````
 
 ## Class Headers <br>
 All source files should begin with a class header that lists the class name, year: game, and team (9496 Lynk) <br>
