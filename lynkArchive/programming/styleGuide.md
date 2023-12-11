@@ -9,6 +9,7 @@ Coding style is an important part of good software engineering practice. The goa
 ## Comments <br>
 Comments should be used to give overviews of code and provide additional information that is not readily available in the code itself. Comments should contain only information that is relevant to reading and understanding the program. Avoid duplicating information that is clearly evident in the code. <br>
 
+todo add example 
 
 ## Naming Conventions <br>
 
@@ -37,6 +38,16 @@ public class DriveSubsystem {
 ````
 #### tbd <br>
 Constants do not use camel case, and instead use snake case (eg. snake_case) with all uppercase letters. For example, if you wanted to store a CAN constant of a drive motor, you could name it DRIVE_M.
+
+## Class Headers <br>
+All source files should begin with a class header that lists the class name, year: game, and team (9496 Lynk) <br>
+
+````java
+// Code for: Drive Subsystem | 2023: Charged Up! | 9496 Lynk 
+public class DriveSubsystem {
+
+}
+````
 
 
 
