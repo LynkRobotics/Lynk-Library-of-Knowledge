@@ -1,5 +1,8 @@
 # LLK Stats <br>
 
+## Current Stats <br>
+<script src="//widgets.clicky.com/tally/?site_id=101435660&sitekey=3af108bd783fab6cb243c7d04a71429e&width=650&height=250&title=&hide_title=0&hide_branding=1" type="text/javascript"></script>
+
 ## Visitors in the last year <br>
 <script src="//widgets.clicky.com/flashy/?site_id=101435660&sitekey=1adfc16f5bcdeb744e9fb0b3be17222d&w=650&h=400&date=last-365-days&type=visitors&title=&hide_y=0&hide_title=0&hide_branding=1" type="text/javascript"></script>
 
