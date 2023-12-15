@@ -28,7 +28,8 @@
 ### Videos <br>
 
 #### Robot Maintenance <br>
-- [Keeping your FRC Robot Reliable](https://www.youtube.com/watch?v=CbYOIJ6HX3A) 
+- [Keeping your FRC Robot Reliable](https://www.youtube.com/watch?v=CbYOIJ6HX3A)
+- [2910 Between-Match Stuff: AKA Systems Check Yourself Before You Wreck Your Match](https://www.youtube.com/live/huB3j6bCxmc?si=sURDa2LJZ6pinrAV)
 
 <br>
 
