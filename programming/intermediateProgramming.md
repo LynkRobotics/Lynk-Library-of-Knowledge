@@ -1,7 +1,8 @@
 # [Intermediate Programming](./intermediateProgramming.md)
 
 ## Tutorials <br>
-- todo
+- [694 Newbie-ed](https://github.com/StuyPulse/newbie-ed)
+
 <br>
 
 ## Reading <br>
