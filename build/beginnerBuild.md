@@ -1,6 +1,4 @@
-# [Beginner Build](https://docs.lynkrobotics.org/build/beginnerBuild.html)
-
-<br>
+# [Beginner Build](https://docs.lynkrobotics.org/build/beginnerBuild.html) <br>
 
 ## Reading <br>
 
@@ -23,7 +21,8 @@
 
 ## Videos <br>
 
-- todo
+### Robot Maintenance <br>
+- [Keeping your FRC Robot Reliable](https://www.youtube.com/watch?v=CbYOIJ6HX3A) 
 
 <br>
 
