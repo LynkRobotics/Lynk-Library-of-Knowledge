@@ -26,9 +26,10 @@ This [video](https://youtu.be/BycqWYE3Ais?si=CsRCYG96PdMLrEDS) by YouTuber [Alph
 ## History of FRC <br>
 
 ### Reading <br>
-- todo
+- [1678 Citrus Circuits: History of FRC (2023)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/frc_history_2014-2023__ccc_2023_.pptx)
 
 ### Videos <br>
+- [1678 Citrus Circuits: History of FRC (2023)](https://youtu.be/X1TKuAphY8E?si=MWMtRh-X5K9v1sVv)
 - [FUN: Rewind Ep 1: 2016: A Stronghold to Behold: FIRST History](https://youtu.be/fnFCz8LNDoM?si=JWvoqszKYGZtKSPf)
 - [FUN: Rewind Ep. 2: Districts: A FIRST in Michigan: Jim Zondag FRC 33](https://www.youtube.com/watch?v=QtrJ7ROboXA)
 - [FUN: Rewind Ep. 3: History of Divisions: Rylee 3481 & James 179](https://youtu.be/xdBq2ou9lNQ?si=_YfyXvxzwxTMOYEV)
