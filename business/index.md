@@ -30,9 +30,11 @@
 
 ### Reading <br>
 - [1538 The Holy Cows: Best Practices for Community Outreach](https://docs.wixstatic.com/ugd/c6b003_b15d83c6c9164b229a7559be383b1e95.pdf)
+- [1678 Citrus Circuits: RoboCamps: Starting Your Own Program (2023)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/robocamps__starting_your_own_program.pptx)
 
 ### Videos <br>
 - [971 Spartan Robotics: Inventive Outreach and Your Team](https://www.youtube.com/watch?v=tw8kkre6hK4)
+- [1678 Citrus Circuits: RoboCamps: Starting Your Own Program (2023)](https://youtu.be/HThJKG2M1W4?si=0duNsjaJ3ucid0bE)
 
 ## Awards and Judging <br>
 
