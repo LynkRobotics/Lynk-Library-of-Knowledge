@@ -78,6 +78,7 @@
 
 #### Drive Team Training <br>
 - [1678 Citrus Circuits: Methods for Driver Practice and Drive Team Training](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/draft_methods_for_driver_practice.pdf)
+- [1678 Citrus Circuits: Effective Driver Training in FRC](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/effective_driving.pptx)
 
 #### The Season <br>
 - [971 Spartan Robotics: The Road to Regionals - Elements 971 uses to be competition ready](https://docs.google.com/presentation/d/1UVfp36n63UtEpxWNKG3ixD8cxhz5tGB800SvCSev3vY/edit#slide=id.p)
@@ -97,6 +98,7 @@
 
 #### Drive Team Training <br>
 - [1678 Citrus Circuits: Methods for Driver Practice and Drive Team Training](https://www.youtube.com/watch?v=GkQVJ10B97w)
+- [1678 Citrus Circuits: Effective Driver Training in FRC](https://youtu.be/EeAovf8hZEs?si=zOtx3mT6J5ERFp2F)
 
 #### The Season <br>
 - [971 Spartan Robotics: The Road to Regionals - Elements 971 uses to be competition ready](https://www.youtube.com/watch?v=Rb2zFXUJF3k)
