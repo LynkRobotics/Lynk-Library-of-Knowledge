@@ -71,6 +71,7 @@
 
 #### Design Process <br>
 - [148 Engineering Design Process](https://www.robowranglers148.com/uploads/1/0/5/4/10542658/engineering_design_process_for_robotics.pdf)
+- [1678 Citrus Circuits: CAD Principles (2023)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/cad_principles.pptx)
 
 #### Lynk Originals <br>
 - [LYNK: Design Constraints of Chain](https://docs.google.com/document/d/1m06TxMAqUlIHKjY84uFjRJwLsTOlEjOfFqxZBVQKsck/edit?usp=sharing)
@@ -101,6 +102,9 @@
 #### Simple Robot Design <br>
 - [1678 Citrus Circuits: Simple Robots that Win](https://www.youtube.com/watch?v=KP7FAur7jj4)
 - [1678 Citrus Circuits: Simplicity in Design](https://www.youtube.com/watch?v=2XneNCxo1tY)
+
+#### Design Process <br>
+- [1678 Citrus Circuits: CAD Principles (2023)](https://youtu.be/hb47fxLGNls?si=avffoVtxebmj63Og)
 
 #### Engineering Drawings <br>
 - [3847 Spectrum: Understanding Engineering Drawings](https://youtu.be/NYxRrcumNW0?si=XCCe6wGEi2dGGROj)
