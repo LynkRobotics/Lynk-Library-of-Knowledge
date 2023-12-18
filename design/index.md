@@ -130,6 +130,7 @@
 
 #### Strategic Design <br>
 - [1678 Citrus Circuits: Strategic Design](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/strategic_design_2022.pdf)
+- [1678 Citrus Circuits: Strategic Design (2023)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/strategic_design_2023.pptx)
 
 #### Prototyping <br>
 - [1678 Citrus Circuits: Quick Prototyping and Subsystems](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/subsystems_101-678.pdf)
@@ -152,6 +153,7 @@
 
 #### Strategic Design <br>
 - [1678 Citrus Circuits: Strategic Design](https://youtu.be/j-wOaF65cTU?si=pFEyX9pKhA1FJBdH)
+- [1678 Citrus Circuits: Strategic Design (2023)](https://youtu.be/FB3FHvMhSXU?si=bmWjUKEkxo1xGgbt)
 
 #### Prototyping <br>
 - [1678 Citrus Circuits: Quick Prototyping and Subsystems](https://www.youtube.com/watch?v=ALBZPZDQ3ig)
