@@ -51,3 +51,11 @@
 - [Behind The Lines - Applying & Presenting for Awards with Kristine Atiyeh from Team 125](https://www.youtube.com/watch?v=pGTJH5h0KVI&list=PLIY-TB1MAu-X9ZcNqt-ot6_JM2Z02zZ6L&index=11)
 - [How to Impress The Judges](https://youtu.be/h4iHt4j1dE4?si=Ooi0McTfkD664Uw7)
 
+## Finances <br>
+
+### Reading <br>
+- todo
+
+
+### Videos <br>
+- [1678 Citrus Circuits: Financial Stability (2023)](https://youtu.be/X_hdp3tty2s?si=RhPZeVd5UE4RNLL0)
