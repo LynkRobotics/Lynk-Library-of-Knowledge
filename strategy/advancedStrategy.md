@@ -10,6 +10,7 @@
 
 ### Alliances and Picking <br>
 - [1678 Citrus Circuits: Draft Night Tool: The Pick List](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/draft_night_tool__the_picklist-2022.pdf)
+- [1678 Citrus Circuits: Draft Night Tool: The Picklist (2023)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/draft_night_tool__the_picklist-2023.pptx)
 - [1678 Citrus Circuits: Developing Alliance Match Strategy](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/developing_alliance_match_strategy_2022_.pdf)
 
 ### Drive Team Training <br>
@@ -31,6 +32,7 @@
 
 ### Alliances and Picking
 - [1678 Citrus Circuits: Draft Night Tool: The Pick List](https://www.youtube.com/watch?v=R0hJnk5wxBw)
+- [1678 Citrus Circuits: Draft Night Tool: The Picklist (2023)](https://youtu.be/XOhxHFxiFV8?si=JpDykqEjVSKzUiDE)
 - [1678 Citrus Circuits: Developing Alliance Match Strategy](https://www.youtube.com/watch?v=Pznkoozb7H0)
 
 ### Drive Team Training <br>
