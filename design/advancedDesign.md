@@ -37,6 +37,7 @@
 - [Mechanical Design for Controllability](https://youtu.be/VNfFn-gcfFI?si=V7nIBtyTmOmKHGzp) 
 
 ### Strategic Design <br>
+- [8033: Strategic Design & Workflows Presentation 2023](https://docs.google.com/presentation/d/14Vs-3Fw8wtLZG4MTAtqqR50toqXasbHlpU64Kds8pQI/edit?usp=sharing)
 - [1678 Citrus Circuits: Strategic Design](https://youtu.be/j-wOaF65cTU?si=pFEyX9pKhA1FJBdH)
 - [1678 Citrus Circuits: Strategic Design (2023)](https://youtu.be/FB3FHvMhSXU?si=bmWjUKEkxo1xGgbt)
 

@@ -129,6 +129,7 @@
 - [971 Spartan Robotics: Complexity Index and Design Philosophy](https://docs.google.com/presentation/d/1UfLXGLWhKuUhi6ElTa8IuqI1ZxyFkMHHFpn0fAHmhy4/edit#slide=id.p)
 
 #### Strategic Design <br>
+- [8033: Strategic Design & Workflows Presentation 2023](https://docs.google.com/presentation/d/14Vs-3Fw8wtLZG4MTAtqqR50toqXasbHlpU64Kds8pQI/edit?usp=sharing)
 - [1678 Citrus Circuits: Strategic Design](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/strategic_design_2022.pdf)
 - [1678 Citrus Circuits: Strategic Design (2023)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/strategic_design_2023.pptx)
 
