@@ -52,6 +52,9 @@
 - [FreeCodeCamp: Java 8 Full Tutorial for Beginners Video](https://www.youtube.com/watch?v=grEKMHGYyns)
 - [FreeCodeCamp: Intro to Object Oriented Programming](https://www.youtube.com/watch?v=SiBw7os-_zI)
 
+#### Git <br>
+- [1678 Citrus Circuits: Introduction to Git (2023)](https://youtu.be/c9vMtxKLwEU?si=q-JjDwx_O5LVHIA4)
+
 <br>
 
 ## [Intermediate Programming](./intermediateProgramming.md)
