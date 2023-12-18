@@ -6,7 +6,7 @@
 [![Static Badge](https://img.shields.io/badge/First_Team_Meeting_OffSeason-na?style=for-the-badge&label=10%2F23%2F23&labelColor=000000&color=bf5700)](https://www.chiefdelphi.com/t/frc-9496-lynk-2024-build-thread-open-alliance/441524/3?u=jimmyy) <br>
 [![Static Badge](https://img.shields.io/badge/lynk_library_of_knowledge_release-na?style=for-the-badge&label=10%2F29%2F23&labelColor=000000&color=bf5700)](https://www.chiefdelphi.com/t/frc-9496-lynk-2024-build-thread-open-alliance/441524/8?u=jimmyy) <br>
 [![Static Badge](https://img.shields.io/badge/Tools,_Glorious_tools!-na?style=for-the-badge&label=11%2F03%2F23&labelColor=000000&color=bf5700)](https://www.chiefdelphi.com/t/frc-9496-lynk-2024-build-thread-open-alliance/441524/10?u=jimmyy) <br>
-[![Static Badge](https://img.shields.io/badge/Lynk_Library_of_Knowledge:_2024_Pre–Season_Release-na?style=for-the-badge&label=12%2F15%2F23&labelColor=000000&color=bf5700)](https://www.chiefdelphi.com/t/frc-9496-lynk-2024-build-thread-open-alliance/441524/16?u=jimmyy) todo <br> 
+[![Static Badge](https://img.shields.io/badge/Lynk_Library_of_Knowledge:_2024_Pre–Season_Release-na?style=for-the-badge&label=12%2F18%2F23&labelColor=000000&color=bf5700)](https://www.chiefdelphi.com/t/frc-9496-lynk-2024-build-thread-open-alliance/441524/16?u=jimmyy) <br> 
 
 ### [2024 Season](./2024SeasonOA/index.md) <br>
 - [2024 OA Blog](https://www.chiefdelphi.com/t/frc-9496-lynk-2024-build-thread-open-alliance/441524?u=jimmyy)
