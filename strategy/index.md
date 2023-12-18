@@ -108,6 +108,7 @@
 
 #### The Season <br>
 - [971 Spartan Robotics: The Road to Regionals - Elements 971 uses to be competition ready](https://www.youtube.com/watch?v=Rb2zFXUJF3k)
+- [1678 Citrus Circuits: Considerations and Strategies for Building Field Elements (2023)](https://youtu.be/1Oro5Ab05_A?si=tyYE8PI4r3vk_1xc)
 
 <br>
 
