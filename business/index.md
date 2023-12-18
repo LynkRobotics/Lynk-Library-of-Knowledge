@@ -6,10 +6,12 @@
 - [Lynk Branding Guide]() coming soonish, idk 
 - [254 Branding Guide](https://www.team254.com/resources/identity/)
 - [1538 Branding Guide](http://www.team1538.com/downloads/2015BrandStandards.pdf)
+- [1678 Citrus Circuits: Establishing and Maintaining Team Branding (2023)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/team_branding_2023.pptx)
 
 ### Videos <br>
 - [Behind the Lines - Marketing and Branding](https://www.youtube.com/watch?v=MZYNMdzZ6qs&list=PLIY-TB1MAu-X9ZcNqt-ot6_JM2Z02zZ6L&index=8)
 - [1678 Citrus Circuits: Fall Workshops - Graphic Design](https://www.youtube.com/watch?v=g7Jl0Ma4gqA&list=PL6j32uphg3L8B6pCfcFLHKSaALzfqAVgy&index=8)
+- [1678 Citrus Circuits: Establishing and Maintaining Team Branding (2023)](https://youtu.be/EXAtR4yyua0?si=tG-GRE-CfE4ihDtN)
 
 ## Social Media <br>
 
