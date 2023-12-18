@@ -34,4 +34,11 @@ This [video](https://youtu.be/BycqWYE3Ais?si=CsRCYG96PdMLrEDS) by YouTuber [Alph
 - [FUN: Rewind Ep. 2: Districts: A FIRST in Michigan: Jim Zondag FRC 33](https://www.youtube.com/watch?v=QtrJ7ROboXA)
 - [FUN: Rewind Ep. 3: History of Divisions: Rylee 3481 & James 179](https://youtu.be/xdBq2ou9lNQ?si=_YfyXvxzwxTMOYEV)
 
+## Team Resources <br>
+
+### Reading <br>
+- [1678 Citrus Circuits: Team Structure and Management (2023)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/1678_team_structure_and_managment_2023.pptx)
+
+### Videos <br>
+- [1678 Citrus Circuits: Team Structure and Management (2023)](https://youtu.be/3ShM0scs2Qs?si=fUqvISR7fPmQMqkB)
 
