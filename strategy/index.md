@@ -59,6 +59,9 @@
 #### Strategic Design <br>
 - [1678 Citrus Circuits: Strategic Design](https://youtu.be/j-wOaF65cTU?si=pFEyX9pKhA1FJBdH)
 
+#### Events <br>
+- [118 Robonauts: One Match at a Time: How the Robonauts Execute at Events](https://youtu.be/uiYgt37zIrQ?si=tfxeR-FwqUmSr9F8)
+
 <br>
 
 ***

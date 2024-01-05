@@ -7,6 +7,7 @@
 [![Static Badge](https://img.shields.io/badge/lynk_library_of_knowledge_release-na?style=for-the-badge&label=10%2F29%2F23&labelColor=000000&color=bf5700)](https://www.chiefdelphi.com/t/frc-9496-lynk-2024-build-thread-open-alliance/441524/8?u=jimmyy) <br>
 [![Static Badge](https://img.shields.io/badge/Tools,_Glorious_tools!-na?style=for-the-badge&label=11%2F03%2F23&labelColor=000000&color=bf5700)](https://www.chiefdelphi.com/t/frc-9496-lynk-2024-build-thread-open-alliance/441524/10?u=jimmyy) <br>
 [![Static Badge](https://img.shields.io/badge/Lynk_Library_of_Knowledge:_2024_Pre–Season_Release-na?style=for-the-badge&label=12%2F18%2F23&labelColor=000000&color=bf5700)](https://www.chiefdelphi.com/t/frc-9496-lynk-2024-build-thread-open-alliance/441524/16?u=jimmyy) <br> 
+[![Static Badge](https://img.shields.io/badge/one-Preseason_Design_Project-black?style=for-the-badge&label=01%2F03%2F24&labelColor=000000&color=bf5700)](https://www.chiefdelphi.com/t/frc-9496-lynk-2024-build-thread-open-alliance/441524/17?u=jimmyy) <br>
 
 ### [2024 Season](./2024SeasonOA/index.md) <br>
 - [2024 OA Blog](https://www.chiefdelphi.com/t/frc-9496-lynk-2024-build-thread-open-alliance/441524?u=jimmyy)
@@ -15,7 +16,9 @@
 - [LYNK: Making Robust FRC Robots](https://docs.google.com/document/d/1Qt6DSVOIRh5dXyzQ9Q3VipjBpd12ozPSDN2LOaZLYqo/edit?usp=sharing)
 - [LYNK: Design Constraints of Chain](https://docs.google.com/document/d/1m06TxMAqUlIHKjY84uFjRJwLsTOlEjOfFqxZBVQKsck/edit?usp=sharing)
 - [LYNK: Parts Coding System](https://docs.google.com/document/d/1AxjovjDQV9VLWG0vvZujM-4wMK7v6N10FWTSsmSrQFU/edit?usp=sharing)
+- [LYNK: Sheet Metal Design Guide](https://docs.google.com/document/d/1SSPp0jThv-Izgj_aEsbGcd8lTTkbXJtDYkFObN58tgM/edit?usp=sharing)
 - [LYNK: Java Style Guide](https://docs.lynkrobotics.org/lynkArchive/programming/styleGuide.html)
+
 
 ## Team Links <br>
 [![Static Badge](https://img.shields.io/badge/Team_Website-Lynk?style=for-the-badge&label=Lynk&labelColor=000000&color=bf5700)](https://lynkrobotics.org) <br>
