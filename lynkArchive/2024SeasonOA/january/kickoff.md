@@ -30,6 +30,12 @@ add words
 - Touch it, own it (immediate acquisition of Notes)
 - Quickly shoot (minimal time to align, etc.)
 
+### Robot Design
+
+#### Intake 
+
+##### Over the Bumper vs Under the Bumper Intake
+
 ## Robot Cart Progress
 (photos) <br>
 thank west rock a little
