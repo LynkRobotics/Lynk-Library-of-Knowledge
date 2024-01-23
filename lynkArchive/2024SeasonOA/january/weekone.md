@@ -47,7 +47,7 @@ By this time we had gained a solid understanding of what could happen in a match
 By this point we have been discussing strategy and what robots might do for several days we also created a list of potential robot archetypes that we expect to see all in an effort to better understand the coming season but we haven't even started on what we will do. So this is the day we finally got to this. We worked on this in the form of a "Our Robot Will" list, this is a list of functions that we will try to achieve with our robot, it doesn't answer how but rather what. We also tried to make this goals measurable so we will actually know when we have achieved them. This list will be a work in progress for the next few days but at some point it will become are guide through the build season that we will rely on when we are designing our robot.
  <br>
 
-![image](https://cdn.discordapp.com/attachments/1106366365130035228/1195189403136557106/ABLVV87S4ucSgMbKzmRgeoPMEjd_-Yv3xCPpylLErr6pwNSYi9NMcQoeVqEfbAw2847-h2143-s-no.png?ex=65bc505f&is=65a9db5f&hm=960e402349998ad9b80105859aae2cb063b025757087895b66c15438062bd416&) <br>
+![image](https://cdn.discordapp.com/attachments/1166768540364324864/1199417916689502268/ABLVV87S4ucSgMbKzmRgeoPMEjd_-Yv3xCPpylLErr6pwNSYi9NMcQoeVqEfbAw2847-h2143-s-no.png?ex=65c277fb&is=65b002fb&hm=3fbb00e7ab3aea8ac091d7d6ad9ec2ec2b30467149a98abe3c4e1fb089b55e2c&) <br>
 
 We got our tool cart today so we can finally organize our tools and start setting those standards.
  <br>
