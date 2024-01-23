@@ -2,12 +2,14 @@
 <div align="center">
 <h1><span style="color:#bf5700">Week 1!</span></h1>
 </div>
+
 Welcome back to one another 2023 Off-season OA posts of 9496 Lynk!
 
 <div>
 <div align="center">
 <h2><span style="color:#bf5700">Kickoff Day</span></h2>
 </div>
+
 "What Not How" <br>
 We broke down scoring <br>
 
