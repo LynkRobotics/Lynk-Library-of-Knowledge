@@ -16,12 +16,12 @@ Welcome back to Team 9496 Lynk’s 2024 OA thread, for our first post of the 202
 <h3><span style="color:#bf5700">What not how</span></h3>
 </div>
 
-On the early days of a kickoff, we are try to gain an understanding of what the game will be. At this point we don't care how a robot will do something, but rather what it will choose to do in a match and why. So our main focus in the early days was trying to break down the match scoring and strategy so we could make sure that we have a solid understanding of the game and why we may want to do one task over another. 
+On the early days of a kickoff, we are trying to gain an understanding of what the game will be. At this point, we don't care _how_ a robot will do something, but rather _what_ it will choose to do in a match, and _why_. So our main focus in the early days was trying to break down the match scoring and strategy, so we could make sure that we have a solid understanding of the game and why we may want to do one task over another. 
 <br>
 
 ![image](https://cdn.discordapp.com/attachments/1106366365130035228/1193385010699436083/20240106_134009.jpg?ex=65befa66&is=65ac8566&hm=19d071d803e224fda8238c634b834a9835c8b1b1441f849382c0a7a072b0ee0e&) <br>
 
-A big part of these early discussions is unanswered questions. Throughout the early days, we kept a list of questions we had that students were working on answering or preparing for Q&A if they couldn't find an answer. And at the end of the day the answers that we found were presented to the team.
+A big part of these early discussions is unanswered questions. Throughout the early days, we kept a list of questions we had that students were working on answering, or preparing for Q&A if they couldn't find an answer. And at the end of the day the answers that we found were presented to the team.
  <br>
 
 ![image](https://cdn.discordapp.com/attachments/1106366365130035228/1193317371893530674/rn_image_picker_lib_temp_f3308df6-9583-45e1-adda-d291a94cb2c6.jpg?ex=65bebb68&is=65ac4668&hm=d1a78c5d123659232c7ba470809a483287f5926331250a83a9ec130335159dd9&) <br>
@@ -142,6 +142,6 @@ We had an online class to work on chassis design, and created this assembly of a
 
 
 What is a robots favorite type of music? <br>
-Heavy Metal <br>
+_Heavy Metal_ <br>
 
 See y'all next update!
