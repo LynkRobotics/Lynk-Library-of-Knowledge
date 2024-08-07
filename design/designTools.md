@@ -13,6 +13,8 @@
 - [Spectrum Design Calculator](http://designsheet.spectrum3847.org/)
 - [ILITE Drivetrain Simulator](https://www.chiefdelphi.com/t/ilite-drivetrain-simulator-v2020/369188)
 
+## Youtube
+- [How Long is my name: Design](https://www.youtube.com/@howlongismydesign)
 <br>
 
 ***
