@@ -13,11 +13,13 @@
 - [2024 OA Blog](https://www.chiefdelphi.com/t/frc-9496-lynk-2024-build-thread-open-alliance/441524?u=jimmyy)
 
 ## Team Documents <br>
-- [LYNK: Making Robust FRC Robots](https://docs.google.com/document/d/1Qt6DSVOIRh5dXyzQ9Q3VipjBpd12ozPSDN2LOaZLYqo/edit?usp=sharing)
+- [LYNK: Making Robust FRC Robots](https://docs.google.com/document/d/1cBqKvxOBFi7ZGk4cwItsCBxTuydqciF9TRuIyMbWmuU/edit?usp=sharing)
 - [LYNK: Design Constraints of Chain](https://docs.google.com/document/d/1m06TxMAqUlIHKjY84uFjRJwLsTOlEjOfFqxZBVQKsck/edit?usp=sharing)
 - [LYNK: Parts Coding System](https://docs.google.com/document/d/1AxjovjDQV9VLWG0vvZujM-4wMK7v6N10FWTSsmSrQFU/edit?usp=sharing)
 - [LYNK: Sheet Metal Design Guide](https://docs.google.com/document/d/1SSPp0jThv-Izgj_aEsbGcd8lTTkbXJtDYkFObN58tgM/edit?usp=sharing)
 - [LYNK: Java Style Guide](https://docs.lynkrobotics.org/lynkArchive/programming/styleGuide.html)
+- [LYNK: Branding Guide](https://www.canva.com/design/DAF6ub_j07w/a3L3UTqA2G7JnpMesATKhQ/view?utm_content=DAF6ub_j07w&utm_campaign=designshare&utm_medium=link&utm_source=editor) 
+
 
 
 ## Team Links <br>
