@@ -3,7 +3,7 @@
 ## Branding <br>
 
 ### Reading <br>
-- [Lynk Branding Guide]() coming soonish, idk 
+- [LYNK Branding Guide](https://www.canva.com/design/DAF6ub_j07w/a3L3UTqA2G7JnpMesATKhQ/view?utm_content=DAF6ub_j07w&utm_campaign=designshare&utm_medium=link&utm_source=editor) 
 - [254 Branding Guide](https://www.team254.com/resources/identity/)
 - [1538 Branding Guide](http://www.team1538.com/downloads/2015BrandStandards.pdf)
 - [1678 Citrus Circuits: Establishing and Maintaining Team Branding (2023)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/team_branding_2023.pptx)
@@ -63,3 +63,6 @@
 
 ### Videos <br>
 - [1678 Citrus Circuits: Financial Stability (2023)](https://youtu.be/X_hdp3tty2s?si=RhPZeVd5UE4RNLL0)
+
+## LYNK Specific Documents <br>
+- [LYNK Branding Guide](https://www.canva.com/design/DAF6ub_j07w/a3L3UTqA2G7JnpMesATKhQ/view?utm_content=DAF6ub_j07w&utm_campaign=designshare&utm_medium=link&utm_source=editor)
