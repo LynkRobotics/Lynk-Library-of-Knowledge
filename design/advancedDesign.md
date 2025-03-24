@@ -46,4 +46,7 @@
 - [1678 Citrus Circuits: Quick Prototyping (2023)](https://youtu.be/z8Ol0ggdcIg?si=59GF6vPyqQkDyVLQ)
 - [1678 Citrus Circuits: Fabrication and Prototyping](https://www.youtube.com/watch?v=T9K3Y6SjPOU)
 
+### Misc <br>
+- [2024 Robot Demo and Q&A (2056)](https://www.youtube.com/live/JGdfua1caLE?si=f_96Emuueii-GuAe)
+
 <br>
