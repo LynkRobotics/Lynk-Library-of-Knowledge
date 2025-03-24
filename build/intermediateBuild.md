@@ -28,6 +28,7 @@
 ### Best Practices <br>
 - [Things You’re (Probably) Doing Wrong](https://youtu.be/L5LAWrXCrlU?si=D7G9lrEyEHVZ7FXg)
 - [Assembly, Organization & Best Practices](https://youtu.be/o52ivEj9PLM?si=MZzhDhDTjEQ3N-_9)
+- [How to improve your on field performance (2056)](https://www.youtube.com/live/ZJjWuSL-cSI?si=sYoAR225LTLRG5Gq)
 
 ### Understanding Engineering Drawings <br>
 - [Understanding Engineering Drawings](https://youtu.be/ht9GwXQMgpo?si=lytPkhk27MsLrDBO)
