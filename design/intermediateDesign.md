@@ -66,6 +66,7 @@
 
 ### Design Process <br>
 - [1678 Citrus Circuits: CAD Principles (2023)](https://youtu.be/hb47fxLGNls?si=avffoVtxebmj63Og)
+- [2056 OP Robotics: FRC Design in the Modern Era](https://www.youtube.com/live/9USd1xritWE?si=OIQ3oSoyKE6ylGCH)
 
 ### Engineering Drawings <br>
 - [3847 Spectrum: Understanding Engineering Drawings](https://youtu.be/NYxRrcumNW0?si=XCCe6wGEi2dGGROj)
