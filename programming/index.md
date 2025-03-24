@@ -110,7 +110,7 @@
 <br>
 
 ### Misc. Resources
-- todo
+- [2056 Ways to code](https://www.youtube.com/live/z3a5_HKVQX4?si=V7xYp7PW1MDfExtc)
 <br>
 
 ## [Advanced Programming](./advancedProgramming.md) <br>

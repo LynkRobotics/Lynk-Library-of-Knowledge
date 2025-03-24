@@ -47,4 +47,7 @@
 - [4400 Cerbotics Intro to WPILib Workshop](https://www.youtube.com/watch?v=ImkxFrBirwY)
 - [2813 Gear Heads Robot Lessons](https://www.youtube.com/playlist?list=PLf-V-Ek_YwZV5AbWq6wnyQIAMcZH1HEr9)
 - [6841 Cerberus 2.0](https://www.youtube.com/playlist?list=PLYwJIUT_B-n612Gqmfsq1ukYLa6WKgon)
+
+### Misc. Resources <br>
+- [2056 Ways to code](https://www.youtube.com/live/z3a5_HKVQX4?si=V7xYp7PW1MDfExtc)
 <br>
