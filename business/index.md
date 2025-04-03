@@ -65,4 +65,5 @@
 - [1678 Citrus Circuits: Financial Stability (2023)](https://youtu.be/X_hdp3tty2s?si=RhPZeVd5UE4RNLL0)
 
 ## LYNK Specific Documents <br>
+- [LYNK Buisness Plan](https://www.canva.com/design/DAF7mVp_dw8/yiAiRpDkc3w6dCFJmYRMhw/view?utm_content=DAF7mVp_dw8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4ae0b660f3)
 - [LYNK Branding Guide](https://www.canva.com/design/DAF6ub_j07w/a3L3UTqA2G7JnpMesATKhQ/view?utm_content=DAF6ub_j07w&utm_campaign=designshare&utm_medium=link&utm_source=editor)
