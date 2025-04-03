@@ -2,7 +2,7 @@
 
 <br>
 
-## [Beginner Build](https://docs.lynkrobotics.org/build/beginnerBuild.html)
+## Beginner Build
 
 <br>
 
@@ -37,7 +37,7 @@
 
 <br>
 
-## [Intermediate Build](https://docs.lynkrobotics.org/build/intermediateBuild.html)
+## Intermediate Buil
 
 <br>
 
@@ -82,7 +82,7 @@
 
 <br>
 
-## [Advanced Build](https://docs.lynkrobotics.org/build/advancedBuild.html) 
+## Advanced Build
 
 <br>
 
