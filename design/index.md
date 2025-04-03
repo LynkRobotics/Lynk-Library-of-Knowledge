@@ -220,7 +220,6 @@
 - [FRC Design.org](https://www.frcdesign.org/)
 - [FRC Mechanisms](https://docs.lynkrobotics.org/design/frcMechanisms.html)
 - [Photo Gallery](https://docs.lynkrobotics.org/design/photoGallery.html)
-- [Blogs](https://docs.lynkrobotics.org/design/teamBlogs.html)
 - [CAD Files](https://docs.lynkrobotics.org/design/CAD/index.html)
 
 <br>
