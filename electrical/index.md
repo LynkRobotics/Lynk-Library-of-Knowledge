@@ -2,7 +2,7 @@
 
 <br>
 
-## [Beginner Electrical](./beginnerElectrical.md) 
+## Beginner Electrical
 
 <br>
 
@@ -40,7 +40,7 @@
 <br>
 
 
-## [Intermediate Electrical](./intermediateElectrical.md)
+## Intermediate Electrical
 
 <br>
 
@@ -91,7 +91,7 @@
 
 <br>
 
-## [Advanced Electrical](./advancedElectrical.md) 
+## Advanced Electrical
 
 <br>
 

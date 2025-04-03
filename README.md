@@ -40,21 +40,21 @@ Covers:
 
 ## [Design](https://docs.lynkrobotics.org/design/) 
 
-### [Beginner Design](https://docs.lynkrobotics.org/design/beginnerDesign.html)
+### [Beginner Design](https://docs.lynkrobotics.org/design)
 Covers:
 - OnShape
 - Intro to FRC Mechanisms
 - Behind the Bumpers
 <br>
 
-### [Intermediate Design](https://docs.lynkrobotics.org/design/intermediateDesign.html)
+### [Intermediate Design](https://docs.lynkrobotics.org/design)
 Covers:
 - Design Process
 - Effective Mechanisms in FRC
 - Making Robust FRC Robots 
 <br>
 
-### [Advanced Design](https://docs.lynkrobotics.org/design/advancedDesign.html)
+### [Advanced Design](https://docs.lynkrobotics.org/design)
 Covers:
 - Printing tips
 - Design for Controllability
@@ -64,21 +64,21 @@ Covers:
 
 ## [Build](https://docs.lynkrobotics.org/build/) 
 
-### [Beginner Build](https://docs.lynkrobotics.org/build/beginnerBuild.html)
+### [Beginner Build](https://docs.lynkrobotics.org/build/)
 Covers:
 - Build Training
 - Making Robust FRC Robots
 - Robot Maintenance
 <br>
 
-### [Intermediate Build](https://docs.lynkrobotics.org/build/intermediateBuild.html)
+### [Intermediate Build](https://docs.lynkrobotics.org/build/)
 Covers:
 - Best Practices
 - How to build bumpers
 - Understanding Engineering Drawings
 <br>
 
-### [Advanced Build](https://docs.lynkrobotics.org/build/advancedBuild.html) 
+### [Advanced Build](https://docs.lynkrobotics.org/build/) 
 Covers:
 - Powder Coating
 - Carbide Create / Motion
@@ -88,21 +88,21 @@ Covers:
 
 ## [Electrical](https://docs.lynkrobotics.org/electrical/)  
 
-### [Beginner Electrical](https://docs.lynkrobotics.org/electrical/beginnerElectrical.html) 
+### [Beginner Electrical](https://docs.lynkrobotics.org/electrical/) 
 Covers:
 - What is Electrical? 
 - Crimping Wires
 - Basics
 <br>
 
-### [Intermediate Electrical](https://docs.lynkrobotics.org/electrical/intermediateElectrical.html) 
+### [Intermediate Electrical](https://docs.lynkrobotics.org/electrical/) 
 Covers:
 - How to Solder
 - Different Circuits
 - Batteries
 <br>
 
-### [Advanced Electrical](https://docs.lynkrobotics.org/electrical/advancedElectrical.html) 
+### [Advanced Electrical](https://docs.lynkrobotics.org/electrical/) 
 Covers:
 - Pneumatics
 - Adv. Soldering
@@ -112,28 +112,25 @@ Covers:
 
 ## [Strategy](https://docs.lynkrobotics.org/strategy)
 
-### [Beginner Strategy](https://docs.lynkrobotics.org/strategy/beginnerStrategy.html)
+### [Beginner Strategy](https://docs.lynkrobotics.org/strategy/)
 Covers:
 - Effective FIRST Strategies with Karthik
 - Basic Strategy
 <br>
 
 
-### [Intermediate Strategy](https://docs.lynkrobotics.org/strategy/intermediateStrategy.html)
+### [Intermediate Strategy](https://docs.lynkrobotics.org/strategy/)
 Covers:
 - Strategic Design
 - todo
 <br>
 
-### [Advanced Strategy](https://docs.lynkrobotics.org/strategy/advancedStrategy.html)
+### [Advanced Strategy](https://docs.lynkrobotics.org/strategy/)
 Covers:
 - Developing Alliance Match Strategy
 - Game Analysis
 - and More!
 <br>
-
-### [Strategy Tools](https://docs.lynkrobotics.org/strategy/tools.html)
-Tools that will help with strategy
 
 ***
 

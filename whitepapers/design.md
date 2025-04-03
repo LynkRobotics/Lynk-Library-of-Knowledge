@@ -1,1 +1,0 @@
-# Design Technical Documentation

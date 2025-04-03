@@ -1,4 +1,0 @@
-# Strategy Technical Documentation
-
-<br>
-

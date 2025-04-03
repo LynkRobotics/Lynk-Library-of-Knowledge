@@ -2,7 +2,7 @@
 
 <br>
 
-## [Beginner Strategy](./beginnerStrategy.md) <br>
+## Beginner Strategy <br>
 
 ### Reading <br>
 
@@ -34,7 +34,7 @@
 
 <br>
 
-## [Intermediate Strategy](./intermediateStrategy.md) <br>
+## Intermediate Strategy <br>
 
 ### Reading <br>
 
@@ -68,7 +68,7 @@
 
 <br>
 
-## [Advanced Strategy](./advancedStrategy.md) <br>
+## Advanced Strategy <br>
 
 ### Reading <br>
 
@@ -115,10 +115,13 @@
 
 <br>
 
+***
 
+<br>
 
-## [Tools](./tools.md) <br>
-
+## Tools <br>
+- [FRC Manual: Presented by FabWorks](https://frcmanual.com/)
 - [The Blue Alliance](https://www.thebluealliance.com/)
 - [Statbotics](https://www.statbotics.io/)
 - [FRC Locks](https://frclocks.com)
+- [FRC Divisions](https://frc.divisions.co/r/south)
