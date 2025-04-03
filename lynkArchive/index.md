@@ -20,7 +20,7 @@
 - [LYNK: Java Style Guide](https://docs.lynkrobotics.org/lynkArchive/programming/styleGuide.html)
 - [LYNK: Branding Guide](https://www.canva.com/design/DAF6ub_j07w/a3L3UTqA2G7JnpMesATKhQ/view?utm_content=DAF6ub_j07w&utm_campaign=designshare&utm_medium=link&utm_source=editor) 
 - [LYNK: Business Plan](https://www.canva.com/design/DAF7mVp_dw8/yiAiRpDkc3w6dCFJmYRMhw/view?utm_content=DAF7mVp_dw8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4ae0b660f3)
-
+- [LYNK Investor Brochure 2024](https://drive.google.com/file/d/19Dp1W_tyfL-IH5fe6Bp7dTvocWtzBJqM/view?usp=drive_link)
 
 
 ## Team Links <br>
