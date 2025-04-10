@@ -64,21 +64,21 @@ Covers:
 
 ## [Build](https://docs.lynkrobotics.org/build/) 
 
-### [Beginner Build](https://docs.lynkrobotics.org/build/)
+### [Beginner Build](https://docs.lynkrobotics.org/build/index.html#beginner-build)
 Covers:
 - Build Training
 - Making Robust FRC Robots
 - Robot Maintenance
 <br>
 
-### [Intermediate Build](https://docs.lynkrobotics.org/build/)
+### [Intermediate Build](https://docs.lynkrobotics.org/build/index.html#intermediate-build)
 Covers:
 - Best Practices
 - How to build bumpers
 - Understanding Engineering Drawings
 <br>
 
-### [Advanced Build](https://docs.lynkrobotics.org/build/) 
+### [Advanced Build](https://docs.lynkrobotics.org/build/index.html#advanced-build) 
 Covers:
 - Powder Coating
 - Carbide Create / Motion
@@ -88,21 +88,21 @@ Covers:
 
 ## [Electrical](https://docs.lynkrobotics.org/electrical/)  
 
-### [Beginner Electrical](https://docs.lynkrobotics.org/electrical/) 
+### [Beginner Electrical](https://docs.lynkrobotics.org/electrical/index.html#beginner-electrical) 
 Covers:
 - What is Electrical? 
 - Crimping Wires
 - Basics
 <br>
 
-### [Intermediate Electrical](https://docs.lynkrobotics.org/electrical/) 
+### [Intermediate Electrical](https://docs.lynkrobotics.org/electrical/index.html#intermediate-electrical) 
 Covers:
 - How to Solder
 - Different Circuits
 - Batteries
 <br>
 
-### [Advanced Electrical](https://docs.lynkrobotics.org/electrical/) 
+### [Advanced Electrical](https://docs.lynkrobotics.org/electrical/index.html#advanced-electrical) 
 Covers:
 - Pneumatics
 - Adv. Soldering
@@ -112,20 +112,20 @@ Covers:
 
 ## [Strategy](https://docs.lynkrobotics.org/strategy)
 
-### [Beginner Strategy](https://docs.lynkrobotics.org/strategy/)
+### [Beginner Strategy](https://docs.lynkrobotics.org/strategy/index.html#beginner-strategy)
 Covers:
 - Effective FIRST Strategies with Karthik
 - Basic Strategy
 <br>
 
 
-### [Intermediate Strategy](https://docs.lynkrobotics.org/strategy/)
+### [Intermediate Strategy](https://docs.lynkrobotics.org/strategy/index.html#intermediate-strategy)
 Covers:
 - Strategic Design
 - todo
 <br>
 
-### [Advanced Strategy](https://docs.lynkrobotics.org/strategy/)
+### [Advanced Strategy](https://docs.lynkrobotics.org/strategy/index.html#advanced-strategy)
 Covers:
 - Developing Alliance Match Strategy
 - Game Analysis
