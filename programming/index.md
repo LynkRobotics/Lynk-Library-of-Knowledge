@@ -1,6 +1,6 @@
 # Programming 
 
-## [Beginner Programming](./beginnerProgramming.md)
+## Beginner Programming
 
 ### Tutorials
 - [LYNK Java Tutorial](./java/index.md)
@@ -61,7 +61,7 @@
 
 <br>
 
-## [Intermediate Programming](./intermediateProgramming.md)
+## Intermediate Programming
 
 ### Tutorials <br>
 - [694 Newbie-ed](https://github.com/StuyPulse/newbie-ed)
@@ -123,7 +123,7 @@
 
 <br>
 
-## [Advanced Programming](./advancedProgramming.md) <br>
+## Advanced Programming <br>
 
 ### Mechanism Examples <br>
 

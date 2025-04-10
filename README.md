@@ -15,21 +15,21 @@ Covers:
 ## [Programming](https://docs.lynkrobotics.org/programming/)
 
 
-### [Beginner Programming](https://docs.lynkrobotics.org/programming/beginnerProgramming.html)
+### [Beginner Programming](https://docs.lynkrobotics.org/programming/index.html#beginner-programming)
 Covers:
 - Java
 - Git
 - Best Practices
 <br>
 
-### [Intermediate Programming](https://docs.lynkrobotics.org/programming/intermediateProgramming.html)
+### [Intermediate Programming](https://docs.lynkrobotics.org/programming/index.html#intermediate-programming)
 Covers:
 - Java in FRC
 - Command Based Programming
 - Control System
 <br>
 
-### [Advanced Programming](https://docs.lynkrobotics.org/programming/advancedProgramming.html)
+### [Advanced Programming](https://docs.lynkrobotics.org/programming/index.html#advanced-programming)
 Covers: 
 - Coding **MECHANISMS**!
 - Control Theory
