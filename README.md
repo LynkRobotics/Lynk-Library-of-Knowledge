@@ -40,21 +40,21 @@ Covers:
 
 ## [Design](https://docs.lynkrobotics.org/design/) 
 
-### [Beginner Design](https://docs.lynkrobotics.org/design)
+### [Beginner Design](https://docs.lynkrobotics.org/design/index.html#beginner-design)
 Covers:
 - OnShape
 - Intro to FRC Mechanisms
 - Behind the Bumpers
 <br>
 
-### [Intermediate Design](https://docs.lynkrobotics.org/design)
+### [Intermediate Design](https://docs.lynkrobotics.org/design/index.html#intermediate-design)
 Covers:
 - Design Process
 - Effective Mechanisms in FRC
 - Making Robust FRC Robots 
 <br>
 
-### [Advanced Design](https://docs.lynkrobotics.org/design)
+### [Advanced Design](https://docs.lynkrobotics.org/design/index.html#advanced-design)
 Covers:
 - Printing tips
 - Design for Controllability

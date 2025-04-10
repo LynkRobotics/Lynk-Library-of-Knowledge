@@ -73,10 +73,10 @@
 - [148 Engineering Design Process](https://www.robowranglers148.com/uploads/1/0/5/4/10542658/engineering_design_process_for_robotics.pdf)
 - [1678 Citrus Circuits: CAD Principles (2023)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/cad_principles.pptx)
 
-#### Lynk Originals <br>
+#### LYNK Originals <br>
 - [LYNK: Design Constraints of Chain](https://docs.google.com/document/d/1m06TxMAqUlIHKjY84uFjRJwLsTOlEjOfFqxZBVQKsck/edit?usp=sharing)
 - [LYNK: Parts Coding System](https://docs.google.com/document/d/1AxjovjDQV9VLWG0vvZujM-4wMK7v6N10FWTSsmSrQFU/edit?usp=sharing)
-- [LYNK: Making Robust FRC Robots](https://docs.google.com/document/d/1Qt6DSVOIRh5dXyzQ9Q3VipjBpd12ozPSDN2LOaZLYqo/edit?usp=sharing)
+- [LYNK: Making Robust FRC Robots](https://docs.google.com/document/d/e/2PACX-1vS_UpCqebIRUp8TmaUhwL7Ll8pW2iueEaAdF6wlAdi2tUfCFfGlYbxXgiZbTP9C8IYhiBBpsX7N77PE/pub)
 
 
 <br>
