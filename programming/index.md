@@ -28,8 +28,8 @@
 - [Git in a Nutshell](https://www.educative.io/blog/git-github-tutorial-beginners)
 - [1678 Citrus Circuits: Git Review](https://docs.google.com/presentation/d/11VSVgyskoFqj9fJyMahV2fvA7MA4LKyNT3c97ogTOLU/edit?usp=sharing)
 - [3506 YETI Robotics: Git Good: What, Why, How](https://docs.google.com/presentation/d/1MfZXl4_UHsyy2wXtaxmeZesVP4wwgCQD_B1OFoLrOzI)
-- [4915 Spartronics Git Developer’s Handbook](https://spartronics4915.gitbook.io/developer-handbook/)
-- [6135 Git Presentation](https://docs.google.com/presentation/d/1u6U_jYswAvdTaLUHEQ-OCSHSVd32xVkV7TSDiXvAtFM/)
+- [4915 Spartronics: Git Developer’s Handbook](https://spartronics4915.gitbook.io/developer-handbook/)
+- [6135 Arctos: Git Presentation](https://docs.google.com/presentation/d/1u6U_jYswAvdTaLUHEQ-OCSHSVd32xVkV7TSDiXvAtFM/)
 - [GitHub Tutorials](https://try.github.io/)
 - [Git Tutorials](https://git-scm.com/docs/gittutorial)
 - [Atlassian’s Tutorials](https://www.atlassian.com/git/tutorials)
@@ -65,43 +65,43 @@
 ## Intermediate Programming
 
 ### Tutorials <br>
-- [694 Newbie-ed](https://github.com/StuyPulse/newbie-ed)
+- [694 StuyPulse: Newbie-ed](https://github.com/StuyPulse/newbie-ed)
 
 <br>
 
 ### Reading <br>
 
 #### Intro to FRC Programming <br>
-- [3847 Intro to Java Programming Slides](https://docs.google.com/presentation/d/1MxjAYEkdW9MVuQUSKM9xFdQ3vQl-1MXcdd2jdfOI_KY/edit#slide=id.p)
-- [3847 Overview of FRC Programming Slides](https://docs.google.com/presentation/d/e/2PACX-1vRC037jwjNSnJN47Sut_juVnw0Ds6HQF1Jrwlx2t-1F6xo2s3G6tx7XU7Q0-xzG7ihGxwnhlGDvChz6/pub?start=false&loop=false&delayms=3000&slide=id.p)
-- [3847 Programming Practices Slides](https://docs.google.com/presentation/d/1AM8HVvaWyb8HCFTLPVTEehJRqDwfTwjC0XqQcrS3sj4/edit#slide=id.p)
+- [3847 Spectrum: Intro to Java Programming Slides](https://docs.google.com/presentation/d/1MxjAYEkdW9MVuQUSKM9xFdQ3vQl-1MXcdd2jdfOI_KY/edit#slide=id.p)
+- [3847 Spectrum: Overview of FRC Programming Slides](https://docs.google.com/presentation/d/e/2PACX-1vRC037jwjNSnJN47Sut_juVnw0Ds6HQF1Jrwlx2t-1F6xo2s3G6tx7XU7Q0-xzG7ihGxwnhlGDvChz6/pub?start=false&loop=false&delayms=3000&slide=id.p)
+- [3847 Spectrum: Programming Practices Slides](https://docs.google.com/presentation/d/1AM8HVvaWyb8HCFTLPVTEehJRqDwfTwjC0XqQcrS3sj4/edit#slide=id.p)
 
 
 #### Control System <br>
 - [FRC Control System Setup Explained Todd](https://www.youtube.com/watch?v=ZbjsY8N0hZc)
-- [3847 Intro to FRC Control System Slides](https://docs.google.com/presentation/d/1U8EKEZv5Km__JKcN2SpE7tU8HjkMOnHZUupBr-Zo96M/edit#slide=id.p)
+- [3847 Spectrum: Intro to FRC Control System Slides](https://docs.google.com/presentation/d/1U8EKEZv5Km__JKcN2SpE7tU8HjkMOnHZUupBr-Zo96M/edit#slide=id.p)
 
 #### Motors <br>
-- [3847 Beginner Motors for FRC Slides](https://docs.google.com/presentation/d/e/2PACX-1vQx1bBy1RHAYv5y5O5y82e4a45j5DCRmNrwY-d_eOVz8wqks7ehSpiql-qweDWE0J3zzcqMG-5X805x/pub?start=false&loop=false&delayms=3000&slide=id.p)
+- [3847 Spectrum: Beginner Motors for FRC Slides](https://docs.google.com/presentation/d/e/2PACX-1vQx1bBy1RHAYv5y5O5y82e4a45j5DCRmNrwY-d_eOVz8wqks7ehSpiql-qweDWE0J3zzcqMG-5X805x/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 #### Subsystems and Commands <br>
-- [3847 Beginner Subsystems and Commands Slides](https://docs.google.com/presentation/d/e/2PACX-1vR-73OU1Q2f0C9cJMM9ZtX12QNSbEe2apapZbLYKaGS0XfJnP8J3QAU7D-1nZo5ITMpi3DTCwoR9Yh5/pub?start=false&loop=false&delayms=3000&slide=id.p)
+- [3847 Spectrum: Beginner Subsystems and Commands Slides](https://docs.google.com/presentation/d/e/2PACX-1vR-73OU1Q2f0C9cJMM9ZtX12QNSbEe2apapZbLYKaGS0XfJnP8J3QAU7D-1nZo5ITMpi3DTCwoR9Yh5/pub?start=false&loop=false&delayms=3000&slide=id.p)
 <br>
 
 ### Videos <br>
 
 #### Intro to FRC Programming <br>
-- [3847 Intro to Java Programming Video](https://www.youtube.com/watch?v=YWhJLJawGGU)
+- [3847 Spectrum: Intro to Java Programming Video](https://www.youtube.com/watch?v=YWhJLJawGGU)
 - [3847 Overview of FRC Programming Video](https://www.youtube.com/watch?v=Hv1FSYj8rrA)
 
 #### Control System <br>
-- [3847 Intro to FRC Control System Video](https://www.youtube.com/watch?v=XHx3JeTk0Qw)
+- [3847 Spectrum: Intro to FRC Control System Video](https://www.youtube.com/watch?v=XHx3JeTk0Qw)
 
 #### Motors <br>
-- [3847 Beginner Motors for FRC Video](https://www.youtube.com/watch?v=vWKKIhUcTzw)
+- [3847 Spectrum: Beginner Motors for FRC Video](https://www.youtube.com/watch?v=vWKKIhUcTzw)
 
 #### Subsystems and Commands <br>
-- [3847 Beginner Subsystems and Commands Video](https://www.youtube.com/watch?v=vbcuFFr4k40)
+- [3847 Spectrum: Beginner Subsystems and Commands Video](https://www.youtube.com/watch?v=vbcuFFr4k40)
 - [2059 The Hitchhikers](https://www.youtube.com/playlist?list=PL4GNHenJg9JD5xdRxByaZZEZP1PPajPeV)
 - [2168 Aluminum Falcons](https://www.youtube.com/playlist?list=PLUTJdMwEWueLJjRuvPU_CjCyMU2qd8Wys)
 - [5870 League of Logic](https://www.youtube.com/playlist?list=PLf-V-Ek_YwZWW4sQLzpEsekYJ9PxXRVCO)
@@ -115,7 +115,7 @@
 <br>
 
 ### Misc. Resources
-- [2056 Ways to code](https://www.youtube.com/live/z3a5_HKVQX4?si=V7xYp7PW1MDfExtc)
+- [2056 OP Robotics: Ways to code](https://www.youtube.com/live/z3a5_HKVQX4?si=V7xYp7PW1MDfExtc)
 <br>
 
 <br>
@@ -157,7 +157,7 @@
 #### Control Theory <br>
 - [Controls Engineering in the FIRST Robotics Competition: Graduate-level control theory for high schoolers](https://file.tavsys.net/control/controls-engineering-in-frc.pdf)
 - [Wesley Aptekar-Cassels: Intro to Control Theory Part 0: What's This?](https://blog.wesleyac.com/posts/intro-to-control-part-zero-whats-this)
-- [3847 Spectrum Beginner Control Loops](https://docs.google.com/presentation/d/1Z3H8fjxVSJSIoAv1C09J7CEWDGmV66ZCOXEI1wKS23w/edit?usp=sharing)
+- [3847 Spectrum: Beginner Control Loops](https://docs.google.com/presentation/d/1Z3H8fjxVSJSIoAv1C09J7CEWDGmV66ZCOXEI1wKS23w/edit?usp=sharing)
 - [Engineering Media - Control Theory - Brian Douglas](https://engineeringmedia.com/)
 
 #### PID <br>
