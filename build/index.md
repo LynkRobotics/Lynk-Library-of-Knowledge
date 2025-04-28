@@ -37,7 +37,7 @@
 
 <br>
 
-## Intermediate Buil
+## Intermediate Build
 
 <br>
 
