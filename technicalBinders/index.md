@@ -23,8 +23,19 @@
     - [2020](https://drive.google.com/file/d/1INk1DVitdiexaCTVkg-xLbaWt7e8K3p-/view?usp=sharing)
 - 694
     - [2020](https://drive.google.com/file/d/1GcxlfgL6K2pWPfCXCAo5thYQwZ_dOrmm/view?usp=sharing)
-- [772](./772/index.md)
-- [971](./971/index.md)
+- 772
+    - [2012](https://drive.google.com/file/d/1xXS-CoMRuCiyARaIZqNPrc2R7iM8nJdN/view?usp=sharing)
+- 971
+    - [2012](https://drive.google.com/file/d/1opFLN1U-qgWKK2OnmZrV5w0oSQ-W2D2f/view?usp=sharing)
+    - [2014](https://drive.google.com/file/d/17unOz-fcqX4Ix0iB6o8M9t_zFWJjyfeA/view?usp=sharing)
+    - [2015](https://drive.google.com/file/d/1rqMBdGVuPASvGUsE2eI5dt123DVlvAgo/view?usp=sharing)
+    - [2016](https://drive.google.com/file/d/16zf50-uT-iJHF9AMUGccRKSCSXCdNe0C/view?usp=sharing)
+    - [2017](https://drive.google.com/file/d/106hEVQdyMU10-VZkfhYnBOwKLIKHrFKz/view?usp=sharing)
+    - [2018](https://drive.google.com/file/d/1bkp-rmn_VgBB6_BwUv7-0Fd97q8WW7x1/view?usp=sharing)
+    - [2019](https://drive.google.com/file/d/1iFghQmQFzkJhek8MBOHqzS2MSuqtD8hs/view?usp=sharing)
+    - [2020](https://drive.google.com/file/d/1jLz3lgURBxx72Hr4x6j-cqAX01JnHwfF/view?usp=sharing)
+    - [2022](https://drive.google.com/file/d/1RrrDPh5zAsCcHDBvC_XfE8EIunZshhFn/view?usp=sharing)
+    - [2023](https://drive.google.com/file/d/1SVooWW59VqoaZ5ERzOfEHqEhOKEuqgCF/view?usp=sharing)
 - [972](./972/index.md)
 - [1114](./1114.md)
 - [1156](./1156.md)
