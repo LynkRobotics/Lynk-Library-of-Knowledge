@@ -36,7 +36,8 @@
     - [2020](https://drive.google.com/file/d/1jLz3lgURBxx72Hr4x6j-cqAX01JnHwfF/view?usp=sharing)
     - [2022](https://drive.google.com/file/d/1RrrDPh5zAsCcHDBvC_XfE8EIunZshhFn/view?usp=sharing)
     - [2023](https://drive.google.com/file/d/1SVooWW59VqoaZ5ERzOfEHqEhOKEuqgCF/view?usp=sharing)
-- [972](./972/index.md)
+- 972
+    - [2023](https://drive.google.com/file/d/1JROQZFrqn8ESC4aRMLRC3z5mUfp_bFMJ/view?usp=sharing)
 - [1114](./1114.md)
 - [1156](./1156.md)
 - [1218](./1218.md)
