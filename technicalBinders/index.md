@@ -48,7 +48,6 @@
     - [2017](https://drive.google.com/file/d/195kSi3znS1HAjncTAqj-ZrgzeysUcWQQ/view?usp=sharing)
     - [2018](https://drive.google.com/file/d/1BjfaCF8sW5w29-YW2dLS0nJr2zuRMEHr/view?usp=sharing)
     - [2019](https://drive.google.com/file/d/1pTMWBljM84nYhomTyYkPAA7bWjmVN99Y/view?usp=sharing)
-- [1218](./1218.md)
 - [1389](./1389/index.md)
 - [1902](./1902.md)
 - [2056](./2056.md)
