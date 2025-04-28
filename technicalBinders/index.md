@@ -1,5 +1,7 @@
 # Technical Binders <br>
 
+//TODO: Refactor the tech binder section
+
 - [33](./33/index.md)
 - [148](./148/index.md)
 - [226](./226/index.md)
@@ -26,6 +28,8 @@
 - [3647](./3647.md)
 - [3847](./3847.md)
 - [4152](./4152.md)
+- 5190
+    - [2019](https://drive.google.com/file/d/1R0t2XpW2zCq98T94wMRl2IdFFknCoKrw/view?usp=sharing)
 - [5511](./5511.md)
 - [5803](./5803.md)
 - [5940](./5940.md)
