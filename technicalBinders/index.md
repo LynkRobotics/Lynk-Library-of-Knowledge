@@ -21,7 +21,8 @@
 - 687
     - [2019](https://drive.google.com/file/d/19Eqe69t-mgrmzGWJMHLlbRFt2CS3knAU/view?usp=sharing)
     - [2020](https://drive.google.com/file/d/1INk1DVitdiexaCTVkg-xLbaWt7e8K3p-/view?usp=sharing)
-- [694](./694/index.md)
+- 694
+    - [2020](https://drive.google.com/file/d/1GcxlfgL6K2pWPfCXCAo5thYQwZ_dOrmm/view?usp=sharing)
 - [772](./772/index.md)
 - [971](./971/index.md)
 - [972](./972/index.md)
