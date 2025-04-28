@@ -2,7 +2,9 @@
 
 //TODO: Refactor the tech binder section
 
-- [33](./33/index.md)
+- 33
+    - [2011](https://drive.google.com/file/d/1PE02YW901C9w97xOq8_jhbuoP_E_xdth/view?usp=sharing)
+    - [2019](https://drive.google.com/file/d/1szdkn2zOfvJXRkuesYmv6-ySQe7WGtig/view?usp=sharing)
 - [148](./148/index.md)
 - [226](./226/index.md)
 - [254](./254/index.md)
