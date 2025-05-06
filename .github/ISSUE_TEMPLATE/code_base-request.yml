@@ -39,6 +39,9 @@ body:
         - 2021
         - 2022
         - 2023
+        - 2024
+        - 2025
+        - 2026
       multiple: false
     validations:
       required: true
@@ -71,3 +74,11 @@ body:
       options:
         - label: I have checked
           required: true
+  - type: input
+    id: cdUsername
+    attributes:
+      label: Chief Delphi Username
+      description: What is your Chief Delphi username? (if applicable)
+      placeholder: Jimmyy
+    validations:
+      required: false
