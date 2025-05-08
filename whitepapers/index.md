@@ -37,6 +37,7 @@
 <br>
 
 - [paper: FRC Robot Bumpers Guide](https://www.chiefdelphi.com/t/paper-frc-robot-bumpers-guide/163091)
+- [3005 RoboChargers: Custom Mold Process](https://drive.google.com/file/d/1s9c5bSXLpbdGGmRXb_vDTkwzPygOxfyI/view?usp=sharing)
 
 <br>
 
