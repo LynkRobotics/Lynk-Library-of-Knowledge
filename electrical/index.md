@@ -48,7 +48,7 @@
 
 #### Control System <br>
 - [Offical Control System Manual](https://docs.wpilib.org/en/latest/docs/hardware/hardware-basics/index.html)
-- [3847 Spectrum Intro to FRC Control System](https://docs.google.com/presentation/d/1U8EKEZv5Km__JKcN2SpE7tU8HjkMOnHZUupBr-Zo96M/edit#slide=id.p)
+- [3847 Spectrum: Intro to FRC Control System](https://docs.google.com/presentation/d/1U8EKEZv5Km__JKcN2SpE7tU8HjkMOnHZUupBr-Zo96M/edit#slide=id.p)
 
 #### Motors <br>
 - [3847 Spectrum Beginner Motors for FRC](https://docs.google.com/presentation/d/e/2PACX-1vQx1bBy1RHAYv5y5O5y82e4a45j5DCRmNrwY-d_eOVz8wqks7ehSpiql-qweDWE0J3zzcqMG-5X805x/pub?start=false&loop=false&delayms=3000&slide=id.p)
@@ -73,17 +73,17 @@
 ### Videos <br>
 
 #### Control System <br>
-- [3847 Spectrum Intro to FRC Control System](https://www.youtube.com/watch?v=XHx3JeTk0Qw)
-- [115 MVRT Control Systems](https://www.youtube.com/watch?v=HIt1lw9-kQg)
+- [3847 Spectrum: Intro to FRC Control System](https://www.youtube.com/watch?v=XHx3JeTk0Qw)
+- [115 MVRT: Control Systems](https://www.youtube.com/watch?v=HIt1lw9-kQg)
 
 #### Motors <br>
-- [3847 Spectrum Beginner Motors for FRC](https://www.youtube.com/watch?v=vWKKIhUcTzw)
+- [3847 Spectrum: Beginner Motors for FRC](https://www.youtube.com/watch?v=vWKKIhUcTzw)
 
 #### Diagnosing Electrical Issues <br>
 - [1678 Citrus Circuits: Diagnosing Electrical Issues](https://www.youtube.com/watch?v=RWB1ZjUCz0w)
 
 #### Battery <br>
-- [3847 Spectrum Battery Tutorial](https://youtu.be/MH9MQdLXEIE?si=7hCJ_gvxoRBIh5jn)
+- [3847 Spectrum: Battery Tutorial](https://youtu.be/MH9MQdLXEIE?si=7hCJ_gvxoRBIh5jn)
 
 <br>
 
@@ -100,7 +100,7 @@
 #### Pneumatics <br>
 - [FIRST® Robotics Competition Pneumatics Manual](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/technical-resources/frc_pneumatics_manual.pdf)
 - [3847 Spectrum Advanced Pneumatics Guide](https://docs.google.com/document/d/1rNLdCO9f27cHTKiJpNAOVxW79-M5pFQm7meleQlbIZQ/edit#heading=h.7o60uoauhoo3)
-- [3847 Spectrum Intro to Pneumatics](https://docs.google.com/presentation/d/1thkZCVNKfHDGw6_co2KAN7cajhKEGYDX1tCw2e6pwqM/edit#slide=id.p)
+- [3847 Spectrum: Intro to Pneumatics](https://docs.google.com/presentation/d/1thkZCVNKfHDGw6_co2KAN7cajhKEGYDX1tCw2e6pwqM/edit#slide=id.p)
 - [A Bunch Of Hot Air, Or: How To Kind Of Know What You’re Talking About In FRC Pneumatics](https://docs.google.com/document/d/10aEZaO04c5nDr1BbNrMd4oFdGLgB0jDwm_QNivSvYhs/edit#heading=h.4782j9s9j707)
 - [Team 358: Pneumatic Resource](https://www.team358.org/files/pneumatic/)
 
@@ -112,7 +112,7 @@
 ### Videos <br>
 
 #### Pneumatics <br>
-- [3847 Spectrum Intro to Pneumatics](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dh1q_Xr5gHMQ&sa=D&source=editors&ust=1697559654632645&usg=AOvVaw1gC0nvPRNJIf6pr98wfdC8)
+- [3847 Spectrum: Intro to Pneumatics](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Dh1q_Xr5gHMQ&sa=D&source=editors&ust=1697559654632645&usg=AOvVaw1gC0nvPRNJIf6pr98wfdC8)
 
 #### Soldering <br>
 - [Beginner's Guide to Soldering Electronics Part 1](https://www.youtube.com/watch?v=M2Jf8cebwCs)

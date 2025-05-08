@@ -9,15 +9,15 @@
 ### Reading <br>
 
 #### Basics <br>
-- [FRC Robot Basics Guide - RevRobotics](https://www.revrobotics.com/content/docs/FRC-Robot-Basics-Guide.pdf)
-- [3847 Spectrum Build Training](https://docs.google.com/document/d/e/2PACX-1vQk_ghFBN7682QI_17lbBCx8V_RXNomQRR7er-UIzlllsbdpO4RWOQAVnGFZAEypeNm2grS2G9oxFMp/pub)
-- [3847 Build Self Learning Resources](https://docs.google.com/presentation/d/e/2PACX-1vRaIkRvKioVmcl1P6vpddYPYC43QjaxsRZu6qavmp3lNpBcQ0noBf91Pv4N8DwSDgcxdfG2IoPqTNs7/pub?start=false&loop=false&delayms=3000&slide=id.p)
+- [REV Robotics: FRC Robot Basics Guide](https://www.revrobotics.com/content/docs/FRC-Robot-Basics-Guide.pdf)
+- [3847 Spectrum: Build Training](https://docs.google.com/document/d/e/2PACX-1vQk_ghFBN7682QI_17lbBCx8V_RXNomQRR7er-UIzlllsbdpO4RWOQAVnGFZAEypeNm2grS2G9oxFMp/pub)
+- [3847 Spectrum: Build Self Learning Resources](https://docs.google.com/presentation/d/e/2PACX-1vRaIkRvKioVmcl1P6vpddYPYC43QjaxsRZu6qavmp3lNpBcQ0noBf91Pv4N8DwSDgcxdfG2IoPqTNs7/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 #### Robot Maintenance <br>
-- [3847 Spectrum Robot Maintenance Guide](https://docs.google.com/document/d/1CvjUV53ifhAFf7fCFJdGgbg8yPtPixV1gRJVESSLZlo/edit#heading=h.m42ep9a2ths2)
+- [3847 Spectrum: Robot Maintenance Guide](https://docs.google.com/document/d/1CvjUV53ifhAFf7fCFJdGgbg8yPtPixV1gRJVESSLZlo/edit#heading=h.m42ep9a2ths2)
 
 #### Lynk Originals <br>
-- [LYNK: Making Robust FRC Robots](https://docs.google.com/document/d/1Qt6DSVOIRh5dXyzQ9Q3VipjBpd12ozPSDN2LOaZLYqo/edit?usp=sharing)
+- [9496 LYNK: Making Robust FRC Robots](https://docs.google.com/document/d/e/2PACX-1vS_UpCqebIRUp8TmaUhwL7Ll8pW2iueEaAdF6wlAdi2tUfCFfGlYbxXgiZbTP9C8IYhiBBpsX7N77PE/pub)
 
 #### Misc <br>
 - [Prototyping 101 - TCA](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/team-resources/tca/tca-prototyping.pdf)
@@ -29,7 +29,7 @@
 
 #### Robot Maintenance <br>
 - [Keeping your FRC Robot Reliable](https://www.youtube.com/watch?v=CbYOIJ6HX3A)
-- [2910 Between-Match Stuff: AKA Systems Check Yourself Before You Wreck Your Match](https://www.youtube.com/live/huB3j6bCxmc?si=sURDa2LJZ6pinrAV)
+- [2910 Jack in the Bot: Between-Match Stuff: AKA Systems Check Yourself Before You Wreck Your Match](https://www.youtube.com/live/huB3j6bCxmc?si=sURDa2LJZ6pinrAV)
 
 <br>
 
@@ -47,10 +47,10 @@
 - [Loctite: Threadlocking User’s Guide](https://www.ellsworth.com/globalassets/literature-library/manufacturer/henkel-loctite/henkel-loctite-user-guide-threadlocking.pdf)
 
 #### Bumpers <br>
-- [3847 Build a Bumper Corner](https://docs.google.com/presentation/d/e/2PACX-1vQPDMXJUIOujh_RAJJN_TbLKwHxAndGKZH29gJBilNJVhy4ldbWUeddlX8ZOVYTWcgpbWvMtem8vuW1/pub?start=false&loop=false&delayms=3000&slide=id.p)
+- [3847 Spectrum: Build a Bumper Corner](https://docs.google.com/presentation/d/e/2PACX-1vQPDMXJUIOujh_RAJJN_TbLKwHxAndGKZH29gJBilNJVhy4ldbWUeddlX8ZOVYTWcgpbWvMtem8vuW1/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 #### Maintenance <br>
-- [3847 Maintenance and Triage](https://docs.google.com/presentation/d/1m0f9urPvA5mDsYUIbJfKmZDw2Bal5va4vqTf4cG_kvM/edit#slide=id.p)
+- [3847 Spectrum: Maintenance and Triage](https://docs.google.com/presentation/d/1m0f9urPvA5mDsYUIbJfKmZDw2Bal5va4vqTf4cG_kvM/edit#slide=id.p)
 
 <br>
 
@@ -59,10 +59,10 @@
 #### Bumpers <br>
 - [How to build bumpers](https://www.youtube.com/watch?v=JN6JkBnvARo&list=PLbBZ-oKrRYEw7BPqCIbXKyx2CEwIw0FKK)
 - [How to Make FRC Bumpers - Tutorial](https://www.youtube.com/watch?v=Uny8tTLfOzc)
-- [3847 Build a Bumper Corner](https://www.youtube.com/watch?v=FzBe4kIvTy8)
+- [3847 Spectrum: Build a Bumper Corner](https://www.youtube.com/watch?v=FzBe4kIvTy8)
 
 #### Maintenance <br>
-- [3847 Maintenance and Triage](https://www.youtube.com/watch?v=TsYSL9athTk)
+- [3847 Spectrum: Maintenance and Triage](https://www.youtube.com/watch?v=TsYSL9athTk)
 
 #### Best Practices <br>
 - [Things You’re (Probably) Doing Wrong](https://youtu.be/L5LAWrXCrlU?si=D7G9lrEyEHVZ7FXg)
@@ -88,7 +88,6 @@
 
 ### Reading <br>
 
-#### Powdercoating <br>
 - [Snow Problem Powder Coating](https://drive.google.com/file/d/1tkvnYnH1gXw5S4DSMSlFH2DYaXuZE-QP/view?usp=sharing)
 - [3005 RoboChargers: Custom Mold Process](https://drive.google.com/file/d/1Z85T14EX1vQUD3HgTBzHVIqogOd7yEoj/view?usp=sharing)
 

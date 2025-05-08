@@ -16,7 +16,7 @@
 ### Reading <br>
 
 #### Java <br>
-- [3847 Spectrum Intro to Java Programming](https://docs.google.com/presentation/d/1MxjAYEkdW9MVuQUSKM9xFdQ3vQl-1MXcdd2jdfOI_KY/edit?usp=sharing)
+- [3847 Spectrum: Intro to Java Programming](https://docs.google.com/presentation/d/1MxjAYEkdW9MVuQUSKM9xFdQ3vQl-1MXcdd2jdfOI_KY/edit?usp=sharing)
 - [4946 Intro to Java](https://drive.google.com/file/d/1t27lMdlTeeCrOaorByj7n-3Fu4tQJktJ/view)
 - [Learn X in Y Minutes (Syntax Overview)](https://learnxinyminutes.com/docs/java/)
 - [Think Java](https://greenteapress.com/thinkjava6/thinkjava.pdf)
@@ -47,7 +47,7 @@
 - [Learn Java In 3 Hours](https://www.youtube.com/watch?v=_73sZ-BUZXI)
 - [Learn Java In 12 Hours](https://youtu.be/xk4_1vDrzzo)
 - [FreeCodeCamp: Intro to Object Oriented Programming](https://www.youtube.com/watch?v=SiBw7os-_zI)
-- [2813 Gear Heads Java Software Lessons](https://www.youtube.com/playlist?list=PLf-V-Ek_YwZWk92UYFl2Z2g9pFwwWmOZ2)
+- [2813 Gear Heads: Java Software Lessons](https://www.youtube.com/playlist?list=PLf-V-Ek_YwZWk92UYFl2Z2g9pFwwWmOZ2)
 - [7237 Unibots Java Basics](https://www.youtube.com/playlist?list=PLbyD6UONF3m7Tvp6mTluAtD8vSv2MeO8o)
 - [FreeCodeCamp: Intro to Java Programming Video](https://www.youtube.com/watch?v=GoXwIVyNvX0)
 - [FreeCodeCamp: Java 8 Full Tutorial for Beginners Video](https://www.youtube.com/watch?v=grEKMHGYyns)
