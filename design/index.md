@@ -130,6 +130,9 @@
 #### Materials and manufacturing <br>
 - [971 Spartan Robotics: Composites, Manufacturing, Adhesives, and Carbon Fiber](https://docs.google.com/presentation/d/1leRMnTPjGud6OEAMh4-sCzV-YJmiEVIKHcOu9oGGGU4/edit#slide=id.p)
 
+#### Belts <br>
+- [111 WildStang: Double Sided Belts Guide](https://drive.google.com/file/d/1iCcIplKyKmH3mq6pLSHMW3s4aZUhxdT7/view?usp=sharing)
+
 #### Design Philosophy <br>
 - [971 Spartan Robotics: Complexity Index and Design Philosophy](https://docs.google.com/presentation/d/1UfLXGLWhKuUhi6ElTa8IuqI1ZxyFkMHHFpn0fAHmhy4/edit#slide=id.p)
 
