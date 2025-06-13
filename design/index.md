@@ -61,6 +61,7 @@
 - [3847 Spectrum: Intakes](https://docs.google.com/presentation/d/1aaiL6AdaRcgBLhdx8ZyTZr-qONUvwQ3gqYcenH1h0VY/edit#slide=id.p)
 - [1678 Citrus Circuits: A Shooter Mechanism: From Concept to Competition](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/shooter_mechanism_from_concept_to_competition.pdf)
 - [971 Spartan Robotics: Mech Design for Controllability - Arm](https://docs.google.com/presentation/d/1QY8OnDXh7evzpJ_myEY0pgWgCc_m0wPksJ-Ev_Mn2_Y/edit#slide=id.p)
+- [3506 YETI Robotics: Elevator Design Guide](https://wiki.yetirobotics.org/books/design-process/page/elevator-design-guide)
 
 #### Engineering Drawings <br>
 - [3847 Spectrum: Understanding Engineering Drawings](https://docs.google.com/presentation/d/e/2PACX-1vSem3tgOC9RU2MZDlUcG63dWr3bkP0v4WdpYcP2Csp5CzON34-OxHoik1XQR6ER7oK0s9GmSVJXjmp_/pub?start=false&loop=false&delayms=3000#slide=id.p)
