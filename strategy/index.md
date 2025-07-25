@@ -7,26 +7,28 @@
 ### Reading <br>
 
 #### Overview of FRC Games <br>
-- [3847 Spectrum Overview of FRC Games](https://docs.google.com/presentation/d/e/2PACX-1vQgnQDo5wF8g1wZtlIzFYa3bvkPVU2jD60h9_UDFZTh3leDYgjO3k7AUpnHIFnpYRYEgP_eX_JNe8ew/pub?start=false&loop=false&delayms=3000&slide=id.p)
+- [3847 Spectrum: Overview of FRC Games](https://docs.google.com/presentation/d/e/2PACX-1vQgnQDo5wF8g1wZtlIzFYa3bvkPVU2jD60h9_UDFZTh3leDYgjO3k7AUpnHIFnpYRYEgP_eX_JNe8ew/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 #### Misc. <br>
-- [3847 Spectrum The Sauce](https://docs.google.com/presentation/d/1ds0-b_hzbc6l7c-GeNb7hqMawF7ZjPcb2eSuLVgDkA0/edit?usp=sharing)
+- [3847 Spectrum: The Sauce (2022)](https://docs.google.com/presentation/d/1ds0-b_hzbc6l7c-GeNb7hqMawF7ZjPcb2eSuLVgDkA0/edit?usp=sharing)
 
 <br>
 
 ### Videos <br>
 
 #### Effective FIRST Strategies <br>
-- [Effective FIRST Strategies with Karthik 2023](https://youtu.be/Y9B0Khob0Xk?si=_WmsMo3IoNrm2vtx)
+- [Effective FIRST Strategies with Karthik (2023)](https://youtu.be/Y9B0Khob0Xk?si=_WmsMo3IoNrm2vtx)
+- [Effective FIRST Strategies with Karthik (2024)](https://youtu.be/SWHCjtlhKTU?si=LI6rTWBa68Eufy-f)
+- [Effective FIRST Strategies with Karthik (2025)](https://youtu.be/cemXDEzBMhM?si=zqg45u9ly8-AugXm)
 
 #### Overview of FRC Games <br>
-- [3847 Spectrum Overview of FRC Games](https://www.youtube.com/watch?v=vXg0Ar4g2EE)
+- [3847 Spectrum: Overview of FRC Games](https://www.youtube.com/watch?v=vXg0Ar4g2EE)
 
 #### Compete Consistently <br>
-- [To Compete Consistently and Effectively - Logan Farrell](https://youtu.be/v5bzyUSzI2g?si=kkwklpgSYJXVKiJe)
+- [To Compete Consistently and Effectively - Logan Farrell (2015)](https://youtu.be/v5bzyUSzI2g?si=kkwklpgSYJXVKiJe)
 
 #### Misc. <br>
-- [3847 Spectrum The Sauce](https://youtu.be/OIWYjbQcudo?si=NwTN9QAURfghIrNW)
+- [3847 Spectrum: The Sauce (2022)](https://youtu.be/OIWYjbQcudo?si=NwTN9QAURfghIrNW)
 
 <br>
 
@@ -39,28 +41,36 @@
 ### Reading <br>
 
 #### Strategy Self Learning <br>
-- [3847 Strategy Self Learning Resources](https://docs.google.com/presentation/d/e/2PACX-1vSy-8s-4XXQzaCPwl0z96Vf6cmYHZW4wV-1cg-45YATyMupomRWASyu-JF91rE5oS8j0yKG82LyJ7BY/pub?start=false&loop=false&delayms=3000&slide=id.p)
+- [3847 Spectrum: Strategy Self Learning Resources](https://docs.google.com/presentation/d/e/2PACX-1vSy-8s-4XXQzaCPwl0z96Vf6cmYHZW4wV-1cg-45YATyMupomRWASyu-JF91rE5oS8j0yKG82LyJ7BY/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 #### Analyzing a Game <br>
-- [1678 Citrus Circuits: Analyzing a Game: The What's of Kickoff](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/analyzing_a_game.pdf)
+- [1678 Citrus Circuits: Analyzing a Game: The What's of Kickoff (2020)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/analyzing_a_game.pdf)
 - [1678 Citrus Circuits: Game Analysis and Scoring Systems (2023)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/game_analysis_2023.pptx)
 
 #### Strategic Design <br>
-- [1678 Citrus Circuits: Strategic Design](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/strategic_design_2022.pdf)
+- [1678 Citrus Circuits: Strategic Design (2024)](https://docs.google.com/presentation/d/18qbJhJ6-hx2gz-tjMruo3I8-wuYeUxg1/edit?usp=sharing&ouid=100903516598117064670&rtpof=true&sd=true)
+- [1678 Citrus Circuits: Strategic Design (2022)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/strategic_design_2022.pdf)
+
+#### Misc <br>
+- [1678 Citrus Circuits: Iterating a Design (2024)](https://docs.google.com/presentation/d/1fnVhOf85QCQjsjQyMxR9eEby6cOMoLUE/edit?usp=sharing&ouid=100903516598117064670&rtpof=true&sd=true)
 
 <br>
 
 ### Videos <br>
 
 #### Analyzing a Game <br>
-- [1678 Citrus Circuits: Analyzing a Game: The What's of Kickoff](https://www.youtube.com/watch?v=T8jixiVZDhQ)
+- [1678 Citrus Circuits: Analyzing a Game: The What's of Kickoff (2021)](https://www.youtube.com/watch?v=T8jixiVZDhQ)
 - [1678 Citrus Circuits: Game Analysis and Scoring Systems (2023)](https://youtu.be/EEF-r9oF0JY?si=yJOxVAxTXtku3ZOn)
 
 #### Strategic Design <br>
-- [1678 Citrus Circuits: Strategic Design](https://youtu.be/j-wOaF65cTU?si=pFEyX9pKhA1FJBdH)
+- [1678 Citrus Circuits: Strategic Design (2024)](https://youtu.be/G6X3SrMmX3g?si=jqIhHYQk15Bbe0eA)
+- [1678 Citrus Circuits: Strategic Design (2022)](https://youtu.be/j-wOaF65cTU?si=pFEyX9pKhA1FJBdH)
 
 #### Events <br>
 - [118 Robonauts: One Match at a Time: How the Robonauts Execute at Events](https://youtu.be/uiYgt37zIrQ?si=tfxeR-FwqUmSr9F8)
+
+#### Misc <br>
+- [1678 Citrus Circuits: Iterating a Design (2024)](https://youtu.be/6XsCSyjdJLI?si=WBsCdmqeqFDmLVfq)
 
 <br>
 
@@ -73,15 +83,15 @@
 ### Reading <br>
 
 #### Competition Strategy <br>
-- [971 Spartan Robotics: All Things Competition Strategy](https://docs.google.com/presentation/d/1h_4HaMfQ_7fuALeHwRHzb929M0ikSRarVLEpGqkRE3U/edit#slide=id.g118adf9f0f0_0_92)
-- [1678 Citrus Circuits: Field Strategy](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/field_strategy.pdf)
-- [1678 Citrus Circuits: Game Analysis and Scoring Systems](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/game_analysis_2022.pdf)
-- [1678 Citrus Circuits: Match Strategy](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/developing_alliance_match_strategy_2023.pptx)
+- [971 Spartan Robotics: All Things Competition Strategy (2023)](https://docs.google.com/presentation/d/1h_4HaMfQ_7fuALeHwRHzb929M0ikSRarVLEpGqkRE3U/edit#slide=id.g118adf9f0f0_0_92)
+- [1678 Citrus Circuits: Field Strategy (2020)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/field_strategy.pdf)
+- [1678 Citrus Circuits: Game Analysis and Scoring Systems (2022)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/game_analysis_2022.pdf)
+- [1678 Citrus Circuits: Match Strategy (2023)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/developing_alliance_match_strategy_2023.pptx)
 
 #### Alliances and Picking <br>
-- [1678 Citrus Circuits: Draft Night Tool: The Pick List](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/draft_night_tool__the_picklist-2022.pdf)
+- [1678 Citrus Circuits: Draft Night Tool: The Pick List (2022)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/draft_night_tool__the_picklist-2022.pdf)
 - [1678 Citrus Circuits: Draft Night Tool: The Picklist (2023)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/draft_night_tool__the_picklist-2023.pptx)
-- [1678 Citrus Circuits: Developing Alliance Match Strategy](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/developing_alliance_match_strategy_2022_.pdf)
+- [1678 Citrus Circuits: Developing Alliance Match Strategy (2022)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/developing_alliance_match_strategy_2022_.pdf)
 
 #### Drive Team Training <br>
 - [1678 Citrus Circuits: Methods for Driver Practice and Drive Team Training](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/draft_methods_for_driver_practice.pdf)
@@ -95,19 +105,19 @@
 ### Videos <br>
 
 #### Competition Strategy <br>
-- [971 Spartan Robotics: All Things Competition Strategy](https://www.youtube.com/watch?v=FG2VuWlTubg)
-- [1678 Citrus Circuits: Field Strategy](https://www.youtube.com/watch?v=l44rENzzjag)
-- [1678 Citrus Circuits: Game Analysis and Scoring Systems](https://www.youtube.com/watch?v=4sB_wzGxue0)
-- [1678 Citrus Circuits: Match Strategy](https://youtu.be/51A5MIflmz8?si=m51pgOey-RDwfaPf)
+- [971 Spartan Robotics: All Things Competition Strategy (2023)](https://www.youtube.com/watch?v=FG2VuWlTubg)
+- [1678 Citrus Circuits: Field Strategy (2020)](https://www.youtube.com/watch?v=l44rENzzjag)
+- [1678 Citrus Circuits: Game Analysis and Scoring Systems (2022)](https://www.youtube.com/watch?v=4sB_wzGxue0)
+- [1678 Citrus Circuits: Match Strategy (2023)](https://youtu.be/51A5MIflmz8?si=m51pgOey-RDwfaPf)
 
-#### Alliances and Picking
-- [1678 Citrus Circuits: Draft Night Tool: The Pick List](https://www.youtube.com/watch?v=R0hJnk5wxBw)
+#### Alliances and Picking <br>
+- [1678 Citrus Circuits: Draft Night Tool: The Pick List (2022)](https://www.youtube.com/watch?v=R0hJnk5wxBw)
 - [1678 Citrus Circuits: Draft Night Tool: The Picklist (2023)](https://youtu.be/XOhxHFxiFV8?si=JpDykqEjVSKzUiDE)
-- [1678 Citrus Circuits: Developing Alliance Match Strategy](https://www.youtube.com/watch?v=Pznkoozb7H0)
+- [1678 Citrus Circuits: Developing Alliance Match Strategy (2022)](https://www.youtube.com/watch?v=Pznkoozb7H0)
 
 #### Drive Team Training <br>
-- [1678 Citrus Circuits: Methods for Driver Practice and Drive Team Training](https://www.youtube.com/watch?v=GkQVJ10B97w)
-- [1678 Citrus Circuits: Effective Driver Training in FRC](https://youtu.be/EeAovf8hZEs?si=zOtx3mT6J5ERFp2F)
+- [1678 Citrus Circuits: Methods for Driver Practice and Drive Team Training (2020)](https://www.youtube.com/watch?v=GkQVJ10B97w)
+- [1678 Citrus Circuits: Effective Driver Training in FRC (2023)](https://youtu.be/EeAovf8hZEs?si=zOtx3mT6J5ERFp2F)
 
 #### The Season <br>
 - [971 Spartan Robotics: The Road to Regionals - Elements 971 uses to be competition ready](https://www.youtube.com/watch?v=Rb2zFXUJF3k)
