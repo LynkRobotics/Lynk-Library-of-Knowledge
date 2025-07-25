@@ -167,13 +167,13 @@ This is where whitepapers and such are held.
 
 |                       Name                       |                      Team                      | 
 | :----------------------------------------------: | :--------------------------------------------: | 
+| [Jimmy M. (Founder and maintainer)](https://github.com/witherslayer67) | [9496](https://www.thebluealliance.com/team/9496) |
 | [Bob B.](https://github.com/rjbell4) | [9496](https://www.thebluealliance.com/team/9496) | 
-| [Jimmy M.](https://github.com/witherslayer67) | [9496](https://www.thebluealliance.com/team/9496) |
 | [Joshua P.](https://www.chiefdelphi.com/u/shuki/summary) | [9496](https://www.thebluealliance.com/team/9496) | 
 | [Razi.ela P.](https://www.chiefdelphi.com/u/razi.ela/summary) | [9496](https://www.thebluealliance.com/team/9496) |
 | [Sam P.](https://www.chiefdelphi.com/u/themechanic40/summary) | [3506](https://www.thebluealliance.com/team/3506) | 
-| [cat_food_sounds](https://www.chiefdelphi.com/u/cat_food_sounds/summary) | [4290](https://www.thebluealliance.com/team/4290) / [10583](https://www.thebluealliance.com/team/10583)| 
-| | | 
+| [Dylan](https://www.chiefdelphi.com/u/cat_food_sounds/summary) | [4290](https://www.thebluealliance.com/team/4290) / [10583](https://www.thebluealliance.com/team/10583)| 
+| [Patrick](https://www.chiefdelphi.com/u/trashgoblin/summary) | [3506](https://www.thebluealliance.com/team/3506) | 
 | | |
 | | |
 
