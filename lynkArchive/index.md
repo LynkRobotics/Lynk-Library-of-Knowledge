@@ -36,7 +36,7 @@
 
 ### 2025 <br>
 
-<iframe width="1920" height="1080"
+<iframe width="1280" height="720"
 src="https://www.youtube.com/embed/bRo8s66DrNg?si=S5nbFWnBMqq92mzR">
 </iframe> 
 
