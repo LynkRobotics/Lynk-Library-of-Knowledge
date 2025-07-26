@@ -34,7 +34,12 @@
 
 ## Team Videos <br>
 
+
 ### 2025 <br>
+
+<iframe width="960" height="540"
+src="https://www.youtube.com/embed/Zc-zzDyEUIM?si=t4OWEzbBzAkHGc_J">
+</iframe> 
 
 <iframe width="960" height="540"
 src="https://www.youtube.com/embed/bRo8s66DrNg?si=S5nbFWnBMqq92mzR">
