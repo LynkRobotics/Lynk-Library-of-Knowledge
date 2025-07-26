@@ -34,6 +34,11 @@
 
 ## Team Videos <br>
 
+### 2024 <br>
+
+<iframe width="960" height="540"
+src="https://www.youtube.com/embed/64fZr-qzxLk?si=U1ceQsIsdy7V-cSq">
+</iframe> 
 
 ### 2025 <br>
 
@@ -44,4 +49,13 @@ src="https://www.youtube.com/embed/Zc-zzDyEUIM?si=vx1P_sSEXGk4DxPK">
 <iframe width="960" height="540"
 src="https://www.youtube.com/embed/bRo8s66DrNg?si=S5nbFWnBMqq92mzR">
 </iframe> 
+
+<iframe width="960" height="540"
+src="https://www.youtube.com/embed/9b3Wsjqmvu8?si=b3HeD1tWWqtrYLDz">
+</iframe> 
+
+<iframe width="960" height="540"
+src="https://www.youtube.com/embed/yVe3VjdTS2Q?si=taMgfbdL8nIl9m4i">
+</iframe> 
+
 
