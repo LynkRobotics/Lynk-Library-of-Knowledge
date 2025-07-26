@@ -44,12 +44,12 @@
 - [3847 Spectrum: Strategy Self Learning Resources](https://docs.google.com/presentation/d/e/2PACX-1vSy-8s-4XXQzaCPwl0z96Vf6cmYHZW4wV-1cg-45YATyMupomRWASyu-JF91rE5oS8j0yKG82LyJ7BY/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 #### Analyzing a Game <br>
-- [1678 Citrus Circuits: Analyzing a Game: The What's of Kickoff (2020)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/analyzing_a_game.pdf)
-- [1678 Citrus Circuits: Game Analysis and Scoring Systems (2023)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/game_analysis_2023.pptx)
+- [1678 Citrus Circuits: Analyzing a Game: The What's of Kickoff (2020)](https://drive.google.com/file/d/1GsiyOUk0R5jNNld_0xLQ_rlWWTZ6TIWv/view?usp=sharing)
+- [1678 Citrus Circuits: Game Analysis and Scoring Systems (2023)](https://drive.google.com/file/d/1qLIOXfOQ2Tzgo6OKLiydfpd1SHSizM4q/view?usp=sharing)
 
 #### Strategic Design <br>
 - [1678 Citrus Circuits: Strategic Design (2024)](https://docs.google.com/presentation/d/18qbJhJ6-hx2gz-tjMruo3I8-wuYeUxg1/edit?usp=sharing&ouid=100903516598117064670&rtpof=true&sd=true)
-- [1678 Citrus Circuits: Strategic Design (2022)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/strategic_design_2022.pdf)
+- [1678 Citrus Circuits: Strategic Design (2022)](https://drive.google.com/file/d/1wszFRQoe9ZevfMwkSx4UHQSKqsXGNFXG/view?usp=sharing)
 
 #### Misc <br>
 - [1678 Citrus Circuits: Iterating a Design (2024)](https://docs.google.com/presentation/d/1fnVhOf85QCQjsjQyMxR9eEby6cOMoLUE/edit?usp=sharing&ouid=100903516598117064670&rtpof=true&sd=true)
@@ -84,18 +84,18 @@
 
 #### Competition Strategy <br>
 - [971 Spartan Robotics: All Things Competition Strategy (2023)](https://docs.google.com/presentation/d/1h_4HaMfQ_7fuALeHwRHzb929M0ikSRarVLEpGqkRE3U/edit#slide=id.g118adf9f0f0_0_92)
-- [1678 Citrus Circuits: Field Strategy (2020)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/field_strategy.pdf)
-- [1678 Citrus Circuits: Game Analysis and Scoring Systems (2022)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/game_analysis_2022.pdf)
-- [1678 Citrus Circuits: Match Strategy (2023)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/developing_alliance_match_strategy_2023.pptx)
+- [1678 Citrus Circuits: Field Strategy (2020)](https://drive.google.com/file/d/18Vhlho3Bx2Wt7klbpWszsUzK4kO00i4N/view?usp=sharing)
+- [1678 Citrus Circuits: Game Analysis and Scoring Systems (2022)](https://drive.google.com/file/d/1_DylUowAshrODH3wIhgDncKeDFtfEBnr/view?usp=sharing)
+- [1678 Citrus Circuits: Developing Alliance Match Strategy (2023)](https://drive.google.com/file/d/1sq5nPpOCo5ajxHrb28AfR3ULQoA6PXX6/view?usp=sharing)
 
 #### Alliances and Picking <br>
-- [1678 Citrus Circuits: Draft Night Tool: The Pick List (2022)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/draft_night_tool__the_picklist-2022.pdf)
-- [1678 Citrus Circuits: Draft Night Tool: The Picklist (2023)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/draft_night_tool__the_picklist-2023.pptx)
-- [1678 Citrus Circuits: Developing Alliance Match Strategy (2022)](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/developing_alliance_match_strategy_2022_.pdf)
+- [1678 Citrus Circuits: Draft Night Tool: The Pick List (2022)](https://drive.google.com/file/d/1Urtwn6m2TfGCg7a3BTP031LCpCB8r4Rf/view?usp=sharing)
+- [1678 Citrus Circuits: Draft Night Tool: The Picklist (2023)](https://drive.google.com/file/d/1p6dcmerx_5z8u__z7COPM6szF6CnsObH/view?usp=sharing)
+- [1678 Citrus Circuits: Developing Alliance Match Strategy (2022)](https://drive.google.com/file/d/1_7Rx7yMYbDJ72LOR953qpjgGCSLvldn-/view?usp=sharing)
 
 #### Drive Team Training <br>
-- [1678 Citrus Circuits: Methods for Driver Practice and Drive Team Training](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/draft_methods_for_driver_practice.pdf)
-- [1678 Citrus Circuits: Effective Driver Training in FRC](https://www.citruscircuits.org/uploads/6/9/3/4/6934550/effective_driving.pptx)
+- [1678 Citrus Circuits: Methods for Driver Practice and Drive Team Training (2020)](https://drive.google.com/file/d/1XRTnvbICJlgbyp5ld4QfObzM0c1Q4g_C/view?usp=sharing)
+- [1678 Citrus Circuits: Effective Driver Training in FRC (2023)](https://docs.google.com/presentation/d/1181L-Xi8y6qvdqr7a3Vag5n97gHWn8hj/edit?usp=sharing&ouid=100903516598117064670&rtpof=true&sd=true)
 
 #### The Season <br>
 - [971 Spartan Robotics: The Road to Regionals - Elements 971 uses to be competition ready](https://docs.google.com/presentation/d/1UVfp36n63UtEpxWNKG3ixD8cxhz5tGB800SvCSev3vY/edit#slide=id.p)
