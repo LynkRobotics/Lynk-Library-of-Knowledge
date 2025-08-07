@@ -155,7 +155,8 @@
 - [WPILib Picking a Control Strategy](https://docs.wpilib.org/en/stable/docs/software/advanced-controls/introduction/picking-control-strategy.html)
 
 #### Control Theory <br>
-- [Controls Engineering in the FIRST Robotics Competition: Graduate-level control theory for high schoolers](https://file.tavsys.net/control/controls-engineering-in-frc.pdf)
+- [Controls Engineering in the FIRST Robotics Competition: Graduate-level control theory for high schoolers (PDF)](https://file.tavsys.net/control/controls-engineering-in-frc.pdf)
+- [Controls Engineering in the FIRST Robotics Competition: Graduate-level control theory for high schoolers (GitHub Repository)](https://github.com/calcmogul/controls-engineering-in-frc)
 - [Wesley Aptekar-Cassels: Intro to Control Theory Part 0: What's This?](https://blog.wesleyac.com/posts/intro-to-control-part-zero-whats-this)
 - [3847 Spectrum: Beginner Control Loops](https://docs.google.com/presentation/d/1Z3H8fjxVSJSIoAv1C09J7CEWDGmV66ZCOXEI1wKS23w/edit?usp=sharing)
 - [Engineering Media - Control Theory - Brian Douglas](https://engineeringmedia.com/)
