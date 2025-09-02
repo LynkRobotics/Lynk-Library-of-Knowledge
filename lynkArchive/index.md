@@ -29,7 +29,7 @@
 [![Static Badge](https://img.shields.io/badge/Instagram-instagram?style=for-the-badge&logo=instagram&logoColor=bf5700&labelColor=000000&color=bf5700)](https://www.instagram.com/lynkfrc/) <br>
 [![Static Badge](https://img.shields.io/badge/Github-github?style=for-the-badge&logo=github&logoColor=bf5700&labelColor=000000&color=bf5700)](https://github.com/LynkRobotics) <br>
 [![Static Badge](https://img.shields.io/badge/Youtube-youtube?style=for-the-badge&logo=youtube&logoColor=bf5700&labelColor=000000&color=bf5700)](https://www.youtube.com/@LynkFRC/) <br>
-[![Static Badge](https://img.shields.io/badge/Stats-LLK?style=for-the-badge&label=LLK&labelColor=000000&color=bf5700)](https://docs.lynkrobotics.org/lynkArchive/misc/llkStats.html) <br>
+<br>
 
 
 ## Team Videos <br>
