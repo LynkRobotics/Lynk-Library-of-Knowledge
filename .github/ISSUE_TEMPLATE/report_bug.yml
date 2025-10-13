@@ -1,0 +1,15 @@
+name: LLK Bug Report
+description: Bug Report Form for the LLK
+title: "[LLK Bug]: "
+labels: ["bug"]
+projects: ["LynkRobotics/1"]
+assignees:
+  - witherslayer67
+body:
+  - type: textarea
+    id: bug
+    attributes: 
+      label: Bug
+      description: "Describe what happened"
+    validations:
+      required: true
