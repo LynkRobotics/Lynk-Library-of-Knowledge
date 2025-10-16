@@ -66,6 +66,7 @@
 
 ### Tutorials <br>
 - [694 StuyPulse: Newbie-ed](https://github.com/StuyPulse/newbie-ed)
+- [8033 Highlander Robotics: Software Training](https://github.com/HighlanderRobotics/Highlanders-Training)
 
 <br>
 
