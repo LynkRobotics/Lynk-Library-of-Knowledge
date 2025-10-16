@@ -156,8 +156,11 @@
 - [What are PID gains and feed-forward gains?](https://www.motioncontroltips.com/faq-what-are-pid-gains-and-feed-forward-gains/)
 - [Wesley Aptekar-Cassels: Intro to Control Theory Part 5: Feed Forward and Motion Profiling](https://blog.wesleyac.com/posts/intro-to-control-part-five-feedforward-motion-profiling)
 
-#### Trapezoidal Motion
+#### Trapezoidal Motion <br>
 - [Trapezoidal Motion Profiles in WPILib](https://docs.wpilib.org/en/stable/docs/software/advanced-controls/controllers/trapezoidal-profiles.html)
+
+#### Tuning <br>
+- [3506 YETI Robotics: CANRange Tuning](https://wiki.yetirobotics.org/books/robot-software/page/tuning-a-canrange)
 
 <br>
 
