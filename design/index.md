@@ -212,7 +212,7 @@
 - [FRCDesign.org](https://www.frcdesign.org/)
 - [Recalc](https://www.reca.lc/)
 - [Spectrum Design Calculator](http://designsheet.spectrum3847.org/)
-- [ILITE Drivetrain Simulator](https://www.chiefdelphi.com/t/ilite-drivetrain-simulator-v2020/369188)
+- [ILITE Drivetrain Simulator](https://www.chiefdelphi.com/t/ilite-drivetrain-simulator-v2020/369188?u=jimmyy)
 
 <br>
 

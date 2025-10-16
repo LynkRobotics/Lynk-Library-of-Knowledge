@@ -11,7 +11,7 @@
 - [Paper: A State-Space Model for a Differential Swerve](https://www.chiefdelphi.com/t/paper-a-state-space-model-for-a-differential-swerve/396496?u=jimmyy)
 - [Paper: Vision Processing with Hardware Acceleration and DepthAI](https://www.chiefdelphi.com/t/paper-vision-processing-with-hardware-acceleration-and-depthai/420836?u=jimmyy)
 - [Paper: 4 wheel independent drive & independent steering (“swerve”)](https://www.chiefdelphi.com/t/paper-4-wheel-independent-drive-independent-steering-swerve/107383?u=jimmyy)
-- [paper: Driver Station Best Practices](https://www.chiefdelphi.com/t/paper-driver-station-best-practices/164429)
+- [paper: Driver Station Best Practices](https://www.chiefdelphi.com/t/paper-driver-station-best-practices/164429?u=jimmyy)
 - [449 The Blair Robot Project: Trapezoidal-Exponential Motion Profiling](https://www.chiefdelphi.com/t/whitepaper-trapezoidal-exponential-motion-profiling/443468?u=jimmyy)
 
 <br>
@@ -36,7 +36,7 @@
 
 <br>
 
-- [paper: FRC Robot Bumpers Guide](https://www.chiefdelphi.com/t/paper-frc-robot-bumpers-guide/163091)
+- [paper: FRC Robot Bumpers Guide](https://www.chiefdelphi.com/t/paper-frc-robot-bumpers-guide/163091?u=jimmyy)
 - [3005 RoboChargers: Custom Mold Process](https://drive.google.com/file/d/1s9c5bSXLpbdGGmRXb_vDTkwzPygOxfyI/view?usp=sharing)
 
 <br>
