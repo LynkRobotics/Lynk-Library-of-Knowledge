@@ -221,10 +221,7 @@
 <br>
 
 ## Misc <br>
-- [Design Strategy](https://docs.lynkrobotics.org/design/designWorkshops.html)
-- [Design Calculator](https://docs.lynkrobotics.org/design/designTools.html)
 - [FRC Design.org](https://www.frcdesign.org/)
-- [FRC Mechanisms](https://docs.lynkrobotics.org/design/frcMechanisms.html)
 - [CAD Files](https://docs.lynkrobotics.org/design/CAD/index.html)
 
 <br>
